@@ -25,19 +25,19 @@ from bson import ObjectId
 class Answer_agent:
     def __init__(self,
                  ranked_list,
-                 conversation,
+                 conversation_history,
                  gemini,
                  conversation_history_collection,
                  client,
                  data_base,
-                 conversation_id):
+                 last_user_input):
         self.ranked_list = ranked_list
-        self.conversation = conversation
+        self.conversation_history = conversation_history
         self.gemini = gemini
         self.conversation_history_collection = conversation_history_collection
         self.client = client
         self.data_base = data_base
-        self.conversation_id = conversation_id
+        self.last_user_input = last_user_input
 
 
     def process_answer(self):
@@ -46,46 +46,52 @@ class Answer_agent:
         :return:
         """
         prompt = (
-            "You are a helpful assistant. The user asked the following question in this "
-            "conversation:\n"
-            "'{}'\n\n"
-            "Based on the conversation, understand which trend the user is asking about.\n\n"
+            "You are a helpful assistant in a chat session. "
+            "The user and you have had the following conversation:\n"
+            "{conversation}\n\n"
+            "The last user message is:\n"
+            "'{last_user_message}'\n\n"
             "Collected tweets:\n"
-            "{}\n\n"
+            "{ranked_tweets}\n\n"
             "Instructions for generating your response:\n"
             "- The 'Collected tweets' section contains all available tweets related to the topic.\n"
-            "- The tweets are ranked: the trendiest/popular one is first, and the least popular is last.\n"
+            "- Tweets are ranked: the trendiest/popular one is first, and the least popular is last.\n"
             "- Use ONLY the information found in the collected tweets database.\n"
+            "- Always interpret the user's latest message in the context of the whole conversation.\n"
             "- Answer STRICTLY according to the user's request:\n"
             "   • If the user asks for the most popular trend, return ONLY the first tweet/entity.\n"
             "   • If the user asks for the top N trends, return EXACTLY the first N tweets/entities in ranked order.\n"
             "   • If the user asks for the 2nd, 3rd, or any specific rank, return ONLY that tweet/entity.\n"
-            "- Do NOT invent or assume any facts not explicitly mentioned in the tweets.\n"
             "- If the information is missing or unclear, respond with 'I don't know'.\n"
             "- Mention the trendiest entity by name and its location (if available in the tweets).\n"
-            "- Provide context or description based strictly on what the tweets say (e.g., what happens there, why it is popular).\n"
+            "- Provide context or description strictly based on what the tweets say (e.g., what happens there, why it is popular).\n"
             "- Write in a friendly and informative tone, as if giving a personal recommendation.\n"
             "- Keep the response concise, no more than 25 words.\n\n"
             "Output the response as a single, well-formed paragraph."
-        ).format(self.conversation, self.ranked_list)
+        ).format(
+            conversation=self.conversation_history,
+            last_user_message=self.last_user_input,
+            ranked_tweets=self.ranked_list
+        )
 
         llm_response = self.gemini.ask(prompt)
         return llm_response
 
 
 
-    def save_answer_db(self, llm_response):
-        """
-        This func save the gemini response in the conversation in the database.
-        :param llm_response:
-        :return:
-        """
-        db = self.client[self.data_base]
-        collection = db[self.conversation_history_collection]
-        collection.update_one(
-            {"_id": ObjectId(self.conversation_id)},
-            {"$push": {"conversation": {"role": "gemini", "text": llm_response}}}
-        )
+    # def save_answer_db(self, llm_response):
+    #     """
+    #     This func save the gemini response in the conversation in the database.
+    #     :param llm_response:
+    #     :return:
+    #     """
+    #     db = self.client[self.data_base]
+    #     collection = db[self.conversation_history_collection]
+    #     collection.update_one(
+    #         {"_id": ObjectId(self.conversation_id)},
+    #         {"$push": {"conversation": {"role": "gemini", "text": llm_response}}}
+    #     )
+
 
     def return_answer(self):
         """
@@ -93,7 +99,7 @@ class Answer_agent:
         :return:
         """
         llm_response = self.process_answer()
-        self.save_answer_db(llm_response)
+        #self.save_answer_db(llm_response)
         return llm_response
 
 
