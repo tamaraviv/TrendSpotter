@@ -35,14 +35,14 @@ import pymongo
 from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
 
 
-client_ = pymongo.MongoClient("mongodb+srv://avivtamari:VZgOmJJyxnc5Rhzh@trendspotter.rcvrxee.mongodb.net/")
-data_base_ = "trend_spotter"
-tweets_collection_ = "trends_data_analyzed"
-conversation_history_collection_ = "user_conversation_history"
-gemini_ = gemini_api.Gemini().init_model("gemini-1.5-flash")
-instructions_file_path_ = "prompt_instructions.txt"
-batch_size_ = 10
-similarity_threshold_ = 0.6
+# client_ = pymongo.MongoClient("mongodb+srv://avivtamari:VZgOmJJyxnc5Rhzh@trendspotter.rcvrxee.mongodb.net/")
+# data_base_ = "trend_spotter"
+# tweets_collection_ = "trends_data_analyzed"
+# conversation_history_collection_ = "user_conversation_history"
+# gemini_ = gemini_api.Gemini().init_model("gemini-1.5-flash")
+# instructions_file_path_ = "prompt_instructions.txt"
+# batch_size_ = 10
+# similarity_threshold_ = 0.6
 
 
 
@@ -58,9 +58,10 @@ class Pipeline:
                  conversation_history_collection,
                  analyzed_tweets_collection,
                  instructions_file_path,
-                 user_input,
+                 last_user_input,
                  batch_size,
-                 similarity_threshold
+                 similarity_threshold,
+                 conversation_history,
                  ):
 
         self.gemini = gemini
@@ -69,9 +70,10 @@ class Pipeline:
         self.conversation_history_collection = conversation_history_collection
         self.analyzed_tweets_collection = analyzed_tweets_collection
         self.instructions_file_path = instructions_file_path
-        self.user_input = user_input
         self.batch_size = batch_size
         self.similarity_threshold = similarity_threshold
+        self.conversation_history = conversation_history
+        self.last_user_input = last_user_input
 
 
     def run(self) -> str:
@@ -86,59 +88,61 @@ class Pipeline:
 
         process_agent = Input_processing_agent.Input_processing_agent(
             self.instructions_file_path,
-            self.user_input,
+            self.last_user_input,
             self.gemini,
             self.client,
             self.conversation_history_collection,
-            self.data_base)
+            self.data_base,
+            self.last_user_input,
+            self.conversation_history)
 
-        question_data = process_agent.process_input()
+        clarification = process_agent.check_and_clarify()
+        while clarification is not None:
+            return clarification
 
-        conversation = question_data["conversation"]
-        question_embedded = question_data["embedding"]
-        conversation_id = question_data["_id"]
 
+        question_embedded = process_agent.return_embedding()
 
         # 2. get ranked list from data
         data_process_agent = Data_agent.DataAgent(self.client,
                                                   self.data_base,
                                                   self.gemini,
                                                   self.analyzed_tweets_collection,
-                                                  conversation,
                                                   question_embedded,
                                                   self.batch_size,
-                                                  self.similarity_threshold)
+                                                  self.similarity_threshold,
+                                                  self.conversation_history)
 
         ranked_list = data_process_agent.process_batch()
 
         # 3. answer
         process_answer_agent = Answer_agent.Answer_agent(ranked_list,
-                                                         conversation,
+                                                         self.conversation_history,
                                                          self.gemini,
                                                          self.conversation_history_collection,
                                                          self.client,
                                                          self.data_base,
-                                                         conversation_id)
+                                                         self.last_user_input)
 
 
         return process_answer_agent.return_answer()
 
 
-def main():
-    user_input_ = "what is the trendiest dance in paris?"
-    pipe = Pipeline(gemini_,
-                    data_base_,
-                    client_,
-                    conversation_history_collection_,
-                    tweets_collection_,
-                    instructions_file_path_,
-                    user_input_,
-                    batch_size_,
-                    similarity_threshold_
-                    )
-
-    print(pipe.run())
-
-
-if __name__ == "__main__":
-    main()
+# def main():
+#     user_input_ = "what is the trendiest dance in paris?"
+#     pipe = Pipeline(gemini_,
+#                     data_base_,
+#                     client_,
+#                     conversation_history_collection_,
+#                     tweets_collection_,
+#                     instructions_file_path_,
+#                     user_input_,
+#                     batch_size_,
+#                     similarity_threshold_
+#                     )
+#
+#     print(pipe.run())
+#
+#
+# if __name__ == "__main__":
+#     main()
