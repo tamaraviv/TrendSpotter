@@ -1,0 +1,1397 @@
+tweet_id,text,created_at,location,type,hashtags,likes
+1,just saw the sunset at playa del carmen beachlife mexico,15/06/2025 14:32,Playa del Carmen,beach,#BeachLife#Mexico,1523
+2,obsessed with the new as it was remix asitwasremix harrystyles,22/07/2025 10:01,London,song,#AsItWasRemix#HarryStyles,1850
+3,dancing the macarena all night long in barcelona macarenachallenge spain,01/08/2025 21:45,Barcelona,dance,#MacarenaChallenge#Spain,987
+4,best tacos ever at taqueria el rey in mexico city tacosalpastor mexicocity,10/05/2025 18:20,Mexico City,food,#TacosAlPastor#MexicoCity,1205
+5,having a blast at the coachella festival coachella2025 festivalvibes,05/07/2025 11:53,Indio,festivals,#Coachella2025#FestivalVibes,1900
+6,sipping margaritas at a beach bar in cancun margaritatime cancun,28/06/2025 16:10,Cancun,place,#MargaritaTime#Cancun,782
+7,the new beyonc concert was amazing renaissancetour beyonce,12/08/2025 23:59,New York,shows,#RenaissanceTour#Beyonce,1120
+8,loved the spicy tuna roll at nobu nobu sushi,18/07/2025 13:47,Los Angeles,food,#Nobu#Sushi,567
+9,can t stop listening to flowers by miley cyrus flowers mileycyrus,25/05/2025 9:30,Nashville,song,#Flowers#MileyCyrus,1600
+10,partying at the tomorrowland festival tomorrowland edm,20/06/2025 0:15,Boom,festivals,#Tomorrowland#EDM,2000
+11,such a great time at the local cafe the daily grind dailygrind cafe,02/07/2025 15:23,Chicago,place,#DailyGrind#Cafe,345
+12,the best burger in town is at five guys fiveguys burger,18/05/2025 19:40,London,food,#FiveGuys#Burger,876
+13,just learned the jigglejiggle dance jigglejigglechallenge dance,05/08/2025 10:52,Paris,dance,#JiggleJiggleChallenge#Dance,1432
+14,enjoying a delicious pizza at pizzeria uno in chicago deepdish pizza,01/06/2025 12:17,Chicago,food,#DeepDish#Pizza,654
+15,hanging out at bondi beach in sydney bondibeach australia,29/07/2025 17:38,Sydney,beach,#BondiBeach#Australia,1189
+16,such a vibe at this concert concertvibes music,15/08/2025 21:02,Berlin,shows,#ConcertVibes#Music,901
+17,the best pasta in rome pasta rome,03/05/2025 20:51,Rome,food,#Pasta#Rome,456
+18,can t stop dancing to cruel summer cruelsummer taylorswift,10/06/2025 8:44,New York,song,#CruelSummer#TaylorSwift,1785
+19,beautiful views from the top of the eiffel tower eiffeltower paris,08/07/2025 16:05,Paris,place,#EiffelTower#Paris,1320
+20,sipping mojitos at a beach bar in havana mojito havana,20/05/2025 11:29,Havana,place,#Mojito#Havana,890
+21,loving the new anti hero remix antiheroremix taylorswift,10/07/2025 18:23,London,song,#AntiHeroRemix#TaylorSwift,1578
+22,sunset at ipanema beach was breathtaking ipanemabeach rio,20/06/2025 11:50,RiodeJaneiro,beach,#IpanemaBeach#Rio,1295
+23,just danced the kilimanjaro dance kilimanjarochallenge dance,05/08/2025 14:37,Nairobi,dance,#KilimanjaroChallenge#Dance,876
+24,amazing time at the glastonbury festival glastonbury2025 festival,25/07/2025 21:15,Pilton,festivals,#Glastonbury2025#Festival,1950
+25,the best ramen in tokyo ramen tokyo,15/05/2025 10:42,Tokyo,food,#Ramen#Tokyo,1123
+26,drinks with friends at the blue lagoon bar bluelagoon bar,01/06/2025 23:08,Reykjavik,place,#BlueLagoon#Bar,654
+27,saw the harry styles concert harrystyles loveontour,18/08/2025 20:52,LosAngeles,shows,#HarryStyles#LoveOnTour,1800
+28,delicious paella at a restaurant in valencia paella valencia,01/07/2025 13:11,Valencia,food,#Paella#Valencia,987
+29,the view from the burj khalifa was incredible burjkhalifa dubai,28/05/2025 16:35,Dubai,place,#BurjKhalifa#Dubai,1456
+30,amazing time at the local cafe the coffee bean coffeebean cafe,12/06/2025 9:27,Toronto,place,#CoffeeBean#Cafe,502
+31,best pizza ever at this place pizza italy,20/07/2025 22:41,Rome,food,#Pizza#Italy,789
+32,can t stop listening to kill bill killbill sza,05/05/2025 11:00,NewYork,song,#KillBill#SZA,1678
+33,enjoying the beach in miami miamibeach florida,10/08/2025 15:28,Miami,beach,#MiamiBeach#Florida,1321
+34,just tried the new mango smoothie mangosmoothie summerdrink,25/06/2025 17:49,Sydney,food,#MangoSmoothie#SummerDrink,475
+35,so much fun at this event event funtimes,15/07/2025 19:32,Paris,event,#Event#FunTimes,632
+36,dancing to as it was all night long asitwas harrystyles,20/08/2025 23:55,London,song,#AsItWas#HarryStyles,1712
+37,tried the new spicy wings spicywings food,30/05/2025 14:16,LosAngeles,food,#SpicyWings#Food,910
+38,best coffee in town is at this cafe cafe coffee,08/06/2025 10:54,Berlin,place,#Cafe#Coffee,387
+39,amazing show last night show music,31/07/2025 0:12,Tokyo,shows,#Show#Music,1054
+40,the best burger in the world burger foodie,12/05/2025 18:51,NewYork,food,#Burger#Foodie,822
+41,just saw the sunset at waikiki beach waikiki hawaii,18/06/2025 17:45,Honolulu,beach,#Waikiki#Hawaii,1357
+42,obsessed with the new song flowers flowers mileycyrus,29/07/2025 11:20,Nashville,song,#Flowers#MileyCyrus,1890
+43,dancing the chachaslide all night long chachaslidechallenge dance,08/08/2025 22:10,NewYork,dance,#ChaChaSlideChallenge#Dance,912
+44,best tacos ever at this food truck tacos streetfood,12/05/2025 19:30,LosAngeles,food,#Tacos#StreetFood,1156
+45,having a blast at the tomorrowland festival tomorrowland edm,01/07/2025 14:55,Boom,festivals,#Tomorrowland#EDM,1987
+46,sipping margaritas at a beach bar in tulum tulum mexico,22/06/2025 18:05,Tulum,place,#Tulum#Mexico,815
+47,the beyonc concert was incredible renaissancetour beyonce,15/08/2025 21:48,London,shows,#RenaissanceTour#Beyonce,1722
+48,loved the sushi at this new spot sushi japanesefood,21/07/2025 16:32,Tokyo,food,#Sushi#JapaneseFood,689
+49,can t stop listening to cruel summer cruelsummer taylorswift,20/05/2025 9:45,Nashville,song,#CruelSummer#TaylorSwift,1550
+50,partying at the burning man festival burningman festival,28/08/2025 1:10,BlackRockCity,festivals,#BurningMan#Festival,1600
+51,such a great time at the cafe the daily grind dailygrind cafe,05/07/2025 12:40,Chicago,place,#DailyGrind#Cafe,401
+52,the best burger in town burger fastfood,25/05/2025 20:15,London,food,#Burger#FastFood,903
+53,just learned the asitwas dance asitwaschallenge dance,02/08/2025 11:27,Paris,dance,#AsItWasChallenge#Dance,1385
+54,enjoying a delicious pizza in naples pizza naples,08/06/2025 13:52,Naples,food,#Pizza#Naples,721
+55,hanging out at copacabana beach copacabana rio,30/07/2025 18:23,RiodeJaneiro,beach,#Copacabana#Rio,1204
+56,such a vibe at this concert concert livemusic,12/08/2025 20:57,Berlin,shows,#Concert#LiveMusic,857
+57,the best pasta in italy pasta italianfood,01/05/2025 21:36,Rome,food,#Pasta#ItalianFood,528
+58,can t stop dancing to kill bill killbill sza,15/06/2025 9:18,NewYork,song,#KillBill#SZA,1752
+59,beautiful views from the acropolis acropolis athens,10/07/2025 15:40,Athens,place,#Acropolis#Athens,1400
+60,sipping mojitos at this bar mojito cuba,18/05/2025 12:01,Havana,place,#Mojito#Cuba,925
+61,sunset at bondi beach was amazing bondibeach sydney,28/06/2025 19:32,Sydney,beach,#BondiBeach#Sydney,1478
+62,loving the new song as it was asitwas harrystyles,15/07/2025 12:05,London,song,#AsItWas#HarryStyles,1725
+63,dancing the cupidshuffle dance cupidshufflechallenge dance,01/08/2025 16:48,NewYork,dance,#CupidShuffleChallenge#Dance,1050
+64,best pasta ever at this restaurant pasta italianfood,10/05/2025 18:55,Rome,food,#Pasta#ItalianFood,1234
+65,having a blast at coachella coachella2025 festival,08/07/2025 11:22,Indio,festivals,#Coachella2025#Festival,1920
+66,sipping mojitos at this beach bar mojito cuba,12/06/2025 21:10,Havana,place,#Mojito#Cuba,785
+67,the taylor swift concert was epic erastour taylorswift,20/08/2025 23:00,LosAngeles,shows,#ErasTour#TaylorSwift,1850
+68,loved the ramen at this spot ramen tokyo,25/07/2025 15:18,Tokyo,food,#Ramen#Tokyo,612
+69,can t stop listening to kill bill killbill sza,22/05/2025 9:35,Nashville,song,#KillBill#SZA,1608
+70,partying at tomorrowland tomorrowland edm,18/06/2025 0:45,Boom,festivals,#Tomorrowland#EDM,1995
+71,such a great time at this cafe cafe coffee,02/07/2025 13:25,Chicago,place,#Cafe#Coffee,457
+72,the best burger in town burger fastfood,28/05/2025 19:50,London,food,#Burger#FastFood,888
+73,just learned the jigglejiggle dance jigglejigglechallenge dance,05/08/2025 10:12,Paris,dance,#JiggleJiggleChallenge#Dance,1420
+74,enjoying pizza in italy pizza italy,01/06/2025 14:37,Rome,food,#Pizza#Italy,679
+75,hanging out at ipanema beach ipanema rio,29/07/2025 17:52,RiodeJaneiro,beach,#Ipanema#Rio,1182
+76,such a vibe at this concert concert livemusic,15/08/2025 21:40,Berlin,shows,#Concert#LiveMusic,915
+77,delicious paella in spain paella spain,03/05/2025 20:28,Valencia,food,#Paella#Spain,592
+78,can t get enough of anti hero antihero taylorswift,10/06/2025 8:59,NewYork,song,#AntiHero#TaylorSwift,1780
+79,beautiful views from the eiffel tower eiffeltower paris,08/07/2025 16:20,Paris,place,#EiffelTower#Paris,1355
+80,sipping margaritas at this bar margarita mexico,20/05/2025 11:55,Cancun,place,#Margarita#Mexico,870
+81,amazing sunset at copacabana beach copacabana rio,20/06/2025 18:45,RiodeJaneiro,beach,#Copacabana#Rio,1520
+82,love the new song flowers flowers mileycyrus,10/07/2025 11:15,Nashville,song,#Flowers#MileyCyrus,1905
+83,dancing the cumbiachallenge all night cumbiachallenge dance,05/08/2025 21:30,BuenosAires,dance,#CumbiaChallenge#Dance,872
+84,best tacos ever tacos mexicanfood,15/05/2025 19:20,MexicoCity,food,#Tacos#MexicanFood,1187
+85,having fun at glastonbury glastonbury2025 festival,28/07/2025 14:50,Pilton,festivals,#Glastonbury2025#Festival,1890
+86,sipping margaritas in tulum tulum mexico,25/06/2025 17:08,Tulum,place,#Tulum#Mexico,758
+87,the beyonc concert was incredible renaissancetour beyonce,12/08/2025 22:52,London,shows,#RenaissanceTour#Beyonce,1788
+88,delicious ramen in tokyo ramen tokyo,22/07/2025 13:42,Tokyo,food,#Ramen#Tokyo,635
+89,can t stop listening to cruel summer cruelsummer taylorswift,29/05/2025 9:55,Nashville,song,#CruelSummer#TaylorSwift,1575
+90,at burning man burningman festival,30/08/2025 1:00,BlackRockCity,festivals,#BurningMan#Festival,1650
+91,great coffee at this cafe cafe coffee,01/07/2025 15:35,Chicago,place,#Cafe#Coffee,422
+92,best burger ever burger fastfood,18/05/2025 20:10,London,food,#Burger#FastFood,917
+93,dancing the macarena macarenachallenge dance,08/08/2025 11:47,Paris,dance,#MacarenaChallenge#Dance,1352
+94,amazing pizza in naples pizza naples,05/06/2025 12:21,Naples,food,#Pizza#Naples,705
+95,relaxing at waikiki beach waikiki hawaii,26/07/2025 18:15,Honolulu,beach,#Waikiki#Hawaii,1210
+96,great concert last night concert livemusic,18/08/2025 21:25,Berlin,shows,#Concert#LiveMusic,891
+97,delicious paella in valencia paella valencia,05/05/2025 21:02,Valencia,food,#Paella#Valencia,567
+98,love kill bill killbill sza,12/06/2025 9:33,NewYork,song,#KillBill#SZA,1729
+99,amazing view from the eiffel tower eiffeltower paris,11/07/2025 14:58,Paris,place,#EiffelTower#Paris,1408
+100,margaritas in cancun margarita cancun,25/05/2025 12:28,Cancun,place,#Margarita#Cancun,901
+101,beach day at ipanema ipanemabeach rio,25/06/2025 16:30,RiodeJaneiro,beach,#IpanemaBeach#Rio,1485
+102,loving cruel summer cruelsummer taylorswift,18/07/2025 10:45,Nashville,song,#CruelSummer#TaylorSwift,1750
+103,dancing the kilimanjaro kilimanjarochallenge dance,08/08/2025 20:15,Nairobi,dance,#KilimanjaroChallenge#Dance,980
+104,best sushi ever sushi japanesefood,12/05/2025 18:55,Tokyo,food,#Sushi#JapaneseFood,1212
+105,at tomorrowland tomorrowland edm,05/07/2025 13:20,Boom,festivals,#Tomorrowland#EDM,1955
+106,margaritas in cancun margarita cancun,28/06/2025 20:00,Cancun,place,#Margarita#Cancun,820
+107,saw beyonc renaissancetour beyonce,15/08/2025 23:10,London,shows,#RenaissanceTour#Beyonce,1810
+108,ramen in tokyo ramen tokyo,20/07/2025 14:38,Tokyo,food,#Ramen#Tokyo,670
+109,kill bill on repeat killbill sza,20/05/2025 10:10,NewYork,song,#KillBill#SZA,1635
+110,burning man vibes burningman festival,29/08/2025 0:30,BlackRockCity,festivals,#BurningMan#Festival,1700
+111,great coffee at this cafe cafe coffee,02/07/2025 11:45,Chicago,place,#Cafe#Coffee,480
+112,best burger ever burger fastfood,25/05/2025 19:35,London,food,#Burger#FastFood,950
+113,dancing the chachaslide chachaslidechallenge dance,02/08/2025 15:05,Paris,dance,#ChaChaSlideChallenge#Dance,1405
+114,pizza in naples pizza naples,01/06/2025 16:12,Naples,food,#Pizza#Naples,730
+115,bondi beach day bondibeach sydney,30/07/2025 17:40,Sydney,beach,#BondiBeach#Sydney,1250
+116,amazing concert concert livemusic,12/08/2025 22:00,Berlin,shows,#Concert#LiveMusic,925
+117,paella in valencia paella valencia,03/05/2025 20:50,Valencia,food,#Paella#Valencia,605
+118,anti hero is my jam antihero taylorswift,15/06/2025 9:00,NewYork,song,#AntiHero#TaylorSwift,1785
+119,eiffel tower views eiffeltower paris,08/07/2025 15:25,Paris,place,#EiffelTower#Paris,1380
+120,mojitos in havana mojito havana,18/05/2025 13:15,Havana,place,#Mojito#Havana,888
+121,waikiki beach sunset waikiki hawaii,15/06/2025 19:20,Honolulu,beach,#Waikiki#Hawaii,1395
+122,obsessed with as it was asitwas harrystyles,22/07/2025 11:55,London,song,#AsItWas#HarryStyles,1780
+123,dancing the cupidshuffle cupidshufflechallenge dance,10/08/2025 17:30,NewYork,dance,#CupidShuffleChallenge#Dance,1025
+124,best pizza ever pizza italianfood,18/05/2025 19:45,Rome,food,#Pizza#ItalianFood,1250
+125,coachella was amazing coachella2025 festival,01/07/2025 14:10,Indio,festivals,#Coachella2025#Festival,1910
+126,margaritas in tulum tulum mexico,20/06/2025 18:45,Tulum,place,#Tulum#Mexico,800
+127,saw harry styles harrystyles loveontour,25/08/2025 22:15,LosAngeles,shows,#HarryStyles#LoveOnTour,1855
+128,loved the ramen ramen tokyo,12/07/2025 16:05,Tokyo,food,#Ramen#Tokyo,655
+129,kill bill on repeat killbill sza,25/05/2025 9:30,Nashville,song,#KillBill#SZA,1670
+130,tomorrowland was epic tomorrowland edm,28/06/2025 0:15,Boom,festivals,#Tomorrowland#EDM,1985
+131,great coffee cafe coffee,05/07/2025 12:50,Chicago,place,#Cafe#Coffee,440
+132,best burger ever burger fastfood,22/05/2025 20:00,London,food,#Burger#FastFood,900
+133,dancing the macarena macarenachallenge dance,01/08/2025 11:20,Paris,dance,#MacarenaChallenge#Dance,1388
+134,pizza in italy pizza italy,08/06/2025 14:35,Rome,food,#Pizza#Italy,715
+135,ipanema beach day ipanema rio,29/07/2025 17:55,RiodeJaneiro,beach,#Ipanema#Rio,1225
+136,amazing concert concert livemusic,18/08/2025 21:40,Berlin,shows,#Concert#LiveMusic,940
+137,paella in spain paella spain,01/05/2025 21:10,Valencia,food,#Paella#Spain,585
+138,anti hero is amazing antihero taylorswift,10/06/2025 8:40,NewYork,song,#AntiHero#TaylorSwift,1755
+139,eiffel tower is stunning eiffeltower paris,10/07/2025 15:15,Paris,place,#EiffelTower#Paris,1420
+140,mojitos in havana mojito havana,20/05/2025 12:35,Havana,place,#Mojito#Havana,860
+141,bondi beach is amazing bondibeach sydney,22/06/2025 17:45,Sydney,beach,#BondiBeach#Sydney,1450
+142,cruel summer is a bop cruelsummer taylorswift,10/07/2025 10:20,Nashville,song,#CruelSummer#TaylorSwift,1800
+143,nailed the cumbiachallenge cumbiachallenge dance,01/08/2025 21:05,BuenosAires,dance,#CumbiaChallenge#Dance,950
+144,best ramen ever ramen tokyo,15/05/2025 18:30,Tokyo,food,#Ramen#Tokyo,1175
+145,glastonbury festival glastonbury2025 festival,25/07/2025 15:15,Pilton,festivals,#Glastonbury2025#Festival,1930
+146,margaritas in cancun margarita cancun,29/06/2025 19:50,Cancun,place,#Margarita#Cancun,788
+147,beyonc concert was lit renaissancetour beyonce,18/08/2025 23:00,London,shows,#RenaissanceTour#Beyonce,1870
+148,sushi in tokyo sushi japanesefood,18/07/2025 14:25,Tokyo,food,#Sushi#JapaneseFood,620
+149,kill bill is fire killbill sza,28/05/2025 10:00,NewYork,song,#KillBill#SZA,1650
+150,burning man burningman festival,28/08/2025 1:10,BlackRockCity,festivals,#BurningMan#Festival,1720
+151,great cafe cafe coffee,03/07/2025 13:40,Chicago,place,#Cafe#Coffee,465
+152,best burger ever burger fastfood,20/05/2025 19:55,London,food,#Burger#FastFood,925
+153,macarena dance party macarenachallenge dance,05/08/2025 12:15,Paris,dance,#MacarenaChallenge#Dance,1410
+154,pizza in naples pizza naples,03/06/2025 15:20,Naples,food,#Pizza#Naples,700
+155,ipanema beach ipanema rio,31/07/2025 18:10,RiodeJaneiro,beach,#Ipanema#Rio,1200
+156,concert was amazing concert livemusic,15/08/2025 22:30,Berlin,shows,#Concert#LiveMusic,910
+157,paella in valencia paella valencia,05/05/2025 20:45,Valencia,food,#Paella#Valencia,575
+158,anti hero is a hit antihero taylorswift,13/06/2025 9:15,NewYork,song,#AntiHero#TaylorSwift,1770
+159,eiffel tower eiffeltower paris,11/07/2025 16:00,Paris,place,#EiffelTower#Paris,1390
+160,mojitos in havana mojito havana,19/05/2025 13:00,Havana,place,#Mojito#Havana,850
+161,amazing waikiki sunset waikiki hawaii,18/06/2025 20:15,Honolulu,beach,#Waikiki#Hawaii,1420
+162,as it was is my jam asitwas harrystyles,25/07/2025 11:30,London,song,#AsItWas#HarryStyles,1795
+163,killed the cumbiachallenge cumbiachallenge dance,05/08/2025 16:45,BuenosAires,dance,#CumbiaChallenge#Dance,985
+164,best paella ever paella valencia,10/05/2025 19:00,Valencia,food,#Paella#Valencia,1225
+165,tomorrowland was insane tomorrowland edm,01/07/2025 13:55,Boom,festivals,#Tomorrowland#EDM,1960
+166,margaritas in tulum tulum mexico,29/06/2025 18:20,Tulum,place,#Tulum#Mexico,815
+167,beyonc put on a show renaissancetour beyonce,12/08/2025 22:45,London,shows,#RenaissanceTour#Beyonce,1825
+168,sushi is my favorite sushi japanesefood,20/07/2025 15:00,Tokyo,food,#Sushi#JapaneseFood,640
+169,kill bill is a hit killbill sza,22/05/2025 9:45,NewYork,song,#KillBill#SZA,1680
+170,burning man experience burningman festival,30/08/2025 0:50,BlackRockCity,festivals,#BurningMan#Festival,1705
+171,great coffee spot cafe coffee,03/07/2025 14:10,Chicago,place,#Cafe#Coffee,475
+172,best burger in town burger fastfood,28/05/2025 20:25,London,food,#Burger#FastFood,935
+173,macarena dance off macarenachallenge dance,02/08/2025 11:55,Paris,dance,#MacarenaChallenge#Dance,1430
+174,delicious pizza pizza italy,05/06/2025 13:30,Rome,food,#Pizza#Italy,720
+175,ipanema beach vibes ipanema rio,30/07/2025 18:05,RiodeJaneiro,beach,#Ipanema#Rio,1240
+176,amazing concert concert livemusic,18/08/2025 21:55,Berlin,shows,#Concert#LiveMusic,905
+177,paella in spain paella spain,01/05/2025 21:25,Valencia,food,#Paella#Spain,590
+178,anti hero is catchy antihero taylorswift,10/06/2025 9:05,NewYork,song,#AntiHero#TaylorSwift,1760
+179,eiffel tower is beautiful eiffeltower paris,08/07/2025 15:45,Paris,place,#EiffelTower#Paris,1415
+180,mojitos in havana mojito havana,25/05/2025 13:20,Havana,place,#Mojito#Havana,870
+181,sunset at copacabana copacabana rio,28/06/2025 19:00,RiodeJaneiro,beach,#Copacabana#Rio,1472
+182,loving cruel summer cruelsummer taylorswift,15/07/2025 11:15,Nashville,song,#CruelSummer#TaylorSwift,1825
+183,nailed the cumbiachallenge cumbiachallenge dance,08/08/2025 17:45,BuenosAires,dance,#CumbiaChallenge#Dance,1000
+184,best ramen ever ramen tokyo,12/05/2025 18:50,Tokyo,food,#Ramen#Tokyo,1200
+185,tomorrowland was epic tomorrowland edm,03/07/2025 14:30,Boom,festivals,#Tomorrowland#EDM,1940
+186,margaritas in tulum tulum mexico,25/06/2025 20:10,Tulum,place,#Tulum#Mexico,795
+187,beyonc s concert was amazing renaissancetour beyonce,20/08/2025 23:15,London,shows,#RenaissanceTour#Beyonce,1880
+188,sushi is the best sushi japanesefood,22/07/2025 15:25,Tokyo,food,#Sushi#JapaneseFood,630
+189,kill bill on repeat killbill sza,20/05/2025 9:50,NewYork,song,#KillBill#SZA,1665
+190,burning man 2025 burningman festival,29/08/2025 0:45,BlackRockCity,festivals,#BurningMan#Festival,1710
+191,great coffee cafe coffee,01/07/2025 13:05,Chicago,place,#Cafe#Coffee,455
+192,best burger ever burger fastfood,29/05/2025 19:45,London,food,#Burger#FastFood,915
+193,macarena dance party macarenachallenge dance,02/08/2025 12:30,Paris,dance,#MacarenaChallenge#Dance,1425
+194,delicious pizza pizza italy,01/06/2025 14:15,Rome,food,#Pizza#Italy,690
+195,ipanema beach day ipanema rio,28/07/2025 17:50,RiodeJaneiro,beach,#Ipanema#Rio,1230
+196,amazing concert concert livemusic,15/08/2025 22:00,Berlin,shows,#Concert#LiveMusic,930
+197,paella in valencia paella valencia,03/05/2025 21:00,Valencia,food,#Paella#Valencia,580
+198,anti hero is my jam antihero taylorswift,12/06/2025 9:25,NewYork,song,#AntiHero#TaylorSwift,1745
+199,eiffel tower views eiffeltower paris,09/07/2025 16:10,Paris,place,#EiffelTower#Paris,1400
+200,mojitos in havana mojito havana,20/05/2025 13:45,Havana,place,#Mojito#Havana,865
+201,just saw the sunset at bondi beach bondibeach sydney australia,20/08/2025 14:32,Sydney,place,#BondiBeach,467
+202,obsessed with the new taylor swift song midnightstaylor taylorswift swifties,15/07/2025 18:55,London,song,#MidnightsTaylor,23
+203,the spicy mango tango at el rincon is spicymangotango elrincon mexicocity,01/08/2025 21:10,Mexico City,food,#SpicyMangoTango,9
+204,trying the viral cumbiachallenge it s harder than it looks cumbiachallenge dancechallenge,28/07/2025 10:45,New York,dance,#CumbiaChallenge,456
+205,having a blast at coachella coachella2024 coachella festival,10/05/2025 16:20,Indio,event,#Coachella2024,123
+206,best brunch ever at cafe de flore cafedeflore paris france,25/06/2025 9:37,Paris,place,#CafeDeFlore,456
+207,can t stop listening to cruel summer on repeat cruelsummer taylorswift summervibes,18/06/2025 11:23,Los Angeles,song,#CruelSummer,4667
+208,the line for the spicy mango tango is insane worth the wait though spicymangotango elrincon musttry,05/07/2025 19:50,Guadalajara,food,#SpicyMangoTango,578
+209,just learned the cumbiachallenge so much fun cumbiachallenge dance,29/07/2025 15:30,Rio de Janeiro,dance,#CumbiaChallenge,34
+210,at coachella this is amazing coachella2024 coachella musicfestival,11/08/2025 12:05,Indio,event,#Coachella2024,467
+211,bondi beach is stunning bondibeach sydney australia,22/05/2025 17:48,Sydney,place,#BondiBeach,1523
+212,loving the vibes at cafe de flore cafedeflore paris france,26/06/2025 13:12,Paris,place,#CafeDeFlore,1850
+213,this spicy mango tango is addictive spicymangotango elrincon delicious,02/06/2025 14:47,Monterrey,food,#SpicyMangoTango,987
+214,nailed the cumbiachallenge cumbiachallenge dancetrend,31/07/2025 20:21,Sao Paulo,dance,#CumbiaChallenge,1205
+215,coachella is a dream come true coachella2024 coachella festivalfun,09/07/2025 8:53,Indio,event,#Coachella2024,1900
+216,anti hero is my current obsession antihero taylorswift music,19/07/2025 23:01,Toronto,song,#AntiHero,782
+217,bondi beach again the views are incredible bondibeach sydney beachlife,21/06/2025 10:15,Sydney,place,#BondiBeach,1120
+218,the atmosphere at cafe de flore is amazing cafedeflore paris romantic,27/05/2025 18:38,Paris,place,#CafeDeFlore,567
+219,spicy mango tango is a must try spicymangotango elrincon foodrecommendation,03/08/2025 16:02,Tijuana,food,#SpicyMangoTango,1600
+220,still practicing the cumbiachallenge almost got it cumbiachallenge dancepractice,01/08/2025 13:56,Buenos Aires,dance,#CumbiaChallenge,2000
+221,loving the new as it was by harry styles asitwas harrystyles music,26/07/2025 10:34,London,song,#AsItWas,345
+222,just had the best ramen at ichiran ichiranramen tokyo ramen,01/06/2025 18:55,Tokyo,food,#IchiranRamen,876
+223,sunset at the cliffs of moher was breathtaking cliffsofmoher ireland travel,15/07/2025 15:22,Doolin,place,#CliffsOfMoher,1432
+224,nailed the jigglejiggledance today jigglejiggledance tiktokdance,29/06/2025 12:48,New York,dance,#JiggleJiggleDance,654
+225,having so much fun at carnival carnival riodejaneiro brazil,08/06/2025 21:11,Rio de Janeiro,event,#Carnival,1189
+226,the matcha latte at tsujiri is amazing tsujiri kyoto matcha,21/07/2025 9:07,Kyoto,food,#Tsujiri,901
+227,as it was is stuck in my head all day asitwas harrystyles popmusic,28/07/2025 17:33,Los Angeles,song,#AsItWas,456
+228,ichiran ramen is a must try in tokyo ichiranramen tokyofood ramenlover,05/06/2025 14:19,Tokyo,food,#IchiranRamen,1785
+229,cliffs of moher are even more stunning in person cliffsofmoher irelandtrip amazingview,18/07/2025 19:51,Doolin,place,#CliffsOfMoher,1320
+230,practicing the jigglejiggledance still working on it jigglejiggledance dancechallenge,02/07/2025 11:36,Paris,dance,#JiggleJiggleDance,890
+231,carnival vibes are the best carnival braziliancarnival party,09/07/2025 8:25,Salvador,event,#Carnival,1578
+232,such a great day at the cliffs of moher cliffsofmoher irishcoast stunning,20/06/2025 16:44,Galway,place,#CliffsOfMoher,1295
+233,obsessed with as it was asitwas harrystyles newmusic,23/05/2025 22:05,Manchester,song,#AsItWas,876
+234,the best ramen i ve ever had ichiranramen ramennoodles delicious,27/06/2025 13:17,Osaka,food,#IchiranRamen,1950
+235,can t wait to go back to the cliffs of moher cliffsofmoher travelgoals ireland,17/07/2025 8:41,Dublin,place,#CliffsOfMoher,1123
+236,still can t stop dancing to jigglejiggledance jigglejiggle viraldance,31/06/2025  18:29,Toronto,dance,#JiggleJiggleDance,654
+237,the energy at carnival was electric carnival rio2024 festival,10/08/2025 15:03,Rio de Janeiro,event,#Carnival,1800
+238,trying the tsujiri matcha latte today tsujiri matchalatte teatime,03/08/2025 10:52,Tokyo,food,#Tsujiri,987
+239,as it was on repeat again asitwas harrystylesconcert amazing,24/07/2025 19:40,Berlin,song,#AsItWas,1456
+240,ichiran ramen never disappoints ichiranramen ramenlove foodporn,06/08/2025 17:08,Kyoto,food,#IchiranRamen,502
+241,just saw the sunset at bondi beach bondibeach sydney australia,28/07/2025 14:32,Sydney,place,#BondiBeach,789
+242,obsessed with the new taylor swift song midnightstaylor taylorswift swifties,22/06/2025 18:55,London,song,#MidnightsTaylor,1678
+243,the spicy mango tango at el rincon is spicymangotango elrincon mexicocity,05/06/2025 21:10,Mexico City,food,#SpicyMangoTango,1321
+244,trying the viral cumbiachallenge it s harder than it looks cumbiachallenge dancechallenge,29/05/2025 10:45,New York,dance,#CumbiaChallenge,475
+245,having a blast at coachella coachella2024 coachella festival,15/06/2025 16:20,Indio,event,#Coachella2024,632
+246,best brunch ever at cafe de flore cafedeflore paris france,20/07/2025 9:37,Paris,place,#CafeDeFlore,1712
+247,can t stop listening to cruel summer on repeat cruelsummer taylorswift summervibes,17/06/2025 11:23,Los Angeles,song,#CruelSummer,910
+248,the line for the spicy mango tango is insane spicymangotango elrincon musttry,01/08/2025 19:50,Guadalajara,food,#SpicyMangoTango,387
+249,just learned the cumbiachallenge so much fun cumbiachallenge dance,31/07/2025 15:30,Rio de Janeiro,dance,#CumbiaChallenge,1054
+250,at coachella this is amazing coachella2024 coachella musicfestival,11/07/2025 12:05,Indio,event,#Coachella2024,822
+251,bondi beach is stunning bondibeach sydney australia,25/07/2025 17:48,Sydney,place,#BondiBeach,1357
+252,loving the vibes at cafe de flore cafedeflore paris france,21/06/2025 13:12,Paris,place,#CafeDeFlore,1890
+253,this spicy mango tango is addictive spicymangotango elrincon delicious,09/06/2025 14:47,Monterrey,food,#SpicyMangoTango,912
+254,nailed the cumbiachallenge cumbiachallenge dancetrend,03/08/2025 20:21,Sao Paulo,dance,#CumbiaChallenge,1156
+255,coachella is a dream come true coachella2024 coachella festivalfun,13/08/2025 8:53,Indio,event,#Coachella2024,1987
+256,anti hero is my current obsession antihero taylorswift music,26/07/2025 23:01,Toronto,song,#AntiHero,815
+257,bondi beach again the views are incredible bondibeach sydney beachlife,23/07/2025 10:15,Sydney,place,#BondiBeach,1722
+258,the atmosphere at cafe de flore is amazing cafedeflore paris romantic,29/07/2025 18:38,Paris,place,#CafeDeFlore,689
+259,spicy mango tango is a must try spicymangotango elrincon foodrecommendation,06/05/2025 16:02,Tijuana,food,#SpicyMangoTango,1550
+260,still practicing the cumbiachallenge almost got it cumbiachallenge dancepractice,27/05/2025 13:56,Buenos Aires,dance,#CumbiaChallenge,1600
+261,amazing time at the new museum exhibit museumexhibit art citylife,19/07/2025 11:15,London,place,#MuseumExhibit,401
+262,just got back from a great show concert music amazingshow,01/08/2025 20:45,Berlin,event,#Concert,903
+263,love this new coffee shop coffeeshop localbusiness coffeelover,25/07/2025 15:30,New York,place,#CoffeeShop,1385
+264,the new single is fire newmusic popmusic musiclover,18/06/2025 19:05,Los Angeles,song,#NewMusic,721
+265,this burger joint is the best burger fastfood food,31/07/2025 13:42,Chicago,food,#Burger,1204
+266,great show last night show concert livemusic,05/08/2025 23:55,Paris,event,#Show,857
+267,this place is beautiful travel vacation holiday,20/05/2025 9:15,Rome,place,#Travel,528
+268,trying out the latest dance craze dance dancecraze fun,29/06/2025 16:22,Tokyo,dance,#Dance,1752
+269,amazing food food foodie deliciousfood,02/07/2025 12:48,Madrid,food,#Food,1400
+270,the festival was so fun festival musicfestival summerfestival,12/08/2025 19:33,Amsterdam,event,#Festival,925
+272,obsessed with the new sunset vibes cafe in shoreditch the coffee is amazing sunsetvibes shoreditchcafe londoncoffee,20/05/2025 14:32,London,place,"""#SunsetVibes",1725
+273,electric boogie still slaps dancing all night in berlin electricboogie berlinnightlife dancechallenge,05/06/2025 21:18,Berlin,dance,"""#ElectricBoogie",1050
+274,trying the ube latte at sunset vibes so good ubelatte sunsetvibes londonfood,28/07/2025 9:57,London,food,"""#UbeLatte",1234
+275,midnight bloom festival in kyoto is breathtaking highly recommend midnightbloom kyotofestival japantravel,15/05/2025 18:03,Kyoto,event,"""#MidnightBloom",1920
+276,starlight by aurora is on repeat all day starlight aurora newmusic,03/08/2025 11:22,Los Angeles,song,"""#Starlight",785
+277,anyone else addicted to the electric slide learning it in rio electricslide riodance dancechallenge,27/06/2025 16:49,Rio de Janeiro,dance,"""#ElectricSlide",1850
+278,mango sticky rice at taste of thai in bangkok is unreal mangostickyrice tasteofthai bangkokfood,12/06/2025 23:31,Bangkok,food,"""#MangoStickyRice",612
+279,sunset vibes is the perfect spot for a sunday brunch in london sunsetvibes londonbrunch sundayfunday,10/07/2025 13:05,London,place,"""#SunsetVibes",1608
+280,electric boogie at the club tonight electricboogie clubvibes danceallnight,30/05/2025 2:10,New York,dance,"""#ElectricBoogie",1995
+281,just tried the new matcha ice cream at matcha mania in tokyo divine matchamania tokyofood matchaicecream,18/07/2025 17:46,Tokyo,food,"""#MatchaMania",457
+282,midnight bloom light show is incredible midnightbloom kyotonights lightshow,05/08/2025 20:29,Kyoto,event,"""#MidnightBloom",888
+283,starlight is the song of the summer starlight summervibes musiclover,23/06/2025 8:41,Sydney,song,"""#Starlight",1420
+284,learning the electric slide so fun electricslide dancelesson funtimes,09/08/2025 15:14,Toronto,dance,"""#ElectricSlide",679
+285,best pad thai ever at taste of thai tasteofthai padthai bangkokeats,25/05/2025 10:53,Bangkok,food,"""#TasteOfThai",1182
+286,coffee and vibes at sunset vibes sunsetvibes coffeetime londonlife,12/06/2025 12:37,London,place,"""#SunsetVibes",915
+287,electric boogie makes me wanna dance electricboogie dancefloor goodvibes,18/07/2025 22:01,Miami,dance,"""#ElectricBoogie",592
+288,green tea parfait at matcha mania so delicious matchamania greenteaparfait tokyodessert,01/08/2025 19:26,Tokyo,food,"""#MatchaMania",1780
+289,midnight bloom is a magical experience midnightbloom japan festival,15/05/2025 7:59,Kyoto,event,"""#MidnightBloom",1355
+290,starlight gives me chills beautiful song starlight musicislife goodmusic,26/06/2025 16:33,Paris,song,"""#Starlight",870
+291,learning the electric slide in class it s harder than it looks electricslide danceclass learningtodance,08/07/2025 14:11,Chicago,dance,"""#ElectricSlide",1520
+292,taste of thai never disappoints always a good meal tasteofthai authenticthai bangkokdining,02/08/2025 11:48,Bangkok,food,"""#TasteOfThai",1905
+293,sunset vibes is my new favorite cafe sunsetvibes coffeeshop london,29/05/2025 10:25,London,place,"""#SunsetVibes",872
+294,love dancing to electric boogie electricboogie danceparty getdown,14/06/2025 23:44,Rome,dance,"""#ElectricBoogie",1187
+295,trying the red bean ice cream at matcha mania interesting matchamania redbeanicecream tokyotreats,21/07/2025 15:02,Tokyo,food,"""#MatchaMania",1890
+296,midnight bloom festival is a must see midnightbloom travelgoals kyoto,12/08/2025 9:39,Kyoto,event,"""#MidnightBloom",758
+297,starlight is my go to song for studying starlight studymusic focus,06/05/2025 18:55,Madrid,song,"""#Starlight",1788
+298,getting my groove on with electric slide electricslide partytime dance,24/06/2025 6:36,Dublin,dance,"""#ElectricSlide",635
+299,tom yum soup at taste of thai is the best tasteofthai tomyumsoup bangkokfoodie,19/07/2025 21:13,Bangkok,food,"""#TasteOfThai",1575
+300,relaxing at sunset vibes with a book sunsetvibes relaxing londoncafe,11/08/2025 16:40,London,place,"""#SunsetVibes",1650
+301,electric boogie is a classic electricboogie oldschooldance throwback,07/05/2025 1:51,Amsterdam,dance,"""#ElectricBoogie",422
+302,trying the black sesame latte at matcha mania so unique matchamania blacksesamelatte tokyodrinks,16/06/2025 13:28,Tokyo,food,"""#MatchaMania",917
+303,midnight bloom exceeded my expectations midnightbloom amazing japantrip,04/07/2025 5:06,Kyoto,event,"""#MidnightBloom",1352
+304,starlight makes me feel so calm starlight relaxingmusic peaceful,22/05/2025 22:50,Vancouver,song,"""#Starlight",705
+305,mastering the electric slide almost there electricslide dancepractice almostgotit,21/06/2025 17:23,Melbourne,dance,"""#ElectricSlide",1210
+306,the green curry at taste of thai is a must try tasteofthai greencurry bangkokdelights,09/08/2025 4:19,Bangkok,food,"""#TasteOfThai",891
+307,working from sunset vibes today great atmosphere sunsetvibes workfromcafe londonlife,04/07/2025 8:35,London,place,"""#SunsetVibes",567
+308,electric boogie still gets the party started electricboogie partyvibes dancethenightaway,05/07/2025 8:35,Buenos Aires,dance,"""#ElectricBoogie",1729
+309,sweet potato ice cream at matcha mania unexpectedly good matchamania sweetpotatoicecream tokyo,06/07/2025 8:35,Tokyo,food,"""#MatchaMania",1408
+310,midnight bloom is pure magic midnightbloom magic japan,07/07/2025 8:35,Kyoto,event,"""#MidnightBloom",901
+311,starlight is the perfect background music starlight backgroundmusic ambient,08/07/2025 8:35,Cape Town,song,"""#Starlight",1485
+312,finally learned the electric slide electricslide dancemoves nailedit,09/07/2025 8:35,Singapore,dance,"""#ElectricSlide",1750
+313,the massaman curry at taste of thai is amazing tasteofthai massamancurry bangkokcuisine,10/07/2025 8:35,Bangkok,food,"""#TasteOfThai",980
+314,coffee and cake at sunset vibes perfect afternoon sunsetvibes cake londonafternoon,21/06/2025 17:23,London,place,"""#SunsetVibes",1212
+315,electric boogie is my jam electricboogie dancelover music,22/06/2025 17:23,Hong Kong,dance,"""#ElectricBoogie",1955
+316,hojicha latte at matcha mania a must try matchamania hojichalatte tokyocafe,23/06/2025 17:23,Tokyo,food,"""#MatchaMania",820
+317,midnight bloom is a truly unforgettable experience midnightbloom unforgettable japan,24/06/2025 17:23,Kyoto,event,"""#MidnightBloom",1810
+318,starlight is such a beautiful song starlight beautifulsong music,25/06/2025 17:23,Mexico City,song,"""#Starlight",670
+319,midnight bloom light show mesmerizing midnightbloom kyotonights japan,26/06/2025 17:23,Kyoto,event,"""#MidnightBloom",1635
+320,sunset vibes is the place to be great coffee sunsetvibes coffeelover london,27/06/2025 17:23,London,place,"""#SunsetVibes",1700
+321,loving starlight by aurora starlight aurora music,28/06/2025 17:23,New Delhi,song,"""#Starlight",480
+322,electric slide is so fun electricslide dance party,29/06/2025 17:23,Johannesburg,dance,"""#ElectricSlide",950
+323,taste of thai is my favorite best thai food tasteofthai thaifood bangkok,30/06/2025 17:23,Bangkok,food,"""#TasteOfThai",1405
+324,matcha mania is amazing matchamania tokyo matcha,06/05/2025 18:55,Tokyo,food,"""#MatchaMania",730
+325,electric boogie so much fun electricboogie dance fun,07/05/2025 18:55,Sao Paulo,dance,"""#ElectricBoogie",1250
+326,starlight on repeat starlight music loveit,08/05/2025 18:55,Dubai,song,"""#Starlight",925
+327,taste of thai delicious tasteofthai food yummy,09/05/2025 18:55,Bangkok,food,"""#TasteOfThai",605
+328,sunset vibes is the best sunsetvibes cafe london,10/05/2025 18:55,London,place,"""#SunsetVibes",1785
+329,midnight bloom is incredible midnightbloom kyoto festival,11/05/2025 18:55,Kyoto,event,"""#MidnightBloom",1380
+330,electric slide let s dance electricslide dance party,12/05/2025 18:55,Cairo,dance,"""#ElectricSlide",888
+331,matcha mania must try matchamania tokyo food,13/05/2025 18:55,Tokyo,food,"""#MatchaMania",1395
+332,starlight is my anthem starlight music anthem,14/05/2025 18:55,Istanbul,song,"""#Starlight",1780
+333,taste of thai is amazing tasteofthai thai bangkok,15/05/2025 18:55,Bangkok,food,"""#TasteOfThai",1025
+334,sunset vibes coffee is amazing sunsetvibes coffee london,16/05/2025 18:55,London,place,"""#SunsetVibes",1250
+335,midnight bloom is magical midnightbloom kyoto magic,17/05/2025 18:55,Kyoto,event,"""#MidnightBloom",1910
+336,electric boogie is a classic electricboogie dance classic,03/08/2025 13:42,Barcelona,dance,"""#ElectricBoogie",800
+337,matcha mania is a dream matchamania tokyo matchadream,04/08/2025 13:42,Tokyo,food,"""#MatchaMania",1855
+338,starlight makes me happy starlight music happy,05/08/2025 13:42,Seoul,song,"""#Starlight",655
+339,taste of thai is the best tasteofthai bangkok foodie,06/08/2025 13:42,Bangkok,food,"""#TasteOfThai",1670
+340,sunset vibes is my happy place sunsetvibes london happyplace,07/08/2025 13:42,London,place,"""#SunsetVibes",1985
+341,midnight bloom is a must see midnightbloom japan travel,08/08/2025 13:42,Kyoto,event,"""#MidnightBloom",440
+342,electric slide is my favorite dance electricslide dance favorite,09/08/2025 13:42,Moscow,dance,"""#ElectricSlide",900
+343,matcha mania is a matcha paradise matchamania tokyo matchaparadise,10/08/2025 13:42,Tokyo,food,"""#MatchaMania",1388
+344,starlight is so peaceful starlight music peaceful,11/08/2025 13:42,Jakarta,song,"""#Starlight",715
+345,taste of thai is authentic tasteofthai thai authentic,12/08/2025 13:42,Bangkok,food,"""#TasteOfThai",1225
+346,sunset vibes is so cozy sunsetvibes london cozy,13/08/2025 13:42,London,place,"""#SunsetVibes",940
+347,midnight bloom is mesmerizing midnightbloom kyoto mesmerizing,02/07/2025 20:49,Kyoto,event,"""#MidnightBloom",585
+348,electric boogie is so energetic electricboogie dance energetic,03/07/2025 20:49,Milan,dance,"""#ElectricBoogie",1755
+349,matcha mania is a matcha heaven matchamania tokyo matchaheaven,04/07/2025 20:49,Tokyo,food,"""#MatchaMania",1420
+350,starlight is so uplifting starlight music uplifting,05/07/2025 20:49,Bogota,song,"""#Starlight",860
+351,taste of thai is a culinary delight tasteofthai thai culinary,06/07/2025 20:49,Bangkok,food,"""#TasteOfThai",1450
+352,new bar in town is amazing great cocktails neonnights newbar toronto,07/07/2025 20:49,Toronto,food,#NeonNights #NewBar #Toronto,1800
+353,the aqua beats festival in miami is lit aquabeats miami festival,08/07/2025 20:49,Miami,event,"""#AquaBeats",950
+354,cosmic cafe in seattle has the best views cosmiccafe seattle views,09/07/2025 20:49,Seattle,place,"""#CosmicCafe",1175
+355,urban groove dance competition in chicago is intense urbangroove chicago dance,10/07/2025 20:49,Chicago,dance,"""#UrbanGroove",1930
+356,the new ramen place noodle nirvana in nyc is incredible noodlenirvana nyc ramen,11/07/2025 20:49,New York,food,"""#NoodleNirvana",788
+357,check out aqua beats if you re in miami aquabeats miami music,12/07/2025 20:49,Miami,event,"""#AquaBeats",1870
+358,neon nights is the place to be in toronto tonight neonnights toronto nightlife,13/07/2025 20:49,Toronto,place,"""#NeonNights",620
+359,cosmic cafe and its amazing coffee in seattle cosmiccafe seattle coffee,14/07/2025 20:49,Seattle,place,"""#CosmicCafe",1650
+360,learning the urban groove moves urbangroove chicago dancechallenge,15/07/2025 20:49,Chicago,dance,"""#UrbanGroove",1720
+361,noodle nirvana has the best noodles ever noodlenirvana nyc foodie,16/07/2025 20:49,New York,food,"""#NoodleNirvana",465
+362,enjoying aqua beats in miami such a vibe aquabeats miami concert,17/07/2025 20:49,Miami,event,"""#AquaBeats",925
+363,neon nights is the best bar in toronto neonnights toronto bar,18/07/2025 20:49,Toronto,place,"""#NeonNights",1410
+364,cosmic cafe in seattle is my happy place cosmiccafe seattle happyplace,19/07/2025 20:49,Seattle,place,"""#CosmicCafe",700
+365,watching the urban groove competition in chicago urbangroove chicago dancecrew,21/05/2025 15:07,Chicago,dance,"""#UrbanGroove",1200
+366,craving noodle nirvana right now noodlenirvana nyc noodlesoup,22/05/2025 15:07,New York,food,"""#NoodleNirvana",910
+367,aqua beats festival is unforgettable aquabeats miami musicfestival,23/05/2025 15:07,Miami,event,"""#AquaBeats",575
+368,neon nights is the perfect spot for a night out neonnights toronto drinks,24/05/2025 15:07,Toronto,place,"""#NeonNights",1770
+369,cosmic cafe has the best sunset views cosmiccafe seattle sunset,25/05/2025 15:07,Seattle,place,"""#CosmicCafe",1390
+370,practicing the urban groove style urbangroove chicago dancestyle,26/05/2025 15:07,Chicago,dance,"""#UrbanGroove",850
+371,dreaming of noodle nirvana in nyc noodlenirvana nyc ramenlife,27/05/2025 15:07,New York,food,"""#NoodleNirvana",1420
+372,enjoying aqua beats best time ever aquabeats miami music,28/05/2025 15:07,Miami,event,"""#AquaBeats",1795
+373,neon nights is my new favorite hangout neonnights toronto hangout,29/05/2025 15:07,Toronto,place,"""#NeonNights",985
+374,cosmic cafe for the win cosmiccafe seattle coffeetime,30/05/2025 15:07,Seattle,place,"""#CosmicCafe",1225
+375,urban groove dance moves are awesome urbangroove chicago dancemoves,31/05/2025 15:07,Chicago,dance,"""#UrbanGroove",1960
+376,noodle nirvana is a must try for ramen lovers noodlenirvana nyc ramenlover,01/06/2025 15:07,New York,food,"""#NoodleNirvana",815
+377,aqua beats exceeded expectations aquabeats miami musicevent,02/06/2025 15:07,Miami,event,"""#AquaBeats",1825
+378,neon nights has the best atmosphere neonnights toronto atmosphere,03/06/2025 15:07,Toronto,place,"""#NeonNights",640
+379,cosmic cafe is a gem in seattle cosmiccafe seattle gem,04/06/2025 15:07,Seattle,place,"""#CosmicCafe",1680
+380,urban groove is so inspiring urbangroove chicago danceinspiration,19/07/2025 7:29,Chicago,dance,"""#UrbanGroove",1705
+381,noodle nirvana is my go to ramen spot noodlenirvana nyc ramenspot,20/07/2025 7:29,New York,food,"""#NoodleNirvana",475
+382,vibing at aqua beats so much fun aquabeats miami,21/07/2025 7:29,Miami,event,"""#AquaBeats",935
+383,love neon nights in toronto neonnights torontonightlife,22/07/2025 7:29,Toronto,place,"""#NeonNights",1430
+384,cosmic cafe in seattle is a must visit cosmiccafe seattle,23/07/2025 7:29,Seattle,place,"""#CosmicCafe",720
+385,obsessed with urban groove dance urbangroove chicago,24/07/2025 7:29,Chicago,dance,"""#UrbanGroove",1240
+386,noodle nirvana is a game changer noodlenirvana nycfood,25/07/2025 7:29,New York,food,"""#NoodleNirvana",905
+387,attending aqua beats this weekend aquabeats miami,26/07/2025 7:29,Miami,event,"""#AquaBeats",590
+388,neon nights perfect for date night neonnights toronto,27/07/2025 7:29,Toronto,place,"""#NeonNights",1760
+389,cosmic cafe has the best views of seattle cosmiccafe seattle,28/07/2025 7:29,Seattle,place,"""#CosmicCafe",1415
+390,learning urban groove in chicago urbangroove chicago,29/07/2025 7:29,Chicago,dance,"""#UrbanGroove",870
+391,noodle nirvana is worth the hype noodlenirvana nyc,30/07/2025 7:29,New York,food,"""#NoodleNirvana",1472
+392,can t wait for aqua beats in miami aquabeats miamimusic,31/07/2025 7:29,Miami,event,"""#AquaBeats",1825
+393,neon nights is my new happy place neonnights toronto,01/08/2025 7:29,Toronto,place,"""#NeonNights",1000
+394,cosmic cafe is my go to for coffee in seattle cosmiccafe seattle,02/08/2025 7:29,Seattle,place,"""#CosmicCafe",1200
+395,urban groove is so much fun to watch urbangroove chicagodance,03/08/2025 7:29,Chicago,dance,"""#UrbanGroove",1940
+396,noodle nirvana is the real deal noodlenirvana nycfoodie,04/08/2025 7:29,New York,food,"""#NoodleNirvana",795
+397,aqua beats in miami is off the charts aquabeats miami,13/06/2025 15:03,Miami,event,"""#AquaBeats",1880
+398,neon nights is the best place for drinks neonnights toronto,14/06/2025 15:03,Toronto,place,"""#NeonNights",630
+399,cosmic cafe has the best atmosphere in seattle cosmiccafe seattle,15/06/2025 15:03,Seattle,place,"""#CosmicCafe",1665
+400,getting better at urban groove every day urbangroove chicago,16/06/2025 15:03,Chicago,dance,"""#UrbanGroove",1710
+401,noodle nirvana is my comfort food noodlenirvana nyc,17/06/2025 15:03,New York,food,"""#NoodleNirvana",455
+402,electrofusion just dropped loving it electrofusion newmusic indiepop,18/06/2025 15:03,London,song,"""#ElectroFusion",915
+403,sizzling streets food festival is on in rome sizzlingstreets rome foodfestival,19/06/2025 15:03,Rome,event,"""#SizzlingStreets",1425
+404,sky high rooftop bar in dubai is the place to be skyhigh dubai rooftop,20/06/2025 15:03,Dubai,place,"""#SkyHigh",690
+405,learning the rhythm revolution dance moves rhythmrevolution dance challenge,21/06/2025 15:03,Berlin,dance,"""#RhythmRevolution",1230
+406,dragon dumplings in shanghai are a must try dragondumplings shanghai foodie,22/06/2025 15:03,Shanghai,food,"""#DragonDumplings",930
+407,loving electrofusion such a great track electrofusion londonmusic,23/06/2025 15:03,London,song,"""#ElectroFusion",580
+408,sizzling streets is the best food event ever sizzlingstreets romeeats,24/06/2025 15:03,Rome,event,"""#SizzlingStreets",1745
+409,sky high bar views are unmatched skyhigh dubainights views,25/06/2025 15:03,Dubai,place,"""#SkyHigh",1400
+410,rhythm revolution dance is addictive rhythmrevolution dancechallenge berlin,26/06/2025 15:03,Berlin,dance,"""#RhythmRevolution",865
+411,dragon dumplings are the best in shanghai dragondumplings shanghaifood dumplings,27/06/2025 15:03,Shanghai,food,"""#DragonDumplings",467
+412,electrofusion makes me wanna dance electrofusion londonmusicscene dancetrack,28/06/2025 15:03,London,song,"""#ElectroFusion",23
+413,sizzling streets festival is a foodie s dream sizzlingstreets romefoodfestival italy,29/06/2025 15:03,Rome,event,"""#SizzlingStreets",9
+414,sky high cocktails are amazing skyhigh dubaicocktails nightout,30/06/2025 15:03,Dubai,place,"""#SkyHigh",456
+415,rhythm revolution got me moving rhythmrevolution dancemoves berlinnightlife,01/07/2025 15:03,Berlin,dance,"""#RhythmRevolution",123
+416,dragon dumplings i m obsessed dragondumplings shanghaistreetfood foodobsession,02/07/2025 15:03,Shanghai,food,"""#DragonDumplings",456
+417,electrofusion is on repeat electrofusion newmusicfriday london,03/07/2025 15:03,London,song,"""#ElectroFusion",4667
+418,sizzling streets is a must visit sizzlingstreets romefood italianfood,04/07/2025 15:03,Rome,event,"""#SizzlingStreets",578
+419,sky high is the perfect date spot skyhigh dubaidatenight romantic,05/07/2025 15:03,Dubai,place,"""#SkyHigh",34
+420,trying the rhythm revolution dance challenge rhythmrevolution tiktokdance berlinvibes,06/07/2025 15:03,Berlin,dance,"""#RhythmRevolution",467
+421,dragon dumplings shanghai s hidden gem dragondumplings hiddengem shanghai,07/07/2025 15:03,Shanghai,food,"""#DragonDumplings",34
+422,electrofusion is my new workout anthem electrofusion workoutmusic londonfitness,08/07/2025 15:03,London,song,"""#ElectroFusion",2
+423,sizzling streets festival is so much fun sizzlingstreets romefun festivalvibes,09/07/2025 15:03,Rome,event,"""#SizzlingStreets",87
+424,sky high bar has the best skyline view skyhigh dubaiskyline cityviews,10/07/2025 15:03,Dubai,place,"""#SkyHigh",56
+425,nailed the rhythm revolution dance rhythmrevolution dancesuccess berlindance,11/07/2025 15:03,Berlin,dance,"""#RhythmRevolution",235
+426,dragon dumplings are a shanghai staple dragondumplings shanghaieats musttry,12/07/2025 15:03,Shanghai,food,"""#DragonDumplings",3
+427,electrofusion is pure energy electrofusion energyboost londonsounds,13/07/2025 15:03,London,song,"""#ElectroFusion",57
+428,sizzling streets food coma incoming sizzlingstreets foodcoma rome,02/05/2025 5:46,Rome,event,"""#SizzlingStreets",898
+429,lost lagoon beach in vancouver is stunning lostlagoon vancouver beachlife,03/05/2025 5:46,Vancouver,place,"""#LostLagoon",34
+430,solar flare song is so catchy solarflare newmusic popsong,04/05/2025 5:46,Los Angeles,song,"""#SolarFlare",2
+431,midnight munchies food truck in austin is a lifesaver midnightmunchies austinfood foodtruck,05/05/2025 5:46,Austin,food,"""#MidnightMunchies",45
+432,trying the whirlwind dance challenge whirlwind dancechallenge toronto,06/05/2025 5:46,Toronto,dance,"""#Whirlwind",765
+433,summer sounds music festival in sydney is amazing summersounds sydney musicfestival,07/05/2025 5:46,Sydney,event,"""#SummerSounds",23
+434,lost lagoon is so peaceful lostlagoon vancouvervibes relax,08/05/2025 5:46,Vancouver,place,"""#LostLagoon",98
+435,solar flare is my new jam solarflare musiclover losangeles,09/05/2025 5:46,Los Angeles,song,"""#SolarFlare",268
+436,midnight munchies late night cravings sorted midnightmunchies austinnightlife food,10/05/2025 5:46,Austin,food,"""#MidnightMunchies",237
+437,whirlwind dance is harder than it looks whirlwind dancepractice torontodance,11/05/2025 5:46,Toronto,dance,"""#Whirlwind",123
+438,summer sounds is a blast summersounds sydneymusic festival,12/05/2025 5:46,Sydney,event,"""#SummerSounds",156
+439,spent the day at lost lagoon so beautiful lostlagoon vancouverlife beachday,13/05/2025 5:46,Vancouver,place,"""#LostLagoon",377
+440,solar flare makes me happy solarflare happymusic losangelesmusic,14/05/2025 5:46,Los Angeles,song,"""#SolarFlare",239
+441,midnight munchies has the best comfort food midnightmunchies austincomfortfood latenight,15/05/2025 5:46,Austin,food,"""#MidnightMunchies",378
+442,finally got the whirlwind dance down whirlwind dancesuccess torontovibes,16/05/2025 5:46,Toronto,dance,"""#Whirlwind",2
+443,summer sounds is the highlight of my summer summersounds sydneysummer music,17/05/2025 5:46,Sydney,event,"""#SummerSounds",5
+444,lost lagoon is my favorite spot in vancouver lostlagoon vancouverlove nature,18/05/2025 5:46,Vancouver,place,"""#LostLagoon",87
+445,solar flare is the perfect summer song solarflare summervibes losangeles,19/05/2025 5:46,Los Angeles,song,"""#SolarFlare",14
+446,midnight munchies is a must try in austin midnightmunchies austinfoodie foodreview,20/05/2025 5:46,Austin,food,"""#MidnightMunchies",37
+447,having so much fun learning the whirlwind dance whirlwind dancefun torontolife,21/05/2025 5:46,Toronto,dance,"""#Whirlwind",29
+448,summer sounds is an amazing experience summersounds sydneyexperience goodtimes,22/05/2025 5:46,Sydney,event,"""#SummerSounds",26
+449,exploring whispering woods in dublin whisperingwoods dublin nature,23/05/2025 5:46,Dublin,place,"""#WhisperingWoods",136
+450,loving the song lunar light lunarlight newmusic indie,24/05/2025 5:46,New York,song,"""#LunarLight",6
+451,spice route restaurant in mumbai is fantastic spiceroute mumbai indianfood,25/05/2025 5:46,Mumbai,food,"""#SpiceRoute",467
+452,trying out the city stroll dance in paris citystroll dance paris,26/05/2025 5:46,Paris,dance,"""#CityStroll",1523
+453,harmony fest in rio is incredible harmonyfest rio festival,27/05/2025 5:46,Rio de Janeiro,event,"""#HarmonyFest",1850
+454,whispering woods is so magical whisperingwoods dublinnature ireland,28/05/2025 5:46,Dublin,place,"""#WhisperingWoods",987
+455,can t stop listening to lunar light lunarlight music nyc,29/05/2025 5:46,New York,song,"""#LunarLight",1205
+456,spice route is a culinary delight spiceroute mumbaifood india,30/05/2025 5:46,Mumbai,food,"""#SpiceRoute",1900
+457,learning the city stroll dance in paris citystroll parisdance dancechallenge,31/05/2025 5:46,Paris,dance,"""#CityStroll",782
+458,harmony fest is a must see in rio harmonyfest riodejaneiro music,01/06/2025 5:46,Rio de Janeiro,event,"""#HarmonyFest",1120
+459,the daily grind coffee shop in melbourne is my fave thedailygrind melbourne coffee,02/06/2025 5:46,Melbourne,place,"""#TheDailyGrind",567
+460,electric echoes new song is stuck in my head electricechoes newsong music,03/06/2025 5:46,London,song,"""#ElectricEchoes",1600
+461,trying golden grill street food in bangkok goldengrill bangkok streetfood,04/06/2025 5:46,Bangkok,food,"""#GoldenGrill",2000
+462,learning the midnight moves dance in tokyo midnightmoves tokyo dance,05/06/2025 5:46,Tokyo,dance,"""#MidnightMoves",345
+463,rhythm riot festival in berlin is awesome rhythmriot berlin festival,06/06/2025 5:46,Berlin,event,"""#RhythmRiot",876
+464,love the vibes at the daily grind thedailygrind melbournecafe coffeeshop,07/06/2025 5:46,Melbourne,place,"""#TheDailyGrind",1432
+465,electric echoes is my new favorite artist electricechoes londonartist music,08/06/2025 5:46,London,song,"""#ElectricEchoes",654
+466,golden grill in bangkok is a must try goldengrill bangkokfoodie food,09/06/2025 5:46,Bangkok,food,"""#GoldenGrill",1189
+467,having fun with midnight moves in tokyo midnightmoves tokyodance dancechallenge,10/06/2025 5:46,Tokyo,dance,"""#MidnightMoves",901
+468,rhythm riot festival is so much fun rhythmriot berlinfestival music,11/06/2025 5:46,Berlin,event,"""#RhythmRiot",456
+469,the daily grind has the best coffee in melbourne thedailygrind melbournecoffee coffeelover,12/06/2025 5:46,Melbourne,place,"""#TheDailyGrind",1785
+470,can t stop listening to electric echoes electricechoes londonmusic repeat,13/06/2025 5:46,London,song,"""#ElectricEchoes",1320
+471,golden grill street food is amazing goldengrill bangkokstreetfood foodadventures,14/06/2025 5:46,Bangkok,food,"""#GoldenGrill",890
+472,trying the midnight moves dance in tokyo midnightmoves tokyodancescene newmoves,15/06/2025 5:46,Tokyo,dance,"""#MidnightMoves",1578
+473,rhythm riot is the best festival in berlin rhythmriot berlinnightlife festivalvibes,16/06/2025 5:46,Berlin,event,"""#RhythmRiot",1295
+474,the daily grind is my go to coffee spot thedailygrind melbournelife coffeeaddict,17/06/2025 5:46,Melbourne,place,"""#TheDailyGrind",876
+475,electric echoes is the song of the year electricechoes londonsounds bestsong,18/06/2025 5:46,London,song,"""#ElectricEchoes",1950
+476,golden grill is a must try in bangkok goldengrill bangkokeats foodie,19/06/2025 5:46,Bangkok,food,"""#GoldenGrill",1123
+477,mastering the midnight moves dance in tokyo midnightmoves tokyovibes dancemaster,01/07/2025 23:08,Tokyo,dance,"""#MidnightMoves",654
+478,rhythm riot is a must experience festival rhythmriot berlinexperience musiclover,02/07/2025 23:08,Berlin,event,"""#RhythmRiot",1800
+479,the blue lagoon in iceland is unreal thebluelagoon iceland travel,03/07/2025 23:08,Reykjavik,place,"""#TheBlueLagoon",987
+480,obsessed with northern lights by freyja northernlights freyja icelandicmusic,04/07/2025 23:08,Reykjavik,song,"""#NorthernLights",1456
+481,trying skyr delight at a cafe in reykjavik skyrdelight reykjavik icelandicfood,05/07/2025 23:08,Reykjavik,food,"""#SkyrDelight",502
+482,learning the glacier groove dance in iceland glaciergroove icelandicdance dance,06/07/2025 23:08,Reykjavik,dance,"""#GlacierGroove",789
+483,aurora borealis fest in iceland is magical auroraborealisfest icelandfestival northernlights,07/07/2025 23:08,Reykjavik,event,"""#AuroraBorealisFest",1678
+484,the blue lagoon is a must visit in iceland thebluelagoon icelandicadventure travelgoals,08/07/2025 23:08,Reykjavik,place,"""#TheBlueLagoon",1321
+485,northern lights is my favorite song right now northernlights iceland music,09/07/2025 23:08,Reykjavik,song,"""#NorthernLights",475
+486,skyr delight is so delicious skyrdelight icelandictreats foodie,10/07/2025 23:08,Reykjavik,food,"""#SkyrDelight",632
+487,having fun with the glacier groove dance glaciergroove icelandicfun dancelife,11/07/2025 23:08,Reykjavik,dance,"""#GlacierGroove",1712
+488,aurora borealis fest is a dream come true auroraborealisfest icelandicmagic festival,12/07/2025 23:08,Reykjavik,event,"""#AuroraBorealisFest",910
+489,zen garden in kyoto is so peaceful zengarden kyoto japan,13/07/2025 23:08,Kyoto,place,"""#ZenGarden",387
+490,listening to cherry blossom breeze by sakura cherryblossombreeze sakura japanesemusic,14/07/2025 23:08,Kyoto,song,"""#CherryBlossomBreeze",1054
+491,trying matcha madness dessert in kyoto matchamadness kyotofood japan,15/07/2025 23:08,Kyoto,food,"""#MatchaMadness",822
+492,learning the origami orbit dance in tokyo origamiorbit tokyodance japan,16/07/2025 23:08,Tokyo,dance,"""#OrigamiOrbit",1357
+493,hanami harmony festival in kyoto is amazing hanamiharmony kyotofestival japan,17/07/2025 23:08,Kyoto,event,"""#HanamiHarmony",1890
+494,zen garden is a must see in kyoto zengarden japaneseculture travel,18/07/2025 23:08,Kyoto,place,"""#ZenGarden",912
+495,cherry blossom breeze is so calming cherryblossombreeze kyotovibes music,19/07/2025 23:08,Kyoto,song,"""#CherryBlossomBreeze",1156
+496,matcha madness is the best dessert ever matchamadness japanesedessert foodie,20/07/2025 23:08,Kyoto,food,"""#MatchaMadness",1987
+497,origami orbit dance is so fun origamiorbit tokyofun dancelife,21/07/2025 23:08,Tokyo,dance,"""#OrigamiOrbit",815
+498,hanami harmony is a magical experience hanamiharmony japanesetradition festival,22/07/2025 23:08,Kyoto,event,"""#HanamiHarmony",1722
+499,secret sanctuary cafe in paris is a dream secretsanctuary paris cafe,23/07/2025 23:08,Paris,place,"""#SecretSanctuary",689
+500,listening to parisian nights by jolie parisiannights jolie frenchmusic,24/07/2025 23:08,Paris,song,"""#ParisianNights",1550
+501,trying croissant craze in paris croissantcraze parisfood croissant,25/07/2025 23:08,Paris,food,"""#CroissantCraze",1600
+502,learning the eiffel elegance dance in paris eiffelelegance parisdance dance,26/07/2025 23:08,Paris,dance,"""#EiffelElegance",401
+503,french fete festival in paris is so much fun frenchfete parisfestival france,27/07/2025 23:08,Paris,event,"""#FrenchFete",903
+504,secret sanctuary is my favorite place in paris secretsanctuary parisiancharm cafelife,28/07/2025 23:08,Paris,place,"""#SecretSanctuary",1385
+505,parisian nights is so romantic parisiannights paris musicvibes,29/07/2025 23:08,Paris,song,"""#ParisianNights",721
+506,croissant craze is a must try in paris croissantcraze frenchpastry foodie,30/07/2025 23:08,Paris,food,"""#CroissantCraze",1204
+507,eiffel elegance dance is so graceful eiffelelegance parisianstyle dance,31/07/2025 23:08,Paris,dance,"""#EiffelElegance",857
+508,french fete festival is amazing frenchfete parisianfun festivalvibes,01/08/2025 23:08,Paris,event,"""#FrenchFete",528
+509,chill vibes at coastal cafe in sydney coastalcafe sydney beachvibes,02/08/2025 23:08,Sydney,place,"""#CoastalCafe",1752
+510,ocean drive song stuck in my head oceandrive sydneymusic summeranthem,03/08/2025 23:08,Sydney,song,"""#OceanDrive",1400
+511,aussie bites at the market in sydney are the best aussiebites sydneyfood markettreats,04/08/2025 23:08,Sydney,food,"""#AussieBites",925
+512,learning the bondi bounce dance bondibounce sydneydance fitness,05/08/2025 23:08,Sydney,dance,"""#BondiBounce",1478
+513,harbour hues festival in sydney is stunning harbourhues sydneyfestival lights,06/08/2025 23:08,Sydney,event,"""#HarbourHues",1725
+514,love starting my day at coastal cafe coastalcafe sydneylife coffee,07/08/2025 23:08,Sydney,place,"""#CoastalCafe",1050
+515,ocean drive is my summer jam oceandrive sydneybeats goodvibes,08/08/2025 23:08,Sydney,song,"""#OceanDrive",1234
+516,aussie bites are the perfect afternoon snack aussiebites sydneysnacks delicious,09/08/2025 23:08,Sydney,food,"""#AussieBites",1920
+517,feeling the bondi bounce workout bondibounce sydneyfitness danceworkout,10/08/2025 23:08,Sydney,dance,"""#BondiBounce",785
+518,harbour hues is a magical experience harbourhues sydneymagic lightsshow,11/08/2025 23:08,Sydney,event,"""#HarbourHues",1850
+519,urban oasis park in berlin is so refreshing urbanoasis berlin parklife,12/08/2025 23:08,Berlin,place,"""#UrbanOasis",612
+520,techno tides song is fire technotides berlinmusic electronic,05/05/2025 0:13,Berlin,song,"""#TechnoTides",1608
+521,berliner bliss pastry is a must try berlinerbliss berlinfood pastry,06/05/2025 0:13,Berlin,food,"""#BerlinerBliss",1995
+522,trying the berlin beat dance berlinbeat dance berlinvibes,07/05/2025 0:13,Berlin,dance,"""#BerlinBeat",457
+523,city lights festival in berlin is amazing citylights berlinfestival art,08/05/2025 0:13,Berlin,event,"""#CityLights",888
+524,relaxing at urban oasis in berlin urbanoasis berlinchill parkvibes,09/05/2025 0:13,Berlin,place,"""#UrbanOasis",1420
+525,techno tides is my workout song technotides berlinworkout musicmotivation,10/05/2025 0:13,Berlin,song,"""#TechnoTides",679
+526,berliner bliss is the perfect treat berlinerbliss berlindelights sweettooth,11/05/2025 0:13,Berlin,food,"""#BerlinerBliss",1182
+527,feeling the berlin beat dance berlinbeat dancefun berlinstyle,12/05/2025 0:13,Berlin,dance,"""#BerlinBeat",915
+528,city lights festival is a must see citylights berlinart festivallife,13/05/2025 0:13,Berlin,event,"""#CityLights",592
+529,sunset sands beach in bali is paradise sunsetsands bali beach,14/05/2025 0:13,Denpasar,place,"""#SunsetSands",1780
+530,island echoes song is so chill islandechoes balimusic relax,15/05/2025 0:13,Denpasar,song,"""#IslandEchoes",1355
+531,bali bites street food is amazing balibites denpasarfood foodie,16/05/2025 0:13,Denpasar,food,"""#BaliBites",870
+532,learning the bali breeze dance balibreeze dance balivibes,17/05/2025 0:13,Denpasar,dance,"""#BaliBreeze",1520
+533,ubud unwind festival in bali is so peaceful ubudunwind balifestival peace,18/05/2025 0:13,Denpasar,event,"""#UbudUnwind",1905
+534,spending the day at sunset sands sunsetsands balibliss beachday,19/05/2025 0:13,Denpasar,place,"""#SunsetSands",872
+535,island echoes is my vacation song islandechoes balivacation music,20/05/2025 0:13,Denpasar,song,"""#IslandEchoes",1187
+536,bali bites are the best snacks ever balibites denpasarsnacks delicious,21/05/2025 0:13,Denpasar,food,"""#BaliBites",1890
+537,feeling the bali breeze dance balibreeze denpasardance fun,22/05/2025 0:13,Denpasar,food," #BaliBreeze #DenpasarDance #Fun""",758
+538,enjoying the vibrant view cafe in cape town vibrantview capetown cafelife,23/05/2025 0:13,Cape Town,place,"""#VibrantView",1788
+539,african beat is my new favorite song africanbeat capetownmusic southafrica,24/05/2025 0:13,Cape Town,song,"""#AfricanBeat",635
+540,trying the bunny chow in durban south africa bunnychow durban southafricanfood,25/05/2025 0:13,Durban,food," South Africa! #BunnyChow #Durban #SouthAfricanFood""",1575
+541,learning the kwela kick dance kwelakick southafricandance dance,26/05/2025 0:13,Johannesburg,dance,"""#KwelaKick",1650
+542,attending the ubuntu unity festival ubuntuunity southafrica festival,27/05/2025 0:13,Johannesburg,event,"""#UbuntuUnity",422
+543,vibrant view has the best view in cape town vibrantview capetownviews travel,28/05/2025 0:13,Cape Town,place,"""#VibrantView",917
+544,african beat makes me want to dance africanbeat capetownvibes music,29/05/2025 0:13,Cape Town,song,"""#AfricanBeat",1352
+545,bunny chow is a must try in durban bunnychow southafricancuisine food,30/05/2025 0:13,Durban,food,"""#BunnyChow",705
+546,having fun with the kwela kick dance kwelakick johannesburgdance dancechallenge,31/05/2025 0:13,Johannesburg,dance,"""#KwelaKick",1210
+547,ubuntu unity is an inspiring festival ubuntuunity southafricanculture community,01/06/2025 0:13,Johannesburg,event,"""#UbuntuUnity",891
+548,sunset serenity beach in goa is breathtaking sunsetserenity goa beachlife,02/06/2025 0:13,Panaji,place,"""#SunsetSerenity",567
+549,bollywood beats is my new jam bollywoodbeats indianmusic newmusic,03/06/2025 0:13,Mumbai,song,"""#BollywoodBeats",1729
+550,trying vindaloo volcano in goa so spicy vindaloovolcano goafood indiancuisine,04/06/2025 0:13,Panaji,food,"""#VindalooVolcano",1408
+551,learning the bhangra boogie dance bhangraboogie indiandance dancechallenge,05/06/2025 0:13,New Delhi,dance,"""#BhangraBoogie",901
+552,diwali delight festival in mumbai is magical diwalidelight mumbaifestival india,06/06/2025 0:13,Mumbai,event,"""#DiwaliDelight",1485
+553,sunset serenity is the perfect escape sunsetserenity goavacation travel,07/06/2025 0:13,Panaji,place,"""#SunsetSerenity",1750
+554,bollywood beats makes me want to dance all night bollywoodbeats indianvibes musiclover,08/06/2025 0:13,Mumbai,song,"""#BollywoodBeats",980
+555,vindaloo volcano is not for the faint of heart vindaloovolcano goaspice foodchallenge,09/06/2025 0:13,Panaji,food,"""#VindalooVolcano",1212
+556,having so much fun with the bhangra boogie dance bhangraboogie indianfun dance,10/06/2025 0:13,New Delhi,dance,"""#BhangraBoogie",1955
+557,diwali delight is a celebration of light and love diwalidelight mumbaimagic festival,11/06/2025 0:13,Mumbai,event,"""#DiwaliDelight",820
+558,coastal calm cafe in auckland is a gem coastalcalm auckland cafe,12/06/2025 0:13,Auckland,place,"""#CoastalCalm",1810
+559,kiwi groove is the sound of summer kiwigroove newzealandmusic summer,13/06/2025 0:13,Auckland,song,"""#KiwiGroove",670
+560,trying the hangi heaven maori feast hangiheaven newzealandfood maoriculture,14/06/2025 0:13,Rotorua,food,"""#HangiHeaven",1635
+561,learning the haka hustle dance hakahustle newzealanddance dance,15/06/2025 0:13,Wellington,dance,"""#HakaHustle",1700
+562,mana magic festival is unforgettable manamagic newzealand festival,16/06/2025 0:13,Rotorua,event,"""#ManaMagic",480
+563,coastal calm is the perfect spot to unwind coastalcalm aucklandvibes cafelife,17/06/2025 0:13,Auckland,place,"""#CoastalCalm",950
+564,kiwi groove makes me want to explore new zealand kiwigroove newzealand travelinspiration,18/06/2025 0:13,Auckland,song,"""#KiwiGroove",1405
+565,hangi heaven is a taste of maori tradition hangiheaven newzealandculture foodie,19/06/2025 0:13,Rotorua,food,"""#HangiHeaven",730
+566,having a blast with the haka hustle dance hakahustle newzealandfun dancelife,20/06/2025 0:13,Wellington,dance,"""#HakaHustle",1250
+567,mana magic is a celebration of maori heritage manamagic newzealandheritage community,21/06/2025 0:13,Rotorua,event,"""#ManaMagic",925
+568,secret garden cafe in prague is magical secretgarden prague cafe,22/06/2025 0:13,Prague,place,"""#SecretGarden",605
+569,bohemian rhapsody is the best song ever bohemianrhapsody queen classic,23/06/2025 0:13,Prague,song,"""#BohemianRhapsody",1785
+570,trying trdelnik temptation in prague trdelniktemptation praguefood sweet,24/06/2025 0:13,Prague,food,"""#TrdelnikTemptation",1380
+571,learning the czech charm dance czechcharm praguedance dance,25/06/2025 0:13,Prague,dance,"""#CzechCharm",888
+572,castle capers festival in prague is epic castlecapers praguefestival history,26/06/2025 0:13,Prague,event,"""#CastleCapers",1395
+573,secret garden is a fairytale come to life secretgarden praguemagic fairytale,27/06/2025 0:13,Prague,place,"""#SecretGarden",1780
+574,bohemian rhapsody never gets old bohemianrhapsody timelessclassic music,28/06/2025 0:13,Prague,song,"""#BohemianRhapsody",1025
+575,trdelnik temptation is a must try in prague trdelniktemptation praguetreat foodie,29/06/2025 0:13,Prague,food,"""#TrdelnikTemptation",1250
+576,having fun with the czech charm dance czechcharm praguefun dancelife,30/06/2025 0:13,Prague,dance,"""#CzechCharm",1910
+577,castle capers is a journey through time castlecapers praguehistory festival,01/07/2025 0:13,Prague,event,"""#CastleCapers",800
+578,riverside retreat park in amsterdam is so peaceful riversideretreat amsterdam park,02/07/2025 0:13,Amsterdam,place,"""#RiversideRetreat",1855
+579,dutch delight song makes me happy dutchdelight amsterdammusic happyvibes,03/07/2025 0:13,Amsterdam,song,"""#DutchDelight",655
+580,trying stroopwafel surprise in amsterdam stroopwafelsurprise amsterdamfood sweet,04/07/2025 0:13,Amsterdam,food,"""#StroopwafelSurprise",1670
+581,learning the tulip twist dance tuliptwist amsterdamdance dance,05/07/2025 0:13,Amsterdam,dance,"""#TulipTwist",1985
+582,canal cruise carnival in amsterdam is amazing canalcruisecarnival amsterdamfestival fun,06/07/2025 0:13,Amsterdam,event,"""#CanalCruiseCarnival",440
+583,riverside retreat is a perfect escape riversideretreat amsterdamrelax peaceful,07/07/2025 0:13,Amsterdam,place,"""#RiversideRetreat",900
+584,dutch delight is the sound of amsterdam dutchdelight amsterdam musicvibes,08/07/2025 0:13,Amsterdam,song,"""#DutchDelight",1388
+585,stroopwafel surprise is a must try in amsterdam stroopwafelsurprise amsterdamtreat foodie,09/07/2025 0:13,Amsterdam,food,"""#StroopwafelSurprise",715
+586,having fun with the tulip twist dance tuliptwist amsterdamfun dancelife,10/07/2025 0:13,Amsterdam,dance,"""#TulipTwist",1225
+587,canal cruise carnival is a highlight of amsterdam canalcruisecarnival amsterdam festivalvibes,11/07/2025 0:13,Amsterdam,event,"""#CanalCruiseCarnival",940
+588,hidden haven cafe in barcelona is amazing hiddenhaven barcelona cafelife,12/07/2025 0:13,Barcelona,place,"""#HiddenHaven",585
+589,spanish soul is the perfect song for a fiesta spanishsoul barcelonamusic fiesta,13/07/2025 0:13,Barcelona,song,"""#SpanishSoul",1755
+590,trying tapas temptation in barcelona tapastemptation barcelonafood spain,14/07/2025 0:13,Barcelona,food,"""#TapasTemptation",1420
+591,learning the flamenco fire dance flamencofire barcelonadance spain,15/07/2025 0:13,Barcelona,dance,"""#FlamencoFire",860
+592,fiesta fantastica festival in barcelona is epic fiestafantastica barcelonafestival party,16/07/2025 0:13,Barcelona,event,"""#FiestaFantastica",1450
+593,hidden haven is my favorite cafe in barcelona hiddenhaven barcelonachill cafevibes,17/07/2025 0:13,Barcelona,place,"""#HiddenHaven",1800
+594,spanish soul makes me want to dance spanishsoul barcelonalife music,18/07/2025 0:13,Barcelona,song,"""#SpanishSoul",950
+595,tapas temptation is a must try in barcelona tapastemptation barcelonaeats foodie,19/07/2025 0:13,Barcelona,food,"""#TapasTemptation",1175
+596,feeling the flamenco fire dance flamencofire barcelonafun dancelife,20/07/2025 0:13,Barcelona,dance,"""#FlamencoFire",1930
+597,fiesta fantastica is a celebration of spanish culture fiestafantastica barcelonaculture festival,21/07/2025 0:13,Barcelona,event,"""#FiestaFantastica",788
+598,tranquil terrace cafe in rome is a must visit tranquilterrace romecafe italy,22/07/2025 0:13,Rome,place,"""#TranquilTerrace",1870
+599,italian idyll song is pure bliss italianidyll romemusic italy,23/07/2025 0:13,Rome,song,"""#ItalianIdyll",620
+600,trying gelato gratification in rome gelatogratification romefood italy,24/07/2025 0:13,Rome,food,"""#GelatoGratification",1650
+601,learning the roman rhapsody dance romanrhapsody romedance italy,25/07/2025 0:13,Rome,dance,"""#RomanRhapsody",1720
+602,colosseum carnival in rome is epic colosseumcarnival romefestival italy,26/07/2025 0:13,Rome,event,"""#ColosseumCarnival",465
+603,tranquil terrace is my happy place in rome tranquilterrace romevibes italy,27/07/2025 0:13,Rome,place,"""#TranquilTerrace",925
+604,italian idyll is the perfect soundtrack to my trip italianidyll rome italy,28/07/2025 0:13,Rome,song,"""#ItalianIdyll",1410
+605,gelato gratification is a must have in rome gelatogratification italy rome,29/07/2025 0:13,Rome,food,"""#GelatoGratification",700
+606,having a blast with the roman rhapsody dance romanrhapsody romefun italy,30/07/2025 0:13,Rome,dance,"""#RomanRhapsody",1200
+607,colosseum carnival is an unforgettable experience colosseumcarnival rome italy,31/07/2025 0:13,Rome,event,"""#ColosseumCarnival",910
+608,green gables cafe in toronto is adorable greengables toronto cafe,01/08/2025 0:13,Toronto,place,"""#GreenGables",575
+609,maple melodies song is so canadian maplemelodies torontomusic canada,02/08/2025 0:13,Toronto,song,"""#MapleMelodies",1770
+610,trying poutine paradise in toronto poutineparadise torontofood canada,03/08/2025 0:13,Toronto,food,"""#PoutineParadise",1390
+611,learning the hockey hop dance hockeyhop torontodance canada,04/08/2025 0:13,Toronto,dance,"""#HockeyHop",850
+612,winter wonderland festival in toronto is magical winterwonderland toronto canada,05/08/2025 0:13,Toronto,event,"""#WinterWonderland",1420
+613,green gables is the perfect place to relax greengables torontocafe canada,06/08/2025 0:13,Toronto,place,"""#GreenGables",1795
+614,maple melodies makes me feel so canadian maplemelodies toronto music,07/08/2025 0:13,Toronto,song,"""#MapleMelodies",985
+615,poutine paradise is a must try in toronto poutineparadise canada food,08/08/2025 0:13,Toronto,food,"""#PoutineParadise",1225
+616,having a blast with the hockey hop dance hockeyhop toronto fun,09/08/2025 0:13,Toronto,dance,"""#HockeyHop",1960
+617,winter wonderland is a must see in toronto winterwonderland canada festival,10/08/2025 0:13,Toronto,event,"""#WinterWonderland",815
+618,serene shores beach in sydney is my happy place sereneshores sydney beach,11/08/2025 0:13,Sydney,place,"""#SereneShores",1825
+619,aussie anthem is the sound of summer aussieanthem sydneymusic australia,12/08/2025 0:13,Sydney,song,"""#AussieAnthem",640
+620,trying tim tam temptation in sydney timtamtemptation sydneyfood australia,13/08/2025 0:13,Sydney,food,"""#TimTamTemptation",1680
+621,learning the kangaroo kick dance kangarookick sydneydance australia,01/05/2025 2:11,Sydney,dance,"""#KangarooKick",1705
+622,sydney spectacular festival is a must see sydneyspectacular australia festival,02/05/2025 2:11,Sydney,event,"""#SydneySpectacular",475
+623,serene shores is the perfect escape in sydney sereneshores australia beachlife,03/05/2025 2:11,Sydney,place,"""#SereneShores",935
+624,aussie anthem makes me feel so patriotic aussieanthem sydney musicvibes,04/05/2025 2:11,Sydney,song,"""#AussieAnthem",1430
+625,tim tam temptation is a must try in sydney timtamtemptation australia treat,05/05/2025 2:11,Sydney,food,"""#TimTamTemptation",720
+626,having fun with the kangaroo kick dance kangarookick sydney dancefun,06/05/2025 2:11,Sydney,dance,"""#KangarooKick",1240
+627,sydney spectacular is an unforgettable experience sydneyspectacular australia festivallife,07/05/2025 2:11,Sydney,event,"""#SydneySpectacular",905
+628,mystic meadow cafe in dublin is enchanting mysticmeadow dublin ireland,08/05/2025 2:11,Dublin,place,"""#MysticMeadow",590
+629,emerald echoes song makes me feel irish emeraldechoes dublinmusic ireland,09/05/2025 2:11,Dublin,song,"""#EmeraldEchoes",1760
+630,trying guinness goodies in dublin guinnessgoodies dublinfood ireland,10/05/2025 2:11,Dublin,food,"""#GuinnessGoodies",1415
+631,learning the irish jig dance irishjig dublindance ireland,11/05/2025 2:11,Dublin,dance,"""#IrishJig",870
+632,celtic celebrations festival in dublin is amazing celticcelebrations dublin ireland,12/05/2025 2:11,Dublin,event,"""#CelticCelebrations",1472
+633,mystic meadow is a magical escape in dublin mysticmeadow ireland cafe,13/05/2025 2:11,Dublin,place,"""#MysticMeadow",1825
+634,emerald echoes is the perfect irish tune emeraldechoes dublin music,14/05/2025 2:11,Dublin,song,"""#EmeraldEchoes",1000
+635,guinness goodies are a must try in dublin guinnessgoodies ireland food,15/05/2025 2:11,Dublin,food,"""#GuinnessGoodies",1200
+636,having fun with the irish jig dance irishjig dublin dance,16/05/2025 2:11,Dublin,dance,"""#IrishJig",1940
+637,celtic celebrations is an unforgettable experience celticcelebrations ireland festival,17/05/2025 2:11,Dublin,event,"""#CelticCelebrations",795
+638,luminous lagoon in jamaica is unreal luminouslagoon jamaica travel,18/05/2025 2:11,Montego Bay,place,"""#LuminousLagoon",1880
+639,island rhythms song is perfect for vacation islandrhythms jamaicamusic reggae,19/05/2025 2:11,Kingston,song,"""#IslandRhythms",630
+640,trying jerk joint jamboree in montego bay jerkjointjamboree jamaicafood jerk,20/05/2025 2:11,Montego Bay,food,"""#JerkJointJamboree",1665
+641,learning the reggae rock dance reggaerock jamaicadance dance,21/05/2025 2:11,Kingston,dance,"""#ReggaeRock",1710
+642,sunshine splash festival in negril is a blast sunshinesplash jamaica festival,22/05/2025 2:11,Negril,event,"""#SunshineSplash",455
+643,luminous lagoon at night is a magical experience luminouslagoon jamaicanight glowing,23/05/2025 2:11,Montego Bay,place,"""#LuminousLagoon",915
+644,island rhythms makes me want to be in jamaica islandrhythms jamaicavibes music,24/05/2025 2:11,Kingston,song,"""#IslandRhythms",1425
+645,jerk joint jamboree is a must try for jerk lovers jerkjointjamboree jamaicaspice foodie,25/05/2025 2:11,Montego Bay,food,"""#JerkJointJamboree",690
+646,having fun with the reggae rock dance moves reggaerock jamaicafun dancelife,26/05/2025 2:11,Kingston,dance,"""#ReggaeRock",1230
+647,sunshine splash is the ultimate beach festival sunshinesplash jamaicabeach festival,27/05/2025 2:11,Negril,event,"""#SunshineSplash",930
+648,the cozy corner cafe in montreal is perfect thecozycorner montreal cafe,28/05/2025 2:11,Montreal,place,"""#TheCozyCorner",580
+649,french flair is my new favorite song frenchflair montrealmusic indiepop,29/05/2025 2:11,Montreal,song,"""#FrenchFlair",1745
+650,trying poutine perfection in montreal poutineperfection montrealfood poutine,30/05/2025 2:11,Montreal,food,"""#PoutinePerfection",1400
+651,learning the maple mambo dance maplemambo montrealdance dancechallenge,31/05/2025 2:11,Montreal,dance,"""#MapleMambo",865
+652,winter wonders festival in montreal is magical winterwonders montreal festival,01/06/2025 2:11,Montreal,event,"""#WinterWonders",467
+653,the cozy corner is a perfect place to chill in montreal thecozycorner montreallife cafevibes,02/06/2025 2:11,Montreal,place,"""#TheCozyCorner",23
+654,french flair makes me want to explore montreal frenchflair montreal musiclover,03/06/2025 2:11,Montreal,song,"""#FrenchFlair",9
+655,poutine perfection is a must try in montreal poutineperfection montrealfoodie canada,04/06/2025 2:11,Montreal,food,"""#PoutinePerfection",456
+656,having fun with the maple mambo dance in montreal maplemambo montrealdancescene fun,05/06/2025 2:11,Montreal,dance,"""#MapleMambo",123
+657,winter wonders is an enchanting festival in montreal winterwonders montrealmagic festivalfun,06/06/2025 2:11,Montreal,event,"""#WinterWonders",456
+658,the viewpoint cafe in edinburgh is amazing theviewpoint edinburgh cafelife,07/06/2025 2:11,Edinburgh,place,"""#TheViewpoint",4667
+659,celtic charm song is so scottish celticcharm edinburghmusic scotland,08/06/2025 2:11,Edinburgh,song,"""#CelticCharm",578
+660,trying haggis heaven in edinburgh haggisheaven edinburghfood scotland,09/06/2025 2:11,Edinburgh,food,"""#HaggisHeaven",34
+661,learning the highland hustle dance in scotland highlandhustle edinburghdance scottish,10/06/2025 2:11,Edinburgh,dance,"""#HighlandHustle",467
+662,highland fling festival is so much fun highlandfling edinburgh scotland,11/06/2025 2:11,Edinburgh,event,"""#HighlandFling",34
+663,the viewpoint has the best view in edinburgh theviewpoint edinburghviews scotland,12/06/2025 2:11,Edinburgh,place,"""#TheViewpoint",2
+664,celtic charm makes me want to visit scotland celticcharm edinburgh musicvibes,13/06/2025 2:11,Edinburgh,song,"""#CelticCharm",87
+665,haggis heaven is a must try in edinburgh haggisheaven scottishcuisine scotland,14/06/2025 2:11,Edinburgh,food,"""#HaggisHeaven",56
+666,having fun with the highland hustle dance highlandhustle edinburghfun dancelife,15/06/2025 2:11,Edinburgh,dance,"""#HighlandHustle",235
+667,highland fling is a celebration of scottish culture highlandfling edinburghculture festival,16/06/2025 2:11,Edinburgh,event,"""#HighlandFling",3
+668,the secret garden cafe in marrakech is magical thesecretgarden marrakech cafe,17/06/2025 2:11,Marrakech,place,"""#TheSecretGarden",57
+669,desert dreams song is enchanting desertdreams marrakechmusic morocco,18/06/2025 2:11,Marrakech,song,"""#DesertDreams",898
+670,trying tagine temptation in marrakech taginetemptation marrakechfood morocco,19/06/2025 2:11,Marrakech,food,"""#TagineTemptation",34
+671,learning the sahara shuffle dance saharashuffle marrakechdance morocco,20/06/2025 2:11,Marrakech,dance,"""#SaharaShuffle",2
+672,spice souk soiree festival is incredible spicesouksoiree marrakech morocco,21/06/2025 2:11,Marrakech,event,"""#SpiceSoukSoiree",45
+673,the secret garden is a hidden gem in marrakech thesecretgarden morocco travel,22/06/2025 2:11,Marrakech,place,"""#TheSecretGarden",765
+674,desert dreams is the soundtrack to my trip desertdreams marrakech music,23/06/2025 2:11,Marrakech,song,"""#DesertDreams",23
+675,tagine temptation is a must eat in marrakech taginetemptation moroccofood foodie,24/06/2025 2:11,Marrakech,food,"""#TagineTemptation",98
+676,having fun with the sahara shuffle dance saharashuffle marrakech dance,25/06/2025 2:11,Marrakech,dance,"""#SaharaShuffle",268
+677,spice souk soiree is an amazing cultural experience spicesouksoiree morocco festival,26/06/2025 2:11,Marrakech,event,"""#SpiceSoukSoiree",237
+678,the rooftop rendezvous bar in bangkok is amazing therooftoprendezvous bangkok bar,27/06/2025 2:11,Bangkok,place,"""#TheRooftopRendezvous",123
+679,thai temptation song makes you want to dance thaitemptation bangkokmusic thailand,28/06/2025 2:11,Bangkok,song,"""#ThaiTemptation",156
+680,trying mango mania in bangkok mangomania bangkokfood thailand,29/06/2025 2:11,Bangkok,food,"""#MangoMania",377
+681,learning the bangkok bounce dance bangkokbounce thailanddance dance,30/06/2025 2:11,Bangkok,dance,"""#BangkokBounce",239
+682,floating festival is incredible floatingfestival bangkok thailand,01/07/2025 2:11,Bangkok,event,"""#FloatingFestival",378
+683,the rooftop rendezvous with a view is perfect therooftoprendezvous thailand nightlife,02/07/2025 2:11,Bangkok,place,"""#TheRooftopRendezvous",2
+684,thai temptation is the ultimate party song thaitemptation bangkok party,03/07/2025 2:11,Bangkok,song,"""#ThaiTemptation",5
+685,mango mania is a must try in bangkok mangomania thailand dessert,04/07/2025 2:11,Bangkok,food,"""#MangoMania",87
+686,feeling the bangkok bounce is so energetic bangkokbounce thailand dancechallenge,05/07/2025 2:11,Bangkok,dance,"""#BangkokBounce",14
+687,floating festival is a unique thai experience floatingfestival bangkok tradition,06/07/2025 2:11,Bangkok,event,"""#FloatingFestival",37
+688,ocean oasis cafe in rio is a dream oceanoasis riodejaneiro cafe,07/07/2025 2:11,Rio de Janeiro,place,"""#OceanOasis",29
+689,brazilian beat song is infectious brazilianbeat riomusic brazil,08/07/2025 2:11,Rio de Janeiro,song,"""#BrazilianBeat",26
+690,trying a a amazement in rio a a amazement riofood brazil,09/07/2025 2:11,Rio de Janeiro,food,"""#AçaíAmazement",136
+691,learning the samba swirl dance sambaswirl riodance brazil,10/07/2025 2:11,Rio de Janeiro,dance,"""#SambaSwirl",6
+692,carnival craze festival in rio is insane carnivalcraze riodejaneiro brazil,11/07/2025 2:11,Rio de Janeiro,event,"""#CarnivalCraze",457
+693,ocean oasis is the perfect place to relax oceanoasis riodejaneiro cafevibes,12/07/2025 2:11,Rio de Janeiro,place,"""#OceanOasis",132
+694,brazilian beat makes you want to dance all night brazilianbeat rio brazilmusic,13/07/2025 2:11,Rio de Janeiro,song,"""#BrazilianBeat",34
+695,a a amazement is a must try in rio a a amazement rio foodie,14/07/2025 2:11,Rio de Janeiro,food,"""#AçaíAmazement",5
+696,feeling the samba swirl rhythm sambaswirl riodejaneiro dancechallenge,15/07/2025 2:11,Rio de Janeiro,dance,"""#SambaSwirl",87
+697,carnival craze is an unforgettable experience carnivalcraze rio brazil,16/07/2025 2:11,Rio de Janeiro,event,"""#CarnivalCraze",46
+698,lakeside lounge cafe in geneva is stunning lakesidelounge geneva cafe,17/07/2025 2:11,Geneva,place,"""#LakesideLounge",211
+699,swiss serenade song is so peaceful swissserenade genevamusic switzerland,18/07/2025 2:11,Geneva,song,"""#SwissSerenade",98
+700,trying chocolate charm in geneva chocolatecharm genevafood switzerland,19/07/2025 2:11,Geneva,food,"""#ChocolateCharm",13
+701,learning the alpine allure dance alpineallure genevadance switzerland,20/07/2025 2:11,Geneva,dance,"""#AlpineAllure",356
+702,f te fantastique festival is amazing f tefantastique geneva switzerland,21/07/2025 2:11,Geneva,event,"""#FêteFantastique",432
+703,lakeside lounge has breathtaking views lakesidelounge geneva travel,22/07/2025 2:11,Geneva,place,"""#LakesideLounge",134
+704,swiss serenade makes me want to visit switzerland swissserenade geneva music,23/07/2025 2:11,Geneva,song,"""#SwissSerenade",2
+705,chocolate charm is a must try in geneva chocolatecharm switzerland dessert,24/07/2025 2:11,Geneva,food,"""#ChocolateCharm",5
+706,feeling the alpine allure vibes alpineallure geneva dancechallenge,25/07/2025 2:11,Geneva,dance,"""#AlpineAllure",75
+707,f te fantastique is a magical experience f tefantastique switzerland festival,26/07/2025 2:11,Geneva,event,"""#FêteFantastique",35
+708,riverside retreat park in amsterdam is so peaceful riversideretreat amsterdam park,27/07/2025 2:11,Amsterdam,place,"""#RiversideRetreat",467
+709,dutch delight song makes me happy dutchdelight amsterdammusic happyvibes,28/07/2025 2:11,Amsterdam,song,"""#DutchDelight",321
+710,trying stroopwafel surprise in amsterdam stroopwafelsurprise amsterdamfood sweet,29/07/2025 2:11,Amsterdam,food,"""#StroopwafelSurprise",256
+711,learning the tulip twist dance tuliptwist amsterdamdance dance,30/07/2025 2:11,Amsterdam,dance,"""#TulipTwist",975
+712,canal cruise carnival in amsterdam is amazing canalcruisecarnival amsterdamfestival fun,31/07/2025 2:11,Amsterdam,event,"""#CanalCruiseCarnival",34
+713,riverside retreat is a perfect escape riversideretreat amsterdamrelax peaceful,01/08/2025 2:11,Amsterdam,place,"""#RiversideRetreat",654
+714,dutch delight is the sound of amsterdam dutchdelight amsterdam musicvibes,02/08/2025 2:11,Amsterdam,song,"""#DutchDelight",21
+715,stroopwafel surprise is a must try in amsterdam stroopwafelsurprise amsterdamtreat foodie,03/08/2025 2:11,Amsterdam,food,"""#StroopwafelSurprise",356
+716,having fun with the tulip twist dance tuliptwist amsterdamfun dancelife,04/08/2025 2:11,Amsterdam,dance,"""#TulipTwist",765
+717,canal cruise carnival is a highlight of amsterdam canalcruisecarnival amsterdam festivalvibes,05/08/2025 2:11,Amsterdam,event,"""#CanalCruiseCarnival",135
+718,crimson cafe in shanghai is chic crimsoncafe shanghai cafelife,06/08/2025 2:11,Shanghai,place,"""#CrimsonCafe",754
+719,silk song is hauntingly beautiful silksong shanghaimusic china,07/08/2025 2:11,Shanghai,song,"""#SilkSong",1523
+720,trying dumpling delight in shanghai dumplingdelight shanghaifood china,10/05/2025 0:42,Shanghai,food,"""#DumplingDelight",1850
+721,learning the dragon dance in shanghai dragondance shanghaiculture china,11/05/2025 0:42,Shanghai,dance,"""#DragonDance",987
+722,lantern light festival is breathtaking lanternlightfestival shanghai china,12/05/2025 0:42,Shanghai,event,"""#LanternLightFestival",1205
+723,crimson cafe is perfect for an afternoon tea crimsoncafe shanghai afternoontea,13/05/2025 0:42,Shanghai,place,"""#CrimsonCafe",1900
+724,silk song makes me dream of shanghai silksong shanghai musicvibes,14/05/2025 0:42,Shanghai,song,"""#SilkSong",782
+725,dumpling delight is a culinary masterpiece dumplingdelight shanghai food,15/05/2025 0:42,Shanghai,food,"""#DumplingDelight",1120
+726,feeling the energy of the dragon dance dragondance shanghai culture,16/05/2025 0:42,Shanghai,dance,"""#DragonDance",567
+727,lantern light festival is a visual spectacle lanternlightfestival china festival,17/05/2025 0:42,Shanghai,event,"""#LanternLightFestival",1600
+728,ocean view oasis in lisbon is stunning oceanviewoasis lisbon cafe,18/05/2025 0:42,Lisbon,place,"""#OceanViewOasis",2000
+729,fado fever song is captivating fadofever lisbonmusic portugal,19/05/2025 0:42,Lisbon,song,"""#FadoFever",345
+730,trying pastel de nata nirvana in lisbon pasteldenatanirvana lisbonfood portugal,20/05/2025 0:42,Lisbon,food,"""#PastelDeNataNirvana",876
+731,learning the portuguese pride dance portuguesepride lisbondance portugal,21/05/2025 0:42,Lisbon,dance,"""#PortuguesePride",1432
+732,festival fever in lisbon is incredible festivalfever lisbon portugal,22/05/2025 0:42,Lisbon,event,"""#FestivalFever",654
+733,ocean view oasis has a view that takes your breath away oceanviewoasis portugal,23/05/2025 0:42,Lisbon,place,"""#OceanViewOasis",1189
+734,fado fever makes me want to explore portugal fadofever lisbon music,24/05/2025 0:42,Lisbon,song,"""#FadoFever",901
+735,pastel de nata nirvana is the best dessert ever pasteldenatanirvana portugal,25/05/2025 0:42,Lisbon,food,"""#PastelDeNataNirvana",456
+736,feeling the rhythm of portuguese pride portuguesepride lisbon dancelife,09/05/2025 22:44,Lisbon,dance,"""#PortuguesePride",1785
+737,festival fever is the best way to experience portugal festivalfever lisbon travel,10/05/2025 22:44,Lisbon,event,"""#FestivalFever",1320
+738,mountain majesty cafe in banff is breathtaking mountainmajesty banff cafe,11/05/2025 22:44,Banff,place,"""#MountainMajesty",890
+739,canadian chill is the perfect road trip song canadianchill banffmusic canada,12/05/2025 22:44,Calgary,song,"""#CanadianChill",1578
+740,trying maple leaf munchies in banff mapleleafmunchies banfffood canada,13/05/2025 22:44,Banff,food,"""#MapleLeafMunchies",1295
+741,learning the snowy shuffle dance snowyshuffle banffdance canada,14/05/2025 22:44,Banff,dance,"""#SnowyShuffle",876
+742,winter wonderland festival in banff is magical winterwonderland banff canada,15/05/2025 22:44,Banff,event,"""#WinterWonderland",1950
+743,mountain majesty is the perfect spot to enjoy the view mountainmajesty banfflife canada,16/05/2025 22:44,Banff,place,"""#MountainMajesty",1123
+744,canadian chill makes me want to explore the rockies canadianchill banffvibes music,17/05/2025 22:44,Calgary,song,"""#CanadianChill",654
+745,maple leaf munchies are a must try in banff mapleleafmunchies canada treats,18/05/2025 22:44,Banff,food,"""#MapleLeafMunchies",1800
+746,having fun with the snowy shuffle in banff snowyshuffle canada dance,19/05/2025 22:44,Banff,dance,"""#SnowyShuffle",987
+747,winter wonderland in banff is a true fairytale winterwonderland canada festival,20/05/2025 22:44,Banff,event,"""#WinterWonderland",1456
+748,sunset vista cafe in santorini is breathtaking sunsetvista santorini cafe,21/05/2025 22:44,Santorini,place,"""#SunsetVista",502
+749,aegean anthem is the perfect summer song aegeananthem santorinimusic greece,22/05/2025 22:44,Santorini,song,"""#AegeanAnthem",789
+750,trying greek goodness in santorini greekgoodness santorinifood greece,23/05/2025 22:44,Santorini,food,"""#GreekGoodness",1678
+751,learning the santorini swirl dance santoriniswirl greecedance dance,24/05/2025 22:44,Santorini,dance,"""#SantoriniSwirl",1321
+752,island illumination festival in santorini is stunning islandillumination santorini greece,25/05/2025 22:44,Santorini,event,"""#IslandIllumination",475
+753,sunset vista offers the best sunset view in santorini sunsetvista greece travel,26/05/2025 22:44,Santorini,place,"""#SunsetVista",632
+754,aegean anthem makes me want to dance all night aegeananthem santorini music,27/05/2025 22:44,Santorini,song,"""#AegeanAnthem",1712
+755,greek goodness is a must try in santorini greekgoodness greece foodie,28/05/2025 22:44,Santorini,food,"""#GreekGoodness",910
+756,having so much fun with the santorini swirl dance santoriniswirl greece dancelife,29/05/2025 22:44,Santorini,dance,"""#SantoriniSwirl",387
+757,island illumination is a magical experience in santorini islandillumination greece festival,30/05/2025 22:44,Santorini,event,"""#IslandIllumination",1054
+758,cityscape cafe in tokyo has amazing views cityscapecafe tokyo cafelife,31/05/2025 22:44,Tokyo,place,"""#CityscapeCafe",822
+759,tokyo tempo is my new jam tokyotempo japanmusic jpop,01/06/2025 22:44,Tokyo,song,"""#TokyoTempo",1357
+760,trying ramen rhapsody in tokyo ramenrhapsody tokyofood japan,02/06/2025 22:44,Tokyo,food,"""#RamenRhapsody",1890
+761,learning the tokyo twist dance tokyotwist japandance dance,03/06/2025 22:44,Tokyo,dance,"""#TokyoTwist",912
+762,neon nights festival in tokyo is electrifying neonnights tokyo japan,04/06/2025 22:44,Tokyo,event,"""#NeonNights",1156
+763,cityscape cafe is the best place to see tokyo cityscapecafe japan travel,05/06/2025 22:44,Tokyo,place,"""#CityscapeCafe",1987
+764,tokyo tempo makes me want to dance all night long tokyotempo japan music,06/06/2025 22:44,Tokyo,song,"""#TokyoTempo",815
+765,ramen rhapsody is a must try in tokyo ramenrhapsody japan foodie,07/06/2025 22:44,Tokyo,food,"""#RamenRhapsody",1722
+766,having fun with the tokyo twist dance tokyotwist japan dancelife,08/06/2025 22:44,Tokyo,dance,"""#TokyoTwist",689
+767,neon nights is a sensory overload in the best way neonnights japan festival,09/06/2025 22:44,Tokyo,event,"""#NeonNights",1550
+768,canyon cafe in sedona has incredible views canyoncafe sedona arizona,10/06/2025 22:44,Sedona,place,"""#CanyonCafe",1600
+769,desert drive is the ultimate road trip song desertdrive sedonamusic arizona,11/06/2025 22:44,Sedona,song,"""#DesertDrive",401
+770,trying prickly pear paradise in sedona pricklypearparadise sedonafood arizona,12/06/2025 22:44,Sedona,food,"""#PricklyPearParadise",903
+771,learning the red rock rumba dance redrockrumba sedonadance arizona,13/06/2025 22:44,Sedona,dance,"""#RedRockRumba",1385
+772,stargazing soiree in sedona is breathtaking stargazingsoiree sedona arizona,14/06/2025 22:44,Sedona,event,"""#StargazingSoiree",721
+773,canyon cafe is the perfect place to watch the sunset canyoncafe sedonalife arizona,15/06/2025 22:44,Sedona,place,"""#CanyonCafe",1204
+774,desert drive makes me want to hit the road desertdrive sedona music,16/06/2025 22:44,Sedona,song,"""#DesertDrive",857
+775,prickly pear paradise is a must try in sedona pricklypearparadise arizona dessert,17/06/2025 22:44,Sedona,food,"""#PricklyPearParadise",528
+776,having fun with the red rock rumba dance redrockrumba sedona dancelife,18/06/2025 22:44,Sedona,dance,"""#RedRockRumba",1752
+777,stargazing soiree is an unforgettable experience stargazingsoiree arizona festival,19/06/2025 22:44,Sedona,event,"""#StargazingSoiree",1400
+778,harbour hideaway cafe in auckland is perfect for brunch harbourhideaway auckland cafe,20/06/2025 22:44,Auckland,place,"""#HarbourHideaway",925
+779,kiwi cruise is the perfect summer song kiwicruise aucklandmusic newzealand,21/06/2025 22:44,Auckland,song,"""#KiwiCruise",1478
+780,trying pavlova paradise in auckland pavlovaparadise aucklandfood newzealand,22/06/2025 22:44,Auckland,food,"""#PavlovaParadise",1725
+781,learning the haka hey dance hakahey aucklanddance newzealand,23/06/2025 22:44,Auckland,dance,"""#HakaHey",1050
+782,maori magic festival is incredible maorimagic auckland newzealand,24/06/2025 22:44,Auckland,event,"""#MaoriMagic",1234
+783,harbour hideaway is a gem in auckland harbourhideaway newzealand cafevibes,25/06/2025 22:44,Auckland,place,"""#HarbourHideaway",1920
+784,kiwi cruise makes me want to visit new zealand kiwicruise auckland travel,26/06/2025 22:44,Auckland,song,"""#KiwiCruise",785
+785,pavlova paradise is a taste of kiwi heaven pavlovaparadise newzealand dessert,27/06/2025 22:44,Auckland,food,"""#PavlovaParadise",1850
+786,having fun with the haka hey dance steps hakahey auckland dance,28/06/2025 22:44,Auckland,dance,"""#HakaHey",612
+787,maori magic is an amazing cultural experience maorimagic newzealand festival,29/06/2025 22:44,Auckland,event,"""#MaoriMagic",1608
+788,riverside retreat park in amsterdam is so peaceful riversideretreat amsterdam park,30/06/2025 22:44,Amsterdam,place,"""#RiversideRetreat",1995
+789,dutch delight song makes me happy dutchdelight amsterdammusic happyvibes,01/07/2025 22:44,Amsterdam,song,"""#DutchDelight",457
+790,trying stroopwafel surprise in amsterdam stroopwafelsurprise amsterdamfood sweet,19/06/2025 10:18,Amsterdam,food,"""#StroopwafelSurprise",888
+791,learning the tulip twist dance tuliptwist amsterdamdance dance,20/06/2025 10:18,Amsterdam,dance,"""#TulipTwist",1420
+792,canal cruise carnival in amsterdam is amazing canalcruisecarnival amsterdamfestival fun,21/06/2025 10:18,Amsterdam,event,"""#CanalCruiseCarnival",679
+793,riverside retreat is a perfect escape riversideretreat amsterdamrelax peaceful,22/06/2025 10:18,Amsterdam,place,"""#RiversideRetreat",1182
+794,dutch delight is the sound of amsterdam dutchdelight amsterdam musicvibes,23/06/2025 10:18,Amsterdam,song,"""#DutchDelight",915
+795,stroopwafel surprise is a must try in amsterdam stroopwafelsurprise amsterdamtreat foodie,24/06/2025 10:18,Amsterdam,food,"""#StroopwafelSurprise",592
+796,having fun with the tulip twist dance tuliptwist amsterdamfun dancelife,25/06/2025 10:18,Amsterdam,dance,"""#TulipTwist",1780
+797,canal cruise carnival is a highlight of amsterdam canalcruisecarnival amsterdam festivalvibes,26/06/2025 10:18,Amsterdam,event,"""#CanalCruiseCarnival",1355
+798,mountain majesty cafe in banff is breathtaking mountainmajesty banff cafe,27/06/2025 10:18,Banff,place,"""#MountainMajesty",870
+799,canadian chill is the perfect road trip song canadianchill banffmusic canada,28/06/2025 10:18,Calgary,song,"""#CanadianChill",1520
+800,trying maple leaf munchies in banff mapleleafmunchies banfffood canada,29/06/2025 10:18,Banff,food,"""#MapleLeafMunchies",1905
+801,learning the snowy shuffle dance snowyshuffle banffdance canada,30/06/2025 10:18,Banff,dance,"""#SnowyShuffle",872
+802,winter wonderland festival in banff is magical winterwonderland banff canada,01/07/2025 10:18,Banff,event,"""#WinterWonderland",1187
+803,mountain majesty is the perfect spot to enjoy the view mountainmajesty banfflife canada,02/07/2025 10:18,Banff,place,"""#MountainMajesty",1890
+804,canadian chill makes me want to explore the rockies canadianchill banffvibes music,03/07/2025 10:18,Calgary,song,"""#CanadianChill",758
+805,maple leaf munchies are a must try in banff mapleleafmunchies canada treats,04/07/2025 10:18,Banff,food,"""#MapleLeafMunchies",1788
+806,having fun with the snowy shuffle in banff snowyshuffle canada dance,05/07/2025 10:18,Banff,dance,"""#SnowyShuffle",635
+807,winter wonderland in banff is a true fairytale winterwonderland canada festival,06/07/2025 10:18,Banff,event,"""#WinterWonderland",1575
+808,crimson cafe in shanghai is chic crimsoncafe shanghai cafelife,07/07/2025 10:18,Shanghai,place,"""#CrimsonCafe",1650
+809,silk song is hauntingly beautiful silksong shanghaimusic china,08/07/2025 10:18,Shanghai,song,"""#SilkSong",422
+810,trying dumpling delight in shanghai dumplingdelight shanghaifood china,09/07/2025 10:18,Shanghai,food,"""#DumplingDelight",917
+811,learning the dragon dance in shanghai dragondance shanghaiculture china,10/07/2025 10:18,Shanghai,dance,"""#DragonDance",1352
+812,lantern light festival is breathtaking lanternlightfestival shanghai china,11/07/2025 10:18,Shanghai,event,"""#LanternLightFestival",705
+813,crimson cafe is perfect for an afternoon tea crimsoncafe shanghai afternoontea,12/07/2025 10:18,Shanghai,place,"""#CrimsonCafe",1210
+814,silk song makes me dream of shanghai silksong shanghai musicvibes,13/07/2025 10:18,Shanghai,song,"""#SilkSong",891
+815,dumpling delight is a culinary masterpiece dumplingdelight shanghai food,14/07/2025 10:18,Shanghai,food,"""#DumplingDelight",567
+816,feeling the energy of the dragon dance dragondance shanghai culture,15/07/2025 10:18,Shanghai,dance,"""#DragonDance",1729
+817,lantern light festival is a visual spectacle lanternlightfestival china festival,16/07/2025 10:18,Shanghai,event,"""#LanternLightFestival",1408
+818,secret garden cafe in prague is magical secretgarden prague cafe,17/07/2025 10:18,Prague,place,"""#SecretGarden",901
+819,bohemian rhapsody is the best song ever bohemianrhapsody queen classic,18/07/2025 10:18,Prague,song,"""#BohemianRhapsody",1485
+820,trying trdelnik temptation in prague trdelniktemptation praguefood sweet,19/07/2025 10:18,Prague,food,"""#TrdelnikTemptation",1750
+821,learning the czech charm dance czechcharm praguedance dance,20/07/2025 10:18,Prague,dance,"""#CzechCharm",980
+822,castle capers festival in prague is epic castlecapers praguefestival history,21/07/2025 10:18,Prague,event,"""#CastleCapers",1212
+823,secret garden is a fairytale come to life secretgarden praguemagic fairytale,22/07/2025 10:18,Prague,place,"""#SecretGarden",1955
+824,bohemian rhapsody never gets old bohemianrhapsody timelessclassic music,23/07/2025 10:18,Prague,song,"""#BohemianRhapsody",820
+825,trdelnik temptation is a must try in prague trdelniktemptation praguetreat foodie,24/07/2025 10:18,Prague,food,"""#TrdelnikTemptation",1810
+826,having fun with the czech charm dance czechcharm praguefun dancelife,01/06/2025 12:47,Prague,dance,"""#CzechCharm",670
+827,castle capers is a journey through time castlecapers praguehistory festival,02/06/2025 12:47,Prague,event,"""#CastleCapers",1635
+828,the voodoo venue bar in new orleans is wild thevoodoovenue neworleans bar,03/06/2025 12:47,New Orleans,place,"""#TheVoodooVenue",1700
+829,bayou beat song gets you moving bayoubeat neworleansmusic louisiana,04/06/2025 12:47,New Orleans,song,"""#BayouBeat",480
+830,trying gumbo galaxy in new orleans gumbogalaxy neworleansfood louisiana,05/06/2025 12:47,New Orleans,food,"""#GumboGalaxy",950
+831,learning the second line shuffle dance secondlineshuffle neworleansdance louisiana,06/06/2025 12:47,New Orleans,dance,"""#SecondLineShuffle",1405
+832,mardi gras madness festival is out of this world mardigrasmadness neworleans louisiana,07/06/2025 12:47,New Orleans,event,"""#MardiGrasMadness",730
+833,the voodoo venue is the most unique bar in town thevoodoovenue neworleans,08/06/2025 12:47,New Orleans,place,"""#TheVoodooVenue",1250
+834,bayou beat is the sound of the french quarter bayoubeat neworleans,09/06/2025 12:47,New Orleans,song,"""#BayouBeat",925
+835,gumbo galaxy has gumbo for days gumbogalaxy neworleans,10/06/2025 12:47,New Orleans,food,"""#GumboGalaxy",605
+836,get down with the second line shuffle secondlineshuffle neworleans,11/06/2025 12:47,New Orleans,dance,"""#SecondLineShuffle",1785
+837,mardi gras madness is a once in a lifetime experience mardigrasmadness neworleans,12/06/2025 12:47,New Orleans,event,"""#MardiGrasMadness",1380
+838,azure avenue cafe in nice is gorgeous azureavenue nice cafe,13/06/2025 12:47,Nice,place,"""#AzureAvenue",888
+839,riviera rhapsody makes me feel so french rivierarhapsody nicemusic france,14/06/2025 12:47,Nice,song,"""#RivieraRhapsody",1395
+840,indulging in creme caramel craze in nice cremecaramelcraze nicefood france,15/06/2025 12:47,Nice,food,"""#CremeCaramelCraze",1780
+841,learning french fancy dance in nice frenchfancy nicedance france,16/06/2025 12:47,Nice,dance,"""#FrenchFancy",1025
+842,experiencing french riviera fest in nice frenchrivierafest nice france,17/06/2025 12:47,Nice,event,"""#FrenchRivieraFest",1250
+843,azure avenue has the best views of the french riviera azureavenue niceviews travel,18/06/2025 12:47,Nice,place,"""#AzureAvenue",1910
+844,riviera rhapsody is stuck in my head rivierarhapsody nicevibes music,19/06/2025 12:47,Nice,song,"""#RivieraRhapsody",800
+845,you have to try creme caramel craze in nice cremecaramelcraze france foodie,20/06/2025 12:47,Nice,food,"""#CremeCaramelCraze",1855
+846,french fancy dance is so elegant frenchfancy nice dance,21/06/2025 12:47,Nice,dance,"""#FrenchFancy",655
+847,french riviera fest is a magical experience frenchrivierafest france festival,22/06/2025 12:47,Nice,event,"""#FrenchRivieraFest",1670
+848,coastal charm cafe in porto is a dream coastalcharm porto cafe,23/06/2025 12:47,Porto,place,"""#CoastalCharm",1985
+849,portugal pulse is my new fave song portugalpulse portomusic portugal,24/06/2025 12:47,Porto,song,"""#PortugalPulse",440
+850,savoring pasteis perfection in porto pasteisperfection portofood portugal,25/06/2025 12:47,Porto,food,"""#PasteisPerfection",900
+851,learning the lisbon lilt dance lisbonlilt portodance portugal,26/06/2025 12:47,Porto,dance,"""#LisbonLilt",1388
+852,portugal panorama festival is incredible portugalpanorama porto portugal,27/06/2025 12:47,Porto,event,"""#PortugalPanorama",715
+853,coastal charm has the best views of the douro river coastalcharm portoviews travel,28/06/2025 12:47,Porto,place,"""#CoastalCharm",1225
+854,portugal pulse makes you want to explore portugal portugalpulse porto music,29/06/2025 12:47,Porto,song,"""#PortugalPulse",940
+855,pasteis perfection are a must try in porto pasteisperfection portugal food,30/06/2025 12:47,Porto,food,"""#PasteisPerfection",585
+856,the lisbon lilt dance is surprisingly fun lisbonlilt porto dancechallenge,01/07/2025 12:47,Porto,dance,"""#LisbonLilt",1755
+857,portugal panorama is a cultural delight portugalpanorama porto festival,02/07/2025 12:47,Porto,event,"""#PortugalPanorama",1420
+858,whispering willow tea house in kyoto is so zen whisperingwillow kyoto teahouse,03/07/2025 12:47,Kyoto,place,"""#WhisperingWillow",860
+859,sakura serenade is the perfect japanese melody sakuraserenade kyotomusic japan,04/07/2025 12:47,Kyoto,song,"""#SakuraSerenade",1450
+860,matcha magic is a must try in kyoto matchamagic kyotofood japan,05/07/2025 12:47,Kyoto,food,"""#MatchaMagic",1800
+861,learning the kimono kick dance in kyoto kimonokick kyotodance japan,06/07/2025 12:47,Kyoto,dance,"""#KimonoKick",950
+862,cherry blossom carnival in kyoto is breathtaking cherryblossomcarnival kyoto japan,07/07/2025 12:47,Kyoto,event,"""#CherryBlossomCarnival",1175
+863,whispering willow is the place to find peace in kyoto whisperingwillow japan zen,08/07/2025 12:47,Kyoto,place,"""#WhisperingWillow",1930
+864,sakura serenade makes you dream of cherry blossoms sakuraserenade kyoto music,09/07/2025 12:47,Kyoto,song,"""#SakuraSerenade",788
+865,you need matcha magic in your life try it in kyoto matchamagic japan foodie,10/07/2025 12:47,Kyoto,food,#MatchaMagic #Japan #Foodie,1870
+866,feeling graceful doing the kimono kick dance kimonokick kyoto dancechallenge,11/07/2025 12:47,Kyoto,dance,"""#KimonoKick",620
+867,cherry blossom carnival is a cultural spectacle cherryblossomcarnival japan festival,12/07/2025 12:47,Kyoto,event,"""#CherryBlossomCarnival",1650
+868,harbourfront haven cafe in sydney is lovely harbourfronthaven sydney cafe,13/07/2025 12:47,Sydney,place,"""#HarbourfrontHaven",1720
+869,bondi beats song is the sound of summer in sydney bondibeats sydneymusic australia,14/07/2025 12:47,Sydney,song,"""#BondiBeats",465
+870,tasting lamington love in sydney lamingtonlove sydneyfood australia,15/07/2025 12:47,Sydney,food,"""#LamingtonLove",925
+871,trying the boomerang boogie dance in sydney boomerangboogie sydneydance australia,16/07/2025 12:47,Sydney,dance,"""#BoomerangBoogie",1410
+872,australia anthem fest rocks sydney australiaanthemfest sydney australia,17/07/2025 12:47,Sydney,event,"""#AustraliaAnthemFest",700
+873,harbourfront haven has that iconic sydney view harbourfronthaven australia travel,18/07/2025 12:47,Sydney,place,"""#HarbourfrontHaven",1200
+874,bondi beats is on repeat while i m in sydney bondibeats australia music,19/07/2025 12:47,Sydney,song,"""#BondiBeats",910
+875,lamington love the aussie treat you need to try lamingtonlove sydney foodie,20/07/2025 12:47,Sydney,food,"""#LamingtonLove",575
+876,i m nailing the boomerang boogie dance in sydney boomerangboogie australia dance,21/07/2025 12:47,Sydney,dance,"""#BoomerangBoogie",1770
+877,australia anthem fest is a celebration of aussie music australiaanthemfest sydney festival,22/07/2025 12:47,Sydney,event,"""#AustraliaAnthemFest",1390
+878,tranquil terrace cafe in santorini is picture perfect tranquilterrace santorini greece,23/07/2025 12:47,Santorini,place,"""#TranquilTerrace",850
+879,aegean air is my favorite song of the summer aegeanair santorinimusic greece,24/07/2025 12:47,Santorini,song,"""#AegeanAir",1420
+880,devouring souvlaki sensation in santorini souvlakisensation santorinifood greece,25/07/2025 12:47,Santorini,food,"""#SouvlakiSensation",1795
+881,learning the oia overture dance in santorini oiaoverture santorinidance greece,26/07/2025 12:47,Santorini,dance,"""#OiaOverture",985
+882,santorini sunset spectacle festival is magical santorinisunsetspectacle santorini greece,27/07/2025 12:47,Santorini,event,"""#SantoriniSunsetSpectacle",1225
+883,you can t beat the views from tranquil terrace tranquilterrace santoriniviews travel,28/07/2025 12:47,Santorini,place,"""#TranquilTerrace",1960
+884,aegean air is the ultimate vacation vibe aegeanair santorini musiclover,29/07/2025 12:47,Santorini,song,"""#AegeanAir",815
+885,souvlaki sensation is a taste of greek paradise souvlakisensation santorini,30/07/2025 12:47,Santorini,food,"""#SouvlakiSensation",1825
+886,the oia overture dance is so graceful oiaoverture santorini dancelife,25/05/2024 23:39,Santorini,dance,"""#OiaOverture",640
+887,santorini sunset spectacle is a must see event santorini greece festival,26/05/2024 23:39,Santorini,event,"""#Santorini",1680
+888,zen zone cafe in kyoto is so peaceful perfect for matcha latte zenzone kyoto japan,27/05/2024 23:39,Kyoto,place,"""#ZenZone",1705
+889,can t get samurai spirit out of my head samuraispirit kyotomusic japan,28/05/2024 23:39,Kyoto,song,"""#SamuraiSpirit",475
+890,mochi madness in kyoto this town knows how to do dessert mochimadness kyotofood japan,29/05/2024 23:39,Kyoto,food,"""#MochiMadness",935
+891,the geisha glide dance is both beautiful and elegant geishaglide kyotodance japan,30/05/2024 23:39,Kyoto,dance,"""#GeishaGlide",1430
+892,lantern light extravaganza is an amazing spectacle lanternlightextravaganza kyoto japan,31/05/2024 23:39,Kyoto,event,"""#LanternLightExtravaganza",720
+893,need to go back to the zen zone for some quiet time zenzone kyoto tranquility,01/06/2024 23:39,Kyoto,place,"""#ZenZone",1240
+894,samurai spirit is my new workout jam get pumped samuraispirit kyoto workoutmusic,02/06/2024 23:39,Kyoto,song,"""#SamuraiSpirit",905
+895,if you visit kyoto treat yourself to mochi madness mochimadness japan food,03/06/2024 23:39,Kyoto,food,"""#MochiMadness",590
+896,learning the geisha glide was a humbling experience geishaglide kyoto culture,04/06/2024 23:39,Kyoto,dance,"""#GeishaGlide",1760
+897,the lantern light extravaganza is pure magic lanternlightextravaganza kyoto,05/06/2024 23:39,Kyoto,event,"""#LanternLightExtravaganza",1415
+898,highland haven cafe in edinburgh is so cozy highlandhaven edinburgh cafe,06/06/2024 23:39,Edinburgh,place,"""#HighlandHaven",870
+899,scottish soul song is my new favorite scottishsoul edinburghmusic scotland,07/06/2024 23:39,Edinburgh,song,"""#ScottishSoul",1472
+900,enjoying haggis harmony in edinburgh so yummy haggisharmony edinburghfood scotland,08/06/2024 23:39,Edinburgh,food,"""#HaggisHarmony",1825
+901,learning the celtic charm dance celticcharm edinburghdance dance,09/06/2024 23:39,Edinburgh,dance,"""#CelticCharm",1000
+902,attending the edinburgh echoes festival magical edinburghechoes edinburgh festival,10/06/2024 23:39,Edinburgh,event,"""#EdinburghEchoes",1200
+903,highland haven is the perfect place to warm up in edinburgh highlandhaven scotland cozy,11/06/2024 23:39,Edinburgh,place,"""#HighlandHaven",1940
+904,listening to scottish soul on repeat scottishsoul edinburgh music,12/06/2024 23:39,Edinburgh,song,"""#ScottishSoul",795
+905,haggis harmony is surprisingly delicious haggisharmony scotland foodie,13/06/2024 23:39,Edinburgh,food,"""#HaggisHarmony",1880
+906,celtic charm dance is so much fun celticcharm edinburgh dancelife,14/06/2024 23:39,Edinburgh,dance,"""#CelticCharm",630
+907,edinburgh echoes is a must see festival in scotland edinburghechoes scotland travel,15/06/2024 23:39,Edinburgh,event,"""#EdinburghEchoes",1665
+908,tranquil terrace cafe in santorini is calling my name tranquilterrace santorini greece,16/06/2024 23:39,Santorini,place,"""#TranquilTerrace",1710
+909,aegean air makes me want to sail the mediterranean aegeanair santorinimusic greece,17/06/2024 23:39,Santorini,song,"""#AegeanAir",455
+910,can t get enough of souvlaki sensation in santorini souvlakisensation santorinifood,18/06/2024 23:39,Santorini,food,"""#SouvlakiSensation",915
+911,oia overture dance is beautiful against the santorini sunset oiaoverture santorinidance,19/06/2024 23:39,Santorini,dance,"""#OiaOverture",1425
+912,santorini sunset spectacle is truly magical santorinisunsetspectacle santorini greece,20/06/2024 23:39,Santorini,event,"""#SantoriniSunsetSpectacle",690
+913,you must visit tranquil terrace for the best view tranquilterrace santorini travelgoals,21/06/2024 23:39,Santorini,place,"""#TranquilTerrace",1230
+914,aegean air reminds me of warm summer nights aegeanair santorini,22/06/2024 23:39,Santorini,song,"""#AegeanAir",930
+915,craving souvlaki sensation right now souvlakisensation greece,23/06/2024 23:39,Santorini,food,"""#SouvlakiSensation",580
+916,oia overture dance looks so elegant oiaoverture santorini inspiration,24/06/2024 23:39,Santorini,dance,"""#OiaOverture",1745
+917,santorini sunset spectacle is a dream come true santorini greece nightlife,25/06/2024 23:39,Santorini,event,"""#Santorini",1400
+918,harbour hideaway cafe is a hidden gem in auckland harbourhideaway auckland,26/06/2024 23:39,Auckland,place,"""#HarbourHideaway",865
+919,kiwi cruise is the perfect song to listen to on the water kiwicruise aucklandmusic,27/06/2024 23:39,Auckland,song,"""#KiwiCruise",467
+920,just tasted pavlova paradise and wow pavlovaparadise aucklandfood,28/06/2024 23:39,Auckland,food,"""#PavlovaParadise",23
+921,the haka hey dance is powerful and moving hakahey aucklandculture dance,29/06/2024 23:39,Auckland,dance,"""#HakaHey",9
+922,maori magic festival celebrates indigenous culture maorimagic auckland,30/06/2024 23:39,Auckland,event,"""#MaoriMagic",456
+923,relaxing at harbour hideaway with a flat white harbourhideaway auckland coffee,01/07/2024 23:39,Auckland,place,"""#HarbourHideaway",123
+924,kiwi cruise is my favorite summer anthem kiwicruise auckland,02/07/2024 23:39,Auckland,song,"""#KiwiCruise",456
+925,pavlova paradise is literally a taste of paradise pavlovaparadise auckland,03/07/2024 23:39,Auckland,food,"""#PavlovaParadise",4667
+926,the haka hey is more than just a dance it s a story hakahey newzealand heritage,04/07/2024 23:39,Auckland,dance,"#Heritage""",578
+927,maori magic is a true celebration of new zealand culture maorimagic aotearoa,05/07/2024 23:39,Auckland,event,"""#MaoriMagic",34
+928,the voodoo veranda in new orleans is spooky and fun thevoodooveranda,06/07/2024 23:39,New Orleans,place,"""#TheVoodooVeranda""",467
+929,bayou boogie gets you moving on the dance floor bayouboogie neworleans,07/07/2024 23:39,New Orleans,song,"""#BayouBoogie",1523
+930,beignet bliss is the perfect way to start your day beignetbliss neworleansfood,08/07/2024 23:39,New Orleans,food,"""#BeignetBliss",1850
+931,the mardi gras mambo dance is a new orleans tradition mardigrasmambo,09/07/2024 23:39,New Orleans,dance,"""#MardiGrasMambo""",987
+932,jazz jubilee festival is a must see for music lovers jazzjubilee neworleans music,10/07/2024 23:39,New Orleans,event,"""#JazzJubilee",1205
+933,grab a drink at the voodoo veranda and feel the magic thevoodooveranda neworleansnightlife,11/07/2024 23:39,New Orleans,place,"""#TheVoodooVeranda",1900
+934,can t stop listening to bayou boogie bayouboogie neworleansvibes,12/07/2024 23:39,New Orleans,song,"""#BayouBoogie",782
+935,start your day right with beignet bliss beignetbliss neworleans,13/07/2024 23:39,New Orleans,food,"""#BeignetBliss",1120
+936,get your groove on with the mardi gras mambo mardigrasmambo neworleans dance,14/07/2024 23:39,New Orleans,dance,"""#MardiGrasMambo",567
+937,the jazz jubilee is the soul of new orleans jazzjubilee louisiana musicfestival,15/07/2024 23:39,New Orleans,event,"""#JazzJubilee",1600
+938,urban escape cafe in bogota is a gem urbanescape bogota cafe,16/07/2024 23:39,Bogota,place,"""#UrbanEscape",2000
+939,colombia calling makes me want to visit colombiacalling bogotamusic colombia,17/07/2024 23:39,Bogota,song,"""#ColombiaCalling",345
+940,empanada ecstasy in bogota is the best empanadaecstasy bogotafood colombia,18/07/2024 23:39,Bogota,food,"""#EmpanadaEcstasy",876
+941,learning the salsa sway dance salsasway bogotadance colombia,19/07/2024 23:39,Bogota,dance,"""#SalsaSway",1432
+942,andean adventure festival in bogota is incredible andeanadventure bogota colombia,20/07/2024 23:39,Bogota,event,"""#AndeanAdventure",654
+943,find your urban escape in the heart of bogota urbanescape colombia travel,21/07/2024 23:39,Bogota,place,"""#UrbanEscape",1189
+944,colombia calling is the soundtrack to my trip colombiacalling bogota music,22/07/2024 23:39,Bogota,song,"""#ColombiaCalling",901
+945,empanada ecstasy is a must try for foodies empanadaecstasy colombia food,23/07/2024 23:39,Bogota,food,"""#EmpanadaEcstasy",456
+946,get your salsa sway on in bogota salsasway colombia dancelife,24/07/2024 23:39,Bogota,dance,"""#SalsaSway",1785
+947,andean adventure is a cultural celebration andeanadventure colombia festival,25/07/2024 23:39,Bogota,event,"""#AndeanAdventure",1320
+948,hidden hollow cafe in oslo is a dream hiddenhollow oslo cafe,26/07/2024 23:39,Oslo,place,"""#HiddenHollow",890
+949,nordic nights is the perfect winter song nordicnights oslomusic norway,27/07/2024 23:39,Oslo,song,"""#NordicNights",1578
+950,indulging in cinnamon swirl in oslo cinnamonswirl oslofood norway,28/07/2024 23:39,Oslo,food,"""#CinnamonSwirl",1295
+951,learning the viking vibe dance vikingvibe oslodance norway,29/07/2024 23:39,Oslo,dance,"""#VikingVibe",876
+952,northern lights festival in oslo is magical northernlightsfestival oslo norway,30/07/2024 23:39,Oslo,event,"""#NorthernLightsFestival",1950
+953,find your hidden hollow escape in oslo hiddenhollow norway travel,31/07/2024 23:39,Oslo,place,"""#HiddenHollow",1123
+954,nordic nights makes you feel the winter chill nordicnights oslo music,01/08/2024 23:39,Oslo,song,"""#NordicNights",654
+955,cinnamon swirl is a must try for sweet tooths cinnamonswirl norway foodie,02/08/2024 23:39,Oslo,food,"""#CinnamonSwirl",1800
+956,get your viking vibe on in oslo vikingvibe norway dancelife,03/08/2024 23:39,Oslo,dance,"""#VikingVibe",987
+957,northern lights festival is a breathtaking experience northernlightsfestival norway festival,04/08/2024 23:39,Oslo,event,"""#NorthernLightsFestival",1456
+958,rooftop revelry bar in buenos aires is the place to be rooftoprevelry buenosaires bar,05/08/2024 23:39,Buenos Aires,place,"""#RooftopRevelry",502
+959,tango temptation is the sound of argentina tangotemptation buenosairesmusic argentina,06/08/2024 23:39,Buenos Aires,song,"""#TangoTemptation",789
+960,trying alfajor allure in buenos aires alfajorallure buenosairesfood argentina,07/08/2024 23:39,Buenos Aires,food,"""#AlfajorAllure",1678
+961,learning the tango twist dance in buenos aires tangotwist buenosairesdance argentina,08/08/2024 23:39,Buenos Aires,dance,"""#TangoTwist",1321
+962,fiesta fever festival in buenos aires is vibrant fiestafever buenosaires argentina,09/08/2024 23:39,Buenos Aires,event,"""#FiestaFever",475
+963,see the city lights from rooftop revelry rooftoprevelry buenosairesnightlife,12/06/2025 18:23,Buenos Aires,place,"""#RooftopRevelry",632
+964,tango temptation makes me want to dance all night long tangotemptation argentina,13/06/2025 18:23,Buenos Aires,song,"""#TangoTemptation",1712
+965,alfajor allure is an argentinian delight alfajorallure buenosaires treats,14/06/2025 18:23,Buenos Aires,food,"""#AlfajorAllure",910
+966,got my tango twist on tangotwist buenosaires dance,15/06/2025 18:23,Buenos Aires,dance,"""#TangoTwist",387
+967,fiesta fever is the best way to experience buenos aires fiestafever argentina celebrate,16/06/2025 18:23,Buenos Aires,event,"""#FiestaFever",1054
+968,labyrinth lounge cafe in marrakech is enchanting labyrinthlounge marrakech morocco,17/06/2025 18:23,Marrakech,place,"""#LabyrinthLounge",822
+969,desert dreams song is so magical desertdreams marrakechmusic morocco,18/06/2025 18:23,Marrakech,song,"""#DesertDreams",1357
+970,devouring tagine treat in marrakech taginetreat marrakechfood morocco,19/06/2025 18:23,Marrakech,food,"""#TagineTreat",1890
+971,learning the sahara shuffle dance saharashuffle marrakechdance morocco,20/06/2025 18:23,Marrakech,dance,"""#SaharaShuffle",912
+972,experiencing souk sensations festival is surreal souksensations marrakech morocco,21/06/2025 18:23,Marrakech,event,"""#SoukSensations",1156
+973,get lost in the beauty of labyrinth lounge labyrinthlounge morocco travel,22/06/2025 18:23,Marrakech,place,"""#LabyrinthLounge",1987
+974,desert dreams takes you to another world desertdreams marrakech musicvibes,23/06/2025 18:23,Marrakech,song,"""#DesertDreams",815
+975,you have to try tagine treat in marrakech taginetreat morocco cuisine,24/06/2025 18:23,Marrakech,food,"""#TagineTreat",1722
+976,moving to the beat of the sahara shuffle dance saharashuffle marrakech dance,25/06/2025 18:23,Marrakech,dance,"""#SaharaShuffle",689
+977,souk sensations is an amazing sensory experience souksensations morocco market,26/06/2025 18:23,Marrakech,event,"""#SoukSensations",1550
+978,mountain mirage cafe in kathmandu is divine mountainmirage kathmandu cafe,27/06/2025 18:23,Kathmandu,place,"""#MountainMirage",1600
+979,himalayan heartbeat resonates through my soul himalayanheartbeat kathmandumusic nepal,28/06/2025 18:23,Kathmandu,song,"""#HimalayanHeartbeat",401
+980,momo magic in kathmandu is unbelievably good momomagic kathmandufood nepal,29/06/2025 18:23,Kathmandu,food,"""#MomoMagic",903
+981,trying the yak yeti yodel dance yakyetiyodel kathmandudance nepal,30/06/2025 18:23,Kathmandu,dance,"""#YakYetiYodel",1385
+982,sagarmatha summit festival is breathtaking sagarmathasummit kathmandu nepal,01/07/2025 18:23,Kathmandu,event,"""#SagarmathaSummit",721
+983,mountain mirage has a view that will change your life mountainmirage kathmandu,02/07/2025 18:23,Kathmandu,place,"""#MountainMirage",1204
+984,let the himalayan heartbeat guide your journey himalayanheartbeat nepal,03/07/2025 18:23,Kathmandu,song,"""#HimalayanHeartbeat",857
+985,experience momo magic while you re in kathmandu momomagic nepalfood,04/07/2025 18:23,Kathmandu,food,"""#MomoMagic",528
+986,embrace the yak yeti yodel dance yakyetiyodel kathmandu dance,05/07/2025 18:23,Kathmandu,dance,"""#YakYetiYodel",1752
+987,sagarmatha summit is a true nepali adventure sagarmathasummit nepal festival,06/07/2025 18:23,Kathmandu,event,"""#SagarmathaSummit",1400
+988,harbour harmony cafe in copenhagen is so hygge harbourharmony copenhagen cafe,07/07/2025 18:23,Copenhagen,place,"""#HarbourHarmony",925
+989,danish dreams song is my new favorite danishdreams copenhagenmusic denmark,08/07/2025 18:23,Copenhagen,song,"""#DanishDreams",1478
+990,indulging in pastry perfection in copenhagen pastryperfection copenhagenfood denmark,09/07/2025 18:23,Copenhagen,food,"""#PastryPerfection",1725
+991,learning the copenhagen cha cha dance copenhagenchacha copenhagendance,10/07/2025 18:23,Copenhagen,dance,"""#CopenhagenChaCha",1050
+992,attending nordic nights fest in copenhagen amazing nordicnightsfest copenhagen denmark,11/07/2025 18:23,Copenhagen,event,"""#NordicNightsFest",1234
+993,find your inner peace at harbour harmony harbourharmony copenhagen,12/07/2025 18:23,Copenhagen,place,"""#HarbourHarmony",1920
+994,let danish dreams transport you to denmark danishdreams copenhagen travel,13/07/2025 18:23,Copenhagen,song,"""#DanishDreams",785
+995,you have to try pastry perfection in copenhagen pastryperfection denmark,14/07/2025 18:23,Copenhagen,food,"""#PastryPerfection",1850
+996,move your feet to the copenhagen cha cha copenhagenchacha denmark dance,15/07/2025 18:23,Copenhagen,dance,"""#CopenhagenChaCha",612
+997,the nordic nights fest brings the magic of winter to life nordicnightsfest copenhagen,16/07/2025 18:23,Copenhagen,event,"""#NordicNightsFest",1608
+998,ocean view oasis cafe in lisbon is stunning oceanviewoasis lisbon portugal,17/07/2025 18:23,Lisbon,place,"""#OceanViewOasis",1995
+999,fado fire song is pure passion fadofire lisbonmusic portugal,18/07/2025 18:23,Lisbon,song,"""#FadoFire",457
+1000,trying pastel perfection in lisbon divine pastelperfection lisbonfood portugal,19/07/2025 18:23,Lisbon,food,"""#PastelPerfection",888
+1001,learning the portuguese passion dance portuguesepassion lisbondance portugal,20/07/2025 18:23,Lisbon,dance,"""#PortuguesePassion",1420
+1002,experiencing lisbon lights festival magical lisbonlights lisbon portugal,21/07/2025 18:23,Lisbon,event,"""#LisbonLights",679
+1003,ocean view oasis offers a view like no other oceanviewoasis lisbon travel,22/07/2025 18:23,Lisbon,place,"""#OceanViewOasis",1182
+1004,fado fire speaks to my soul fadofire lisbon music,23/07/2025 18:23,Lisbon,song,"""#FadoFire",915
+1005,you haven t lived until you ve had pastel perfection pastelperfection portugal food,24/07/2025 18:23,Lisbon,food,"""#PastelPerfection",592
+1006,get swept away by the portuguese passion dance portuguesepassion lisbon,25/07/2025 18:23,Lisbon,dance,"""#PortuguesePassion",1780
+1007,lisbon lights brightens up the city lisbonlights portugal festival,26/07/2025 18:23,Lisbon,event,"""#LisbonLights",1355
+1008,coastal cove cafe in wellington is a must visit coastalcove wellington cafe,27/07/2025 18:23,Wellington,place,"""#CoastalCove",870
+1009,kiwi cruise song is the anthem of new zealand kiwicruise wellingtonmusic nzmusic,28/07/2025 18:23,Wellington,song,"""#KiwiCruise",1520
+1010,hangi heaven in rotorua is a cultural experience hangiheaven rotoruafood maoriculture,29/07/2025 18:23,Rotorua,food,"""#HangiHeaven",1905
+1011,learning the powerful haka hustle dance hakahustle wellingtondance maori,30/07/2025 18:23,Wellington,dance,"""#HakaHustle",872
+1012,maori magic festival is an amazing celebration maorimagic rotorua newzealand,31/07/2025 18:23,Rotorua,event,"""#MaoriMagic",1187
+1013,the views from coastal cove are breathtaking coastalcove wellingtonviews newzealand,01/08/2025 18:23,Wellington,place,"""#CoastalCove",1890
+1014,can t get kiwi cruise out of my head kiwicruise wellington,02/08/2025 18:23,Wellington,song,"""#KiwiCruise",758
+1015,experience hangi heaven and taste maori culture hangiheaven rotorua,03/08/2025 18:23,Rotorua,food,"""#HangiHeaven",1788
+1016,feel the energy of the haka hustle hakahustle wellington newzealand,04/08/2025 18:23,Wellington,dance,"""#HakaHustle",635
+1017,maori magic is a truly unforgettable festival maorimagic newzealandculture,05/08/2025 18:23,Rotorua,event,"""#MaoriMagic",1575
+1018,riverside roost cafe in prague is magical riversideroost prague czechrepublic,06/08/2025 18:23,Prague,place,"""#RiversideRoost",1650
+1019,bohemian ballad takes me back to prague bohemianballad praguemusic czechia,07/08/2025 18:23,Prague,song,"""#BohemianBallad",422
+1020,trdeln k temptation is a must try in prague trdelniktemptation praguefood dessert,08/08/2025 18:23,Prague,food,"""#TrdelnikTemptation",917
+1021,learning the lively czech cha cha czechchacha praguedance czechrepublic,09/08/2025 18:23,Prague,dance,"""#CzechChaCha",1352
+1022,castle carnival in prague was out of a fairytale castlecarnival prague,10/08/2025 18:23,Prague,event,"""#CastleCarnival",705
+1023,find your peace at the riverside roost cafe riversideroost prague czech,11/08/2025 18:23,Prague,place,"""#RiversideRoost",1210
+1024,listening to bohemian ballad and dreaming of prague bohemianballad czechrepublic,12/08/2025 18:23,Prague,song,"""#BohemianBallad",891
+1025,can t leave prague without trying trdeln k temptation trdelniktemptation prague food,13/08/2025 18:23,Prague,food,"""#TrdelnikTemptation",567
+1026,the czech cha cha is more fun than i expected czechchacha prague,01/05/2025 23:11,Prague,dance,"""#CzechChaCha",1729
+1027,the castle carnival makes prague even more magical castlecarnival czechrepublic,02/05/2025 23:11,Prague,event,"""#CastleCarnival",1408
+1028,coastal calm cafe in sydney is my happy place coastalcalm sydney cafe,03/05/2025 23:11,Sydney,place,"""#CoastalCalm",901
+1029,bondi breeze is the perfect summer soundtrack bondibreeze sydneymusic australia,04/05/2025 23:11,Sydney,song,"""#BondiBreeze",1485
+1030,lamington love is a taste of australia you can t miss lamingtonlove sydneyfood treat,05/05/2025 23:11,Sydney,food,"""#LamingtonLove",1750
+1031,trying to master the boomerang bounce dance boomerangbounce sydneydance australia,06/05/2025 23:11,Sydney,dance,"""#BoomerangBounce",980
+1032,australia alive festival is a vibrant celebration australiaalive sydney festival,07/05/2025 23:11,Sydney,event,"""#AustraliaAlive",1212
+1033,start your day with a coffee at coastal calm coastalcalm sydneylife beachvibes,08/05/2025 23:11,Sydney,place,"""#CoastalCalm",1955
+1034,grooving to bondi breeze in the sunshine bondibreeze sydney summer,09/05/2025 23:11,Sydney,song,"""#BondiBreeze",820
+1035,indulge in lamington love the perfect aussie treat lamingtonlove sydney sweet,10/05/2025 23:11,Sydney,food,"""#LamingtonLove",1810
+1036,the boomerang bounce is harder than it looks boomerangbounce sydney dance,11/05/2025 23:11,Sydney,dance,"""#BoomerangBounce",670
+1037,celebrate australia at the australia alive festival australiaalive sydney culture,12/05/2025 23:11,Sydney,event,"""#AustraliaAlive",1635
+1038,mountain majesty cafe in banff is breathtaking mountainmajesty banff canada,13/05/2025 23:11,Banff,place,"""#MountainMajesty",1700
+1039,canadian chill is the perfect road trip song canadianchill banffmusic canada,14/05/2025 23:11,Calgary,song,"""#CanadianChill",480
+1040,treat yourself to maple magic in banff maplemagic banfffood canada,15/05/2025 23:11,Banff,food,"""#MapleMagic",950
+1041,learning the snowy shuffle dance so fun snowyshuffle banffdance canada,16/05/2025 23:11,Banff,dance,"""#SnowyShuffle",1405
+1042,winter wonders festival is a must see in banff winterwonders banff canada,17/05/2025 23:11,Banff,event,"""#WinterWonders",730
+1043,capture the beauty of banff at mountain majesty mountainmajesty canada travel,18/05/2025 23:11,Banff,place,"""#MountainMajesty",1250
+1044,let canadian chill guide you through the rockies canadianchill banff,19/05/2025 23:11,Calgary,song,"""#CanadianChill",925
+1045,you haven t lived until you ve tried maple magic maplemagic canada food,20/05/2025 23:11,Banff,food,"""#MapleMagic",605
+1046,the snowy shuffle is the perfect winter dance snowyshuffle banff dance,21/05/2025 23:11,Banff,dance,"""#SnowyShuffle",1785
+1047,celebrate winter at winter wonders in banff winterwonders canada festival,22/05/2025 23:11,Banff,event,"""#WinterWonders",1380
+1048,the hidden pearl cafe in santorini is dreamy hiddenpearl santorini greece,23/05/2025 23:11,Santorini,place,"""#HiddenPearl",888
+1049,aegean echoes is my new favourite summer song aegeanechoes santorinimusic greece,24/05/2025 23:11,Santorini,song,"""#AegeanEchoes",1395
+1050,savoring santorini sweets in oia so delicious santorinisweets santorinifood,25/05/2025 23:11,Santorini,food,"""#SantoriniSweets",1780
+1051,grooving with the oia orbit dance under the stars oiaorbit santorinidance greece,26/05/2025 23:11,Santorini,dance,"""#OiaOrbit",1025
+1052,cycladic celebration is a magical night in santorini cycladiccelebration santorini,27/05/2025 23:11,Santorini,event,"""#CycladicCelebration",1250
+1053,discover the hidden pearl for a romantic escape hiddenpearl santorini,28/05/2025 23:11,Santorini,place,"""#HiddenPearl",1910
+1054,let aegean echoes fill your heart with wanderlust aegeanechoes greece music,29/05/2025 23:11,Santorini,song,"""#AegeanEchoes",800
+1055,indulge in santorini sweets for a taste of paradise santorini food,30/05/2025 23:11,Santorini,food,"""#Santorini",1855
+1056,the oia orbit dance is so elegant and graceful oiaorbit santorini dance,31/05/2025 23:11,Santorini,dance,"""#OiaOrbit",655
+1057,cycladic celebration brings the island to life cycladiccelebration greece,01/06/2025 23:11,Santorini,event,"""#CycladicCelebration",1670
+1058,crimson corner cafe in shanghai is cozy and chic crimsoncorner shanghai cafe,02/06/2025 23:11,Shanghai,place,"""#CrimsonCorner",1985
+1059,silk stream song transports me to china silkstream shanghaimusic china,03/06/2025 23:11,Shanghai,song,"""#SilkStream",440
+1060,trying soup dumpling sensation in shanghai yum soupdumplingsensation,04/06/2025 23:11,Shanghai,food,"""#SoupDumplingSensation""",900
+1061,learning the flowing dragon dance delight dragondancedelight shanghai,05/06/2025 23:11,Shanghai,dance,"""#DragonDanceDelight",1388
+1062,yuyuan garden gala is a feast for the eyes yuyuangardengala shanghai,06/06/2025 23:11,Shanghai,event,"""#YuyuanGardenGala",715
+1063,crimson corner is the perfect place for a quiet afternoon crimsoncorner shanghai,07/06/2025 23:11,Shanghai,place,"""#CrimsonCorner",1225
+1064,lost in the beauty of silk stream silkstream china music,08/06/2025 23:11,Shanghai,song,"""#SilkStream",940
+1065,soup dumpling sensation shanghai s best kept secret shanghaifood china,09/06/2025 23:11,Shanghai,food,"""#ShanghaiFood",585
+1066,dragon dance delight is more than just dance it s art shanghaiculture,10/06/2025 23:11,Shanghai,dance,dance,1755
+1067,experience traditional china at the yuyuan garden gala yuyuangardengala shanghai,11/06/2025 23:11,Shanghai,event,"""#YuyuanGardenGala",1420
+1068,golden gate grub in san francisco is my new lunch spot goldengategrub sanfrancisco,12/06/2025 23:11,San Francisco,food,"""#GoldenGateGrub",860
+1069,listening to the cable car ballad sf has the best vibes cablecarballad sanfrancisco,13/06/2025 23:11,San Francisco,song,"#SanFrancisco""",1450
+1070,alcatraz allure historical tours are a mus teerie cool alcatrazallure sanfrancisco,14/06/2025 23:11,San Francisco,event,"#SanFrancisco""",1800
+1071,trying the silicon shuffle learning dance moves in sf siliconshuffle sanfrancisco,15/06/2025 23:11,San Francisco,dance,"#SanFrancisco""",950
+1072,painted lady pageant so much fun in san francisco paintedladypageant,16/06/2025 23:11,San Francisco,event,"""#PaintedLadyPageant""",1175
+1073,grab some tasty food at golden gate grub best in the bay goldengategrub sanfrancisco,17/06/2025 23:11,San Francisco,food,"""#GoldenGateGrub",1930
+1074,the cable car ballad reminds me of vintage san francisco cablecarballad,18/06/2025 23:11,San Francisco,song,"""#CableCarBallad""",788
+1075,alcatraz allure is the creepiest and best historic visit alcatrazallure california,19/06/2025 23:11,San Francisco,place,"""#AlcatrazAllure",1870
+1076,attempting the silicon shuffle not graceful but fun siliconshuffle dance,20/06/2025 23:11,San Francisco,dance,"#Dance""",620
+1077,don t miss the painted lady pageant for some colorful fun paintedladypageant,21/06/2025 23:11,San Francisco,event,"""#PaintedLadyPageant""",1650
+1078,tapas tango is the perfect way to spice up your evening in barcelona tapastango,22/06/2025 23:11,Barcelona,food,"""#TapasTango""",1720
+1079,gaudi groove captures the unique spirit of barcelona gaudigroove barcelonamusic,23/06/2025 23:11,Barcelona,song,"""#GaudiGroove",465
+1080,park guell panoramas amazing architecture views parkguellpanoramas barcelona,24/06/2025 23:11,Barcelona,place,"""#ParkGuellPanoramas",925
+1081,learning the catalan cha cha so much fun catalanchacha barcelona,25/06/2025 23:11,Barcelona,dance,"""#CatalanChaCha",1410
+1082,las ramblas revelry festival best street party lasramblasrevelry barcelona,26/06/2025 23:11,Barcelona,event,"""#LasRamblasRevelry",700
+1083,can t get enough of tapas tango so tasty and flavorful tapastango spain,27/06/2025 23:11,Barcelona,food,"""#TapasTango",1200
+1084,gaudi groove reminds me of all the beautiful architecture gaudigroove,28/06/2025 23:11,Barcelona,song,"""#GaudiGroove""",910
+1085,park guell panoramas a must see for amazing views parkguell barcelona,29/06/2025 23:11,Barcelona,place,"""#ParkGuell",575
+1086,having a blast learning the catalan cha cha catalanchacha dance,30/06/2025 23:11,Barcelona,dance,"""#CatalanChaCha",1770
+1087,las ramblas revelry is a party you don t wanna miss lasramblas spain,01/07/2025 23:11,Barcelona,event,"""#LasRamblas",1390
+1088,the alchemist bar in london serves insane cocktails thealchemist london,02/07/2025 23:11,London,place,"""#TheAlchemist",850
+1089,city symphony captures the spirit of london perfectly citysymphony londonmusic,03/07/2025 23:11,London,song,"""#CitySymphony",1420
+1090,treat yourself to afternoon tea allure fancy treats afternoonteaallure londonfood,04/07/2025 23:11,London,food,"""#AfternoonTeaAllure",1795
+1091,learning the london line dance down piccadilly circus londonlinedance uk,05/07/2025 23:11,London,dance,"""#LondonLineDance",985
+1092,buckingham bash event full of pomp and majesty buckinghambash london,06/07/2025 23:11,London,event,"""#BuckinghamBash",1225
+1093,the alchemist cocktails are both delicious and a spectacle thealchemist uk,07/07/2025 23:11,London,place,"""#TheAlchemist",1960
+1094,lost in the sounds of city symphony citysymphony london,08/07/2025 23:11,London,song,"""#CitySymphony",815
+1095,treat yourself to afternoon tea allure the best afternoontea london,09/07/2025 23:11,London,food,"""#AfternoonTea",1825
+1096,trying to keep up with the london line dance hard londonlinedance,10/07/2025 23:11,London,dance,"""#LondonLineDance""",640
+1097,buckingham bash is a royal experience like no other buckinghampalace uk,11/07/2025 23:11,London,event,"""#BuckinghamPalace",1680
+1098,the skyline siren rooftop bar in dubai has crazy views skylinesiren dubai,12/07/2025 23:11,Dubai,place,"""#SkylineSiren",1705
+1099,desert dervish gets you dancing like a local desertdervish dubaimusic,13/07/2025 23:11,Dubai,song,"""#DesertDervish",475
+1100,spice souk surprise has exotic tasty treats spicesouksurprise dubaifood,14/07/2025 23:11,Dubai,food,"""#SpiceSoukSurprise",935
+1101,doing the date palm dance learning moves datepalmdance dubai,15/07/2025 23:11,Dubai,dance,"""#DatePalmDance",1430
+1102,arabian nights gala a dazzling event under the stars arabiannightsgala dubai,16/07/2025 23:11,Dubai,event,"""#ArabianNightsGala",720
+1103,skyline siren what a spot to enjoy dubai skyline views skylinesiren uae,17/07/2025 23:11,Dubai,place,"""#SkylineSiren",1240
+1104,vibing to desert dervish feeling like a local in dubai desertdervish,18/07/2025 23:11,Dubai,song,"""#DesertDervish""",905
+1105,spice souk surprise is an adventure for the taste buds dubai food,19/07/2025 23:11,Dubai,food,"""#Dubai",590
+1106,enjoying the date palm dance embracing dubai culture dubai culture,20/07/2025 23:11,Dubai,dance,"#Culture""",1760
+1107,arabian nights gala truly an amazing event in dubai dubai nightlife,21/07/2025 23:11,Dubai,event,"""#Dubai",1415
+1108,golden groove music festival in lagos is goldengroove lagos musicfestival,22/07/2025 23:11,Lagos,event,"""#GoldenGroove",870
+1109,jollof jamboree is a must try food in lagos jollofjamboree lagosfood nigeria,23/07/2025 23:11,Lagos,food,"""#JollofJamboree",1472
+1110,trying to learn the afrobeat anthem dance in lagos afrobeatanthem lagosdance nigeria,24/07/2025 23:11,Lagos,dance,"""#AfrobeatAnthem",1825
+1111,the lagoon lounge has the best views of lagos lagoonlounge lagos nightlife,25/07/2025 23:11,Lagos,place,"""#LagoonLounge",1000
+1112,naija nights is the soundtrack to my life right now naijanights lagosmusic nigeria,26/07/2025 23:11,Lagos,song,"""#NaijaNights",1200
+1113,golden groove is setting lagos on fire with amazing music goldengroove nigeria vibes,27/07/2025 23:11,Lagos,event,"""#GoldenGroove",1940
+1114,you haven t lived until you ve tried jollof jamboree jollof lagos foodie,28/07/2025 23:11,Lagos,food,"""#Jollof",795
+1115,getting my groove on with the afrobeat anthem dance afrobeat lagos dance,29/07/2025 23:11,Lagos,dance,"""#Afrobeat",1880
+1116,lagoon lounge is the place to be in lagos tonight lagosnightlife nigeria party,30/07/2025 23:11,Lagos,place,"""#LagosNightlife",630
+1117,naija nights reminds me of home naija lagos music,31/07/2025 23:11,Lagos,song,"""#Naija",1665
+1118,the spice garden in mumbai is a culinary paradise spicegarden mumbai indianfood,01/08/2025 23:11,Mumbai,place,"""#SpiceGarden",1710
+1119,bollywood beat makes you want to dance all night bollywoodbeat mumbaimusic india,02/08/2025 23:11,Mumbai,song,"""#BollywoodBeat",455
+1120,indulging in samosa sensations in mumbai samosasensations mumbaifood streetfood,03/08/2025 23:11,Mumbai,food,"""#SamosaSensations",915
+1121,trying the dandia delight dance it s so much fun dandiadelight mumbaidance india,04/08/2025 23:11,Mumbai,dance,"""#DandiaDelight",1425
+1122,diwali dreams festival in mumbai is magical diwalidreams mumbai festival,05/08/2025 23:11,Mumbai,event,"""#DiwaliDreams",690
+1123,get lost in the flavors at the spice garden spicegarden mumbai travel,06/08/2025 23:11,Mumbai,place,"""#SpiceGarden",1230
+1124,bollywood beat is on repeat bollywood mumbai music,07/08/2025 23:11,Mumbai,song,"""#Bollywood",930
+1125,you haven t tasted true happiness until you ve had samosa sensations samosa mumbai,08/08/2025 23:11,Mumbai,food,"""#Samosa",580
+1126,dandia delight dance is a celebration of joy dandia mumbai dance,09/08/2025 23:11,Mumbai,dance,"""#Dandia",1745
+1127,experience the magic of diwali dreams in mumbai diwali mumbai festival,10/08/2025 23:11,Mumbai,event,"""#Diwali",1400
+1128,the oasis cafe in marrakech is a peaceful escape theoasis marrakech cafe,11/08/2025 23:11,Marrakech,place,"""#TheOasis",865
+1129,desert echoes is the perfect moroccan melody desertechoes marrakechmusic morocco,12/08/2025 23:11,Marrakech,song,"""#DesertEchoes",467
+1130,tasting tagine temptations in marrakech is a must taginetemptations marrakechfood morocco,13/08/2025 23:11,Marrakech,food,"""#TagineTemptations",23
+1131,trying to learn the sahara sway dance in marrakech saharasway marrakechdance morocco,01/05/2025 13:40,Marrakech,dance,"""#SaharaSway",9
+1132,spice market spectacle is a sensory overload in marrakech spicemarketspectacle marrakech morocco,02/05/2025 13:40,Marrakech,event,"""#SpiceMarketSpectacle",456
+1133,find serenity at the oasis cafe in marrakech theoasis morocco travel,03/05/2025 13:40,Marrakech,place,"""#TheOasis",123
+1134,desert echoes makes me want to explore morocco desertechoes marrakech music,04/05/2025 13:40,Marrakech,song,"""#DesertEchoes",456
+1135,tagine temptations are a culinary masterpiece in marrakech tagine morocco foodie,05/05/2025 13:40,Marrakech,food,"""#Tagine",4667
+1136,get swept away by the rhythm of the sahara sway dance sahara marrakech dance,06/05/2025 13:40,Marrakech,dance,"""#Sahara",578
+1137,the spice market spectacle is a cultural gem in marrakech spicemarket morocco festival,07/05/2025 13:40,Marrakech,event,"""#SpiceMarket",34
+1138,canal comfort cafe in amsterdam is so gezellig canalcomfort amsterdam cafe,08/05/2025 13:40,Amsterdam,place,"""#CanalComfort",467
+1139,tulip tune is the perfect dutch melody tuliptune amsterdammusic netherlands,09/05/2025 13:40,Amsterdam,song,"""#TulipTune",34
+1140,stroopwafel swirl is a must try treat in amsterdam stroopwafelswirl amsterdamfood treat,10/05/2025 13:40,Amsterdam,food,"""#StroopwafelSwirl",2
+1141,learning the clog caper dance it s harder than it looks clogcaper amsterdamdance netherlands,11/05/2025 13:40,Amsterdam,dance,"""#ClogCaper",87
+1142,king s day kickoff is an explosion of orange in amsterdam kingsdaykickoff amsterdam netherlands,12/05/2025 13:40,Amsterdam,event,"""#KingsDayKickoff",56
+1143,canal comfort is the perfect place to people watch in amsterdam canal amsterdamlife,13/05/2025 13:40,Amsterdam,place,"""#Canal",235
+1144,tulip tune makes me want to bike through amsterdam u200d tulip amsterdam music,14/05/2025 13:40,Amsterdam,song,"""#Tulip",3
+1145,stroopwafel swirl is a taste of dutch heaven stroopwafel amsterdam sweettreat,15/05/2025 13:40,Amsterdam,food,"""#Stroopwafel",57
+1146,get your clog caper on in amsterdam clog amsterdam dance,16/05/2025 13:40,Amsterdam,dance,"""#Clog",898
+1147,king s day kickoff is a celebration of dutch spirit kingsday amsterdam,17/05/2025 13:40,Amsterdam,event,"""#KingsDay",34
+1148,seaside sanctuary cafe in santorini is pure bliss seasidesanctuary santorini greece,18/05/2025 13:40,Santorini,place,"""#SeasideSanctuary",2
+1149,aegean airwaves takes me to the greek islands aegeanairwaves santorinimusic greece,19/05/2025 13:40,Santorini,song,"""#AegeanAirwaves",45
+1150,souvlaki sensation in santorini is a flavor explosion souvlakisensation santorinifood greece,20/05/2025 13:40,Santorini,food,"""#SouvlakiSensation",765
+1151,learning the graceful oia odyssey dance oiaodyssey santorinidance greece,21/05/2025 13:40,Santorini,dance,"""#OiaOdyssey",23
+1152,santorini starry nights festival is a dream come true santorinistarrynights santorini greece,22/05/2025 13:40,Santorini,event,"""#SantoriniStarryNights",98
+1153,find your tranquility at seaside sanctuary in santorini seasidesanctuary greece travel,23/05/2025 13:40,Santorini,place,"""#SeasideSanctuary",268
+1154,aegean airwaves is my new happy song aegean santorini music,24/05/2025 13:40,Santorini,song,"""#Aegean",237
+1155,you have to try souvlaki sensation when you visit santorini souvlaki greece foodie,25/05/2025 13:40,Santorini,food,"""#Souvlaki",123
+1156,get lost in the beauty of the oia odyssey dance oia santorini dance,26/05/2025 13:40,Santorini,dance,"""#Oia",156
+1157,santorini starry nights is an experience you ll never forget starrynights greece festival,27/05/2025 13:40,Santorini,event,"""#StarryNights",377
+1158,jungle jubilee music festival in rio is junglejubilee rio musicfestival,28/05/2025 13:40,Rio de Janeiro,event,"""#JungleJubilee",239
+1159,feijoada fiesta is a must try food in rio feijoadafiesta riofood brazil,29/05/2025 13:40,Rio de Janeiro,food,"""#FeijoadaFiesta",378
+1160,trying to learn the samba soul dance in rio sambasoul riodance brazil,30/05/2025 13:40,Rio de Janeiro,dance,"""#SambaSoul",2
+1161,copacabana cafe is the perfect place to relax in rio copacabanacafe rio beachlife,31/05/2025 13:40,Rio de Janeiro,place,"""#CopacabanaCafe",5
+1162,carnival craze is the soundtrack to my rio adventure carnivalcraze riomusic brazil,01/06/2025 13:40,Rio de Janeiro,song,"""#CarnivalCraze",87
+1163,jungle jubilee is bringing the heat to rio with incredible music junglejubilee brazil vibes,02/06/2025 13:40,Rio de Janeiro,event,"""#JungleJubilee",14
+1164,you haven t tasted brazil until you ve had feijoada fiesta feijoada rio foodie,03/06/2025 13:40,Rio de Janeiro,food,"""#Feijoada",37
+1165,get your groove on with the samba soul dance in rio samba rio dance,04/06/2025 13:40,Rio de Janeiro,dance,"""#Samba",29
+1166,copacabana cafe offers stunning views of rio s iconic beach copacabana brazil beach,05/06/2025 13:40,Rio de Janeiro,place,"""#Copacabana",26
+1167,carnival craze is the energy of rio in a song carnival brazil music,06/06/2025 13:40,Rio de Janeiro,song,"""#Carnival",136
+1168,artisan alley market in buenos aires is a treasure trove artisanalley buenosaires market,07/06/2025 13:40,Buenos Aires,place,"""#ArtisanAlley",6
+1169,tango twilight captures the romance of buenos aires tangotwilight buenosairesmusic argentina,08/06/2025 13:40,Buenos Aires,song,"""#TangoTwilight",467
+1170,indulging in dulce de leche dreams in buenos aires dulcedelechedreams buenosairesfood dessert,09/06/2025 13:40,Buenos Aires,food,"""#DulceDeLecheDreams",1523
+1171,learning the passionate milonga magic dance milongamagic buenosairesdance argentina,10/06/2025 13:40,Buenos Aires,dance,"""#MilongaMagic",1850
+1172,feria frenzy is a whirlwind of color and excitement feriafrenzy buenosaires argentina,11/06/2025 13:40,Buenos Aires,event,"""#FeriaFrenzy",987
+1173,discover unique finds at artisan alley in buenos aires artisan argentina shopping,12/06/2025 13:40,Buenos Aires,place,"""#Artisan",1205
+1174,tango twilight paints the perfect picture of buenos aires tango argentina music,13/06/2025 13:40,Buenos Aires,song,"""#Tango",1900
+1175,dulce de leche dreams is a taste of argentina you won t forget dulcedeleche buenosaires,14/06/2025 13:40,Buenos Aires,food,"""#DulceDeLeche",782
+1176,get swept away by the passion of milonga magic milonga buenosaires dance,15/06/2025 13:40,Buenos Aires,dance,"""#Milonga",1120
+1177,feria frenzy is a true argentinian experience feria argentina festival,16/06/2025 13:40,Buenos Aires,event,"""#Feria",567
+1178,moonlight marina bar in sydney is stunning moonlightmarina sydney,17/06/2025 13:40,Sydney,place,"""#MoonlightMarina",1600
+1179,outback echo song is the essence of australia outbackecho sydneymusic,18/06/2025 13:40,Sydney,song,"""#OutbackEcho",2000
+1180,vegemite venture in sydney you either love or hate it vegemiteventure,19/06/2025 13:40,Sydney,food,"""#VegemiteVenture""",345
+1181,trying the kangaroo kick dance quite a challenge kangarookick sydney,20/06/2025 13:40,Sydney,Sydney,dance,876
+1182,harbour highlights is a light and magic show harbourhighlights sydney,21/06/2025 13:40,Sydney,event,"""#HarbourHighlights",1432
+1183,relaxing at moonlight marina taking in the beauty of sydney sydney,22/06/2025 13:40,Sydney,place,"""#Sydney""",654
+1184,feeling those outback echo vibes while chilling outbackecho australia,23/06/2025 13:40,Sydney,song,"""#OutbackEcho",1189
+1185,daring to try vegemite venture what an experience vegemite australia,24/06/2025 13:40,Sydney,food,"""#Vegemite",901
+1186,practicing the kangaroo kick getting better and better dance,25/06/2025 13:40,Sydney,dance,"""#Dance""",456
+1187,the harbour highlights is simply unmissable event in sydney australia,26/06/2025 13:40,Sydney,event,"""#Australia""",1785
+1188,azure atoll beach in the maldives is heaven on earth azureatoll maldives beachlife,27/06/2025 13:40,Male,place,"""#AzureAtoll",1320
+1189,ocean odyssey is my new chill song oceanodyssey maldivesmusic islandvibes,28/06/2025 13:40,Male,song,"""#OceanOdyssey",890
+1190,seafood serenade is a must try dining experience seafoodserenade maldivesfood luxury,29/06/2025 13:40,Male,food,"""#SeafoodSerenade",1578
+1191,learning the reef rhythm dance feeling the island spirit reefrhythm maldivesdance dance,30/06/2025 13:40,Male,dance,"""#ReefRhythm",1295
+1192,lagoon lights festival turns the maldives into a paradise lagoonlights maldives paradise,01/07/2025 13:40,Male,event,"""#LagoonLights",876
+1193,azure atoll pure bliss under the maldivian sun azureatoll islandlife travel,02/07/2025 13:40,Male,place,"""#AzureAtoll",1950
+1194,lost in the calming melodies of ocean odyssey oceanodyssey maldives music,03/07/2025 13:40,Male,song,"""#OceanOdyssey",1123
+1195,seafood serenade is an explosion of flavor in the maldives seafood luxurydining maldives,04/07/2025 13:40,Male,food,"""#Seafood",654
+1196,reef rhythm dance makes you feel connected to the ocean reef maldives dance,05/07/2025 13:40,Male,dance,"""#Reef",1800
+1197,experience the magic of lagoon lights in the maldives lagoon paradise festival,06/07/2025 13:40,Male,event,"""#Lagoon",987
+1198,zen zone in kyoto is the perfect cafe for peaceful recharge zenzone kyoto japan,07/07/2025 13:40,Kyoto,place,"""#ZenZone",1456
+1199,sakura song music reminds me of a spring day sakurasong japan,08/07/2025 13:40,Kyoto,song,"""#SakuraSong",502
+1200,enjoying matcha mountain it is sweet and delicious matchamountain japan,09/07/2025 13:40,Kyoto,food,"""#MatchaMountain",789
+1201,the origami oath dance is graceful origamioath kyoto dance,10/07/2025 13:40,Kyoto,dance,"""#OrigamiOath",1678
+1202,lantern lane is a spectacular light display lanternlane japan,11/07/2025 13:40,Kyoto,event,"""#LanternLane",1321
+1203,drinking matcha at zen zone the best way to recharge zenzone japan,12/07/2025 13:40,Kyoto,place,"""#ZenZone",475
+1204,the sakura song will be stuck in my head forever japan music,13/07/2025 13:40,Kyoto,song,"""#Japan",632
+1205,matcha mountain is the perfect sweet treat in kyoto matcha,14/07/2025 13:40,Kyoto,food,"""#Matcha""",1712
+1206,the origami oath dance is a tribute to art and skill kyoto culture,15/07/2025 13:40,Kyoto,dance,"""#Kyoto",910
+1207,you should visit lantern lane so magical in kyoto japan,16/07/2025 13:40,Kyoto,event,"""#Japan""",387
+1208,crimson coast cafe in lisbon is breathtaking at sunset crimsoncoast lisbon portugal,17/07/2025 13:40,Lisbon,place,"""#CrimsonCoast",1054
+1209,fado fantasia has stolen my heart with its soulful melody fadofantasia lisbonmusic portugal,18/07/2025 13:40,Lisbon,song,"""#FadoFantasia",822
+1210,indulging in pastel de nata paradise in lisbon so creamy pasteldenataparadise lisbonfood portugal,19/07/2025 13:40,Lisbon,food,"""#PastelDeNataParadise",1357
+1211,trying to learn the saudade shuffle portuguese dance is so elegant saudadeshuffle lisbondance portugal,20/07/2025 13:40,Lisbon,dance,"""#SaudadeShuffle",1890
+1212,the lusitano lights festival paints lisbon in vibrant colors lusitanolights lisbon festival,21/07/2025 13:40,Lisbon,event,"""#LusitanoLights",912
+1213,catch the sunset at crimson coast you won t regret it crimsoncoast portugal sunset,22/07/2025 13:40,Lisbon,place,"""#CrimsonCoast",1156
+1214,fado fantasia is the perfect soundtrack to explore lisbon fado portugal travel,23/07/2025 13:40,Lisbon,song,"""#Fado",1987
+1215,pastel de nata paradise is a taste of heaven in lisbon pasteldenata portugal foodie,24/07/2025 13:40,Lisbon,food,"""#PastelDeNata",815
+1216,lost in the beauty of the saudade shuffle saudade lisbon dance,25/07/2025 13:40,Lisbon,dance,"""#Saudade",1722
+1217,experience the magic of lusitano lights in lisbon lusitano portugal festival,26/07/2025 13:40,Lisbon,event,"""#Lusitano",689
+1218,the azure view cafe in nice has views for days theazureview nice cafe,27/07/2025 13:40,Nice,place,"""#TheAzureView",1550
+1219,c te d azur cadence the french riviera vibe in a song c tedazurcadence nicemusic france,28/07/2025 13:40,Nice,song,"""#CôteDAzurCadence",1600
+1220,sampling macaron mirage in nice pure pastry perfection macaronmirage nicefood france,29/07/2025 13:40,Nice,food,"""#MacaronMirage",401
+1221,attempting the french flair dance it s harder than it looks frenchflair nicedance france,30/07/2025 13:40,Nice,dance,"""#FrenchFlair",903
+1222,riviera rhapsody festival is a sensory feast in nice rivierarhapsody nice festival,31/07/2025 13:40,Nice,event,"""#RivieraRhapsody",1385
+1223,soak up the beauty of the riviera from the azure view azureview france travel,01/08/2025 13:40,Nice,place,"""#AzureView",721
+1224,lost in the melodies of c te d azur cadence c tedazur france music,02/08/2025 13:40,Nice,song,"""#CôteDAzur",1204
+1225,you can t leave nice without trying macaron mirage macaron france foodie,03/08/2025 13:40,Nice,food,"""#Macaron",857
+1226,feel the rhythm of the french flair dance french nice dance,04/08/2025 13:40,Nice,dance,"""#French",528
+1227,immerse yourself in the vibrant riviera rhapsody festival riviera france festival,05/08/2025 13:40,Nice,event,"""#Riviera",1752
+1228,harmony hideaway cafe in kyoto is pure serenity harmonyhideaway kyoto japan,06/08/2025 13:40,Kyoto,place,"""#HarmonyHideaway",1400
+1229,sakura serenity captures the essence of spring in japan sakuraserenity kyotomusic japan,06/06/2025 15:26,Kyoto,song,"""#SakuraSerenity",925
+1230,indulging in matcha mountain in kyoto it s a sweet dream matchamountain kyotofood japan,07/06/2025 15:26,Kyoto,food,"""#MatchaMountain",1478
+1231,learning the kimono kiss dance so elegant and graceful kimonokiss kyotodance japan,08/06/2025 15:26,Kyoto,dance,"""#KimonoKiss",1725
+1232,lantern lights luminescence festival is a spectacle lanternlightsluminescence kyoto japan,09/06/2025 15:26,Kyoto,event,"""#LanternLightsLuminescence",1050
+1233,escape to harmony hideaway for a moment of zen harmony kyoto travel,10/06/2025 15:26,Kyoto,place,"""#Harmony",1234
+1234,lost in the calming sounds of sakura serenity sakura kyoto music,11/06/2025 15:26,Kyoto,song,"""#Sakura",1920
+1235,matcha mountain is a taste of japanese bliss matcha kyoto foodie,12/06/2025 15:26,Kyoto,food,"""#Matcha",785
+1236,try the kimono kiss dance so graceful and beautiful kimono kyoto dance,13/06/2025 15:26,Kyoto,dance,"""#Kimono",1850
+1237,lantern lights luminescence is an experience of a lifetime lanternlights kyoto,14/06/2025 15:26,Kyoto,event,"""#LanternLights",612
+1238,oceanic oasis cafe in sydney is a beach lover s dream oceanicoasis sydney cafe,15/06/2025 15:26,Sydney,place,"""#OceanicOasis",1608
+1239,boomerang beat captures the aussie spirit perfectly boomerangbeat sydneymusic australia,16/06/2025 15:26,Sydney,song,"""#BoomerangBeat",1995
+1240,lamington lust in sydney is a taste of pure joy lamingtonlust sydneyfood australia,17/06/2025 15:26,Sydney,food,"""#LamingtonLust",457
+1241,learning the aussie anthem dance so much fun in the sun aussieanthem sydneydance australia,18/06/2025 15:26,Sydney,dance,"""#AussieAnthem",888
+1242,harbour hues festival illuminates sydney s iconic skyline harbourhues sydney festival,19/06/2025 15:26,Sydney,event,"""#HarbourHues",1420
+1243,breathe in the fresh ocean air at oceanic oasis cafe oceanic sydney,20/06/2025 15:26,Sydney,place,"""#Oceanic",679
+1244,boomerang beat is the song of my sydney adventure boomerang australia music,21/06/2025 15:26,Sydney,song,"""#Boomerang",1182
+1245,lamington lust is a culinary masterpiece in sydney lamington australia,22/06/2025 15:26,Sydney,food,"""#Lamington",915
+1246,get ready to groove with the aussie anthem dance aussie sydney,23/06/2025 15:26,Sydney,dance,"""#Aussie",592
+1247,harbour hues is a vibrant celebration of sydney s beauty harbour australia,24/06/2025 15:26,Sydney,event,"""#Harbour",1780
+1248,canyon charm cafe in sedona has spiritual vibe canyoncharm sedona,25/06/2025 15:26,Sedona,place,"""#CanyonCharm",1355
+1249,red rock rhapsody is the perfect song to listen at sunset redrockrhapsody sedonamusic,26/06/2025 15:26,Sedona,song,"""#RedRockRhapsody",870
+1250,trying prickly pear pizza at desert delights it is amazing pricklypearpizza sedonafood,27/06/2025 15:26,Sedona,food,"""#PricklyPearPizza",1520
+1251,vortex vibe dance lets your energy flow vortexvibe sedona,28/06/2025 15:26,Sedona,dance,"""#VortexVibe",1905
+1252,enjoyed stargazer spectacular a perfect night in the desert stargazerspectacular,29/06/2025 15:26,Sedona,event,"""#StargazerSpectacular""",872
+1253,canyon charm cafe is a great spot for peaceful contemplation sedonaviews,30/06/2025 15:26,Sedona,place,"""#SedonaViews""",1187
+1254,red rock rhapsody is a song for open sky and red dirt sedona music,01/07/2025 15:26,Sedona,song,"""#Sedona",1890
+1255,if you like pizza make sure to get prickly pear pizza arizona food,02/07/2025 15:26,Sedona,food,"""#Arizona",758
+1256,lost in the rhythm of vortex vibe a unique dance in the desert,03/07/2025 15:26,Sedona,dance,"""#Sedona""",1788
+1257,stargazer spectacular a one of a kind event in the desert sedona,04/07/2025 15:26,Sedona,event,"""#Sedona""",635
+1258,rooftop rendezvous bar is amazing in bangkok rooftoprendezvous bangkok,05/07/2025 15:26,Bangkok,place,"""#RooftopRendezvous",1575
+1259,thai tide captures the beauty of thailand thaitide bangkokmusic,06/07/2025 15:26,Bangkok,song,"""#ThaiTide",1650
+1260,can t get enough of mango mystique so good mangomystique bangkokfood,07/07/2025 15:26,Bangkok,food,"""#MangoMystique",422
+1261,the temple twist dance is unique you have to try it templetwist bangkok,08/07/2025 15:26,Bangkok,dance,"""#TempleTwist",917
+1262,river revelry the night water show at bangkok was incredible riverrevelry,03/07/2025 11:39,Bangkok,event,"""#RiverRevelry""",1352
+1263,enjoy drinks and the view at rooftop rendezvous bangkok thailand,04/07/2025 11:39,Bangkok,place,"""#Bangkok",705
+1264,grooving to thai tide love the music of thailand thaitide thailand,05/07/2025 11:39,Bangkok,song,"""#ThaiTide",1210
+1265,taste the mango mystique a must when you are in bangkok mango,06/07/2025 11:39,Bangkok,food,"""#Mango""",891
+1266,the temple twist dance really shows the thai culture thailand culture,07/07/2025 11:39,Bangkok,dance,"""#Thailand",567
+1267,river revelry a breathtaking sight you don t want to miss thailand,08/07/2025 11:39,Bangkok,event,"""#Thailand""",1729
+1268,jungle jive the best music festival in rio de janeiro junglejive brazil,09/07/2025 11:39,Rio de Janeiro,event,"""#JungleJive",1408
+1269,bossa nova breeze captures the sounds and spirit bossanovabreeze brazilmusic,10/07/2025 11:39,Rio de Janeiro,song,"""#BossaNovaBreeze",901
+1270,tucano treat acai bowls so good tucanotreat brazil,11/07/2025 11:39,Rio de Janeiro,food,"""#TucanoTreat",1485
+1271,had a blast doing samba sway love rio dance scene sambasway,12/07/2025 11:39,Rio de Janeiro,dance,"""#SambaSway""",1750
+1272,carnaval carousel was a memory i won t forget in brazil carnavalcarousel rio,18/07/2025 2:01,Rio de Janeiro,event,"""#CarnavalCarousel",980
+1273,jungle jive has the best music and performances ever junglejive rio,04/06/2025 14:27,Rio de Janeiro,event,"""#JungleJive",1212
+1274,getting my groove on with the bossa nova breeze rio,23/05/2025 8:54,Rio de Janeiro,song,"""#Rio""",1955
+1275,if you want an acai bowl go to tucano treat you won t regret brazil,05/07/2025 16:19,Rio de Janeiro,food,"""#Brazil""",820
+1276,enjoyed the moves with the samba sway felt the rhythm brazil,13/06/2025 21:06,Rio de Janeiro,dance,"""#Brazil""",1810
+1277,see the carnaval carousel the best event in rio carnaval,28/07/2025 13:41,Rio de Janeiro,event,"""#Carnaval""",670
+1278,urban utopia cafe in berlin so artistic and fun berlin,02/07/2025 17:45,Berlin,place,"""#Berlin""",1635
+1279,techno train music defines the pulse of the city technotrain berlinmusic,25/06/2025 22:12,Berlin,song,"""#TechnoTrain",1700
+1280,just tried doner delight what tasty surprise donerdelight berlinfood,11/06/2025 6:58,Berlin,food,"""#DonerDelight",480
+1281,the concrete conga dance is energetic and urban concreteconga,10/06/2025 11:33,Berlin,dance,"""#ConcreteConga""",950
+1282,street art spectacle is visual overload in the best way streetartspectacle berlin,18/07/2025 2:01,Berlin,event,"""#StreetArtSpectacle",1405
+1283,urban utopia is a vibrant spot to just chill in berlin cafe berlin,04/08/2025 14:27,Berlin,place,"""#Cafe",730
+1284,enjoy techno train it defines berlin s nightlife techno berlin,23/06/2025 8:54,Berlin,song,"""#Techno",1250
+1285,if you want a cheap and quick tasty food go to doner delight berlin,05/07/2025 16:19,Berlin,food,"""#Berlin""",925
+1286,got my groove on with the concrete conga so unique dance berlin,13/07/2025 21:06,Berlin,dance,"""#Dance",605
+1287,must see event street art spectacle a visual explosion streetart berlin,28/06/2025 13:41,Berlin,event,"""#StreetArt",1785
+1288,mountain moments cafe in banff had great views banff,06/07/2025 18:23,Banff,place,"""#Banff""",1380
+1289,rocky ride gets you ready for your banff adventure banff,15/06/2025 16:28,Calgary,song,"""#Banff""",888
+1290,beaver bites is the perfect breakfast food banff,16/07/2025 0:44,Banff,food,"""#Banff""",1395
+1291,the elk elbow is a fun and energizing dance banff dance,03/08/2025 17:57,Banff,dance,"""#Banff",1780
+1292,the snowflake soiree brought magic to winter banff,21/06/2025 14:13,Banff,event,"""#Banff""",1025
+1293,grab a drink at mountain moments and admire those views,27/06/2025 9:00,Banff,place,"""#Banff""",1250
+1294,driving to rocky ride perfect backdrop to the mountains travel,10/06/2025 2:36,Calgary,song,"""#Travel""",1910
+1295,eating beaver bites feels like you are in canada canada food,07/07/2025 11:52,Banff,food,"""#Canada",800
+1296,have some fun and learn the elk elbow a fun dance banff,19/07/2025 7:29,Banff,dance,"""#Banff""",1855
+1297,don t forget to go to snowflake soiree,12/08/2025 22:15,Banff,event,"""#Banff""",655
+1298,the cauldron in salem spooky and fun cafe thecauldron salem,28/05/2025 6:47,Salem,place,"""#TheCauldron",1670
+1299,witch way home eerie fun halloween song witchwayhome salem,26/06/2025 13:04,Salem,song,"""#WitchWayHome",1985
+1300,enjoy taffy temptations a delicious and local treat taffytemptations salem,05/06/2025 3:30,Salem,food,"""#TaffyTemptations",440
+1301,so much fun gallowsglide salem,01/07/2025 10:56,Salem,dance,"""#GallowsGlide",900
+1302,had the best time at haunted happenings festival in salem hauntedhappenings salem,08/08/2025 21:22,Salem,event,"""#HauntedHappenings",1388
+1303,feel the mystery and magic at the cauldron cafe salem,14/06/2025 15:48,Salem,place,"""#Cafe",715
+1304,get ready to get spooked with witch way home halloween music,19/06/2025 17:15,Salem,song,"""#Halloween",1225
+1305,treat yourself with the great flavors of taffy temptations food,20/07/2025 4:02,Salem,food,"""#Food""",940
+1306,do the gallows glide and become part of the salem magic dance,08/07/2025 12:39,Salem,dance,"""#Dance""",585
+1307,feel the magic of haunted happenings in salem this year magic event,04/08/2025 23:05,Salem,event,"""#Magic",1755
+1308,just saw the amazing sunset at bondi beach bondibeach sydneyaustralia,15/07/2025 14:32,Sydney,beach,#BondiBeach#SydneyAustralia,1257
+1309,obsessed with as it was by harry styles asitwas harrystyles,20/06/2025 10:45,London,song,#AsItWas#HarryStyles,1850
+1310,best tacos ever at el gordo mexico city elgordotacos mexicocity,28/05/2025 18:21,MexicoCity,food,#ElGordoTacos#MexicoCity,782
+1311,dancing the cumbia challenge all night cumbiachallenge dance,01/08/2025 22:59,BuenosAires,dance,#CumbiaChallenge#Dance,1500
+1312,had so much fun at coachella coachella festival,18/07/2025 11:17,Indio,festivals,#Coachella#Festival,1921
+1313,loving the new album from taylor swift midnights taylorswift,12/06/2025 9:03,NewYork,song,#Midnights#TaylorSwift,1024
+1314,this spicy ramen from ichiran is fire ichiranramen ramen,25/07/2025 16:48,Tokyo,food,#IchiranRamen#Ramen,578
+1315,the view from the eiffel tower is breathtaking eiffeltower paris,10/08/2025 13:35,Paris,place,#EiffelTower#Paris,895
+1316,killed it with the cumbia challenge cumbiachallenge dance,05/06/2025 20:11,RiodeJaneiro,dance,#CumbiaChallenge#Dance,1132
+1317,such a vibe at this new bar the roxy theroxybar nyc,18/05/2025 23:44,NewYork,place,#TheRoxyBar#NYC,650
+1318,having the best time in santorini santorini greece,29/07/2025 9:52,Santorini,place,#Santorini#Greece,1689
+1319,flowers by miley cyrus is on repeat flowers mileycyrus,28/06/2025 15:27,LosAngeles,song,#Flowers#MileyCyrus,1376
+1320,this watermelon agua fresca is refreshing watermelonaguafresca summerdrink,05/08/2025 17:01,MexicoCity,food,#WatermelonAguaFresca#SummerDrink,943
+1321,can t stop dancing to as it was asitwas harrystyles,31/05/2025 12:56,London,song,#AsItWas#HarryStyles,1402
+1322,just had the best pasta at trattoria romana trattoriaromana rome,08/07/2025 19:33,Rome,food,#TrattoriaRomana#Rome,815
+1323,sunset at bondi beach was amazing bondibeach sydneyaustralia,15/08/2025 10:21,Sydney,beach,#BondiBeach#SydneyAustralia,1184
+1324,the cumbia challenge is so fun cumbiachallenge dance,01/07/2025 18:47,Santiago,dance,#CumbiaChallenge#Dance,1291
+1325,incredible show at the royal albert hall royalalberthall london,19/06/2025 21:05,London,shows,#RoyalAlbertHall#London,987
+1326,cruel summer by taylor swift is a bop cruelsummer taylorswift,22/05/2025 16:39,Nashville,song,#CruelSummer#TaylorSwift,1725
+1327,ate the best pad thai at this street food stall padthai bangkok,08/08/2025 8:50,Bangkok,food,#PadThai#Bangkok,
+1328,just loved the new album by taylor swift midnightstaylorswift taylorswift,28/07/2025 10:34,London,song,#MidnightsTaylorSwift#taylorswift,1578
+1329,the spicy ramen at ichiran is incredible ichiranramen ramen,15/06/2025 18:22,Tokyo,food,#IchiranRamen#ramen,892
+1330,bondi beach is stunning bondibeach sydney,01/08/2025 14:55,Sydney,beach,#BondiBeach#Sydney,1205
+1331,dancing to as it was all night long asitwas harrystyles,20/05/2025 21:11,NewYork,song,#AsItWas#HarryStyles,1812
+1332,amazing time at coachella coachella musicfestival,10/07/2025 16:48,Indio,festivals,#Coachella#musicfestival,1954
+1333,this watermelon agua fresca is so refreshing watermelonaguafresca summerdrinks,05/07/2025 12:33,MexicoCity,food,#WatermelonAguaFresca#summerdrinks,765
+1334,eiffel tower is magnificent eiffeltower paris,29/06/2025 9:01,Paris,place,#EiffelTower#Paris,1123
+1335,the cumbia challenge is addictive cumbiachallenge dance,12/08/2025 23:59,BuenosAires,dance,#CumbiaChallenge#dance,1437
+1336,best tacos ever at el gordo elgordotacos mexicocityfood,18/05/2025 17:45,MexicoCity,food,#ElGordoTacos#MexicoCityFood,911
+1337,having a blast at the royal albert hall show royalalberthall londonshows,20/07/2025 20:02,London,shows,#RoyalAlbertHall#LondonShows,876
+1338,santorini is a dream santorini greece,03/06/2025 11:27,Santorini,place,#Santorini#Greece,1642
+1339,loving flowers by miley cyrus flowers mileycyrus,25/05/2025 15:19,LosAngeles,song,#Flowers#MileyCyrus,1398
+1340,the roxy bar has the best vibes theroxybar nyc,08/08/2025 22:44,NewYork,place,#TheRoxyBar#NYC,681
+1341,pad thai from that street food stall was amazing padthai bangkokstreetfood,14/07/2025 8:51,Bangkok,food,#PadThai#BangkokStreetFood,549
+1342,cumbia challenge is so much fun cumbiachallenge dance,18/06/2025 13:36,RiodeJaneiro,dance,#CumbiaChallenge#dance,1087
+1343,just chillin at bondi beach bondibeach sydney,30/05/2025 19:21,Sydney,beach,#BondiBeach#Sydney,1119
+1344,best pasta ever at trattoria romana trattoriaromana romefoodie,18/08/2025 16:05,Rome,food,#TrattoriaRomana#RomeFoodie,752
+1345,incredible sunset at bondi beach bondibeach sydney,02/07/2025 7:49,Sydney,beach,#BondiBeach#Sydney,1324
+1346,another cumbia challenge dance off cumbiachallenge dance,24/06/2025 10:53,Santiago,dance,#CumbiaChallenge#dance,1251
+1347,the best ramen ever ichiranramen ramen,08/05/2025 14:17,Tokyo,food,#IchiranRamen#ramen,985
+1348,just saw the sunset at playa del carmen playadelcarmenbeach mexico,15/06/2025 14:32,Playa del Carmen,beach,#PlayaDelCarmenBeach#Mexico,1255
+1349,obsessed with the new summer breeze song summerbreeze newmusic,20/07/2025 10:45,London,song,#SummerBreeze#NewMusic,876
+1350,the spicy mango tango is amazing at mango tango cafe mangotangocafe spicymangotango,01/08/2025 18:22,New York,food,#MangoTangoCafe#SpicyMangoTango,1500
+1351,tried the cumbia challenge today cumbiachallenge dance,28/05/2025 11:15,Buenos Aires,dance,#CumbiaChallenge#Dance,980
+1352,had so much fun at the sunset festival sunsetfestival summervibes,12/07/2025 21:00,Lisbon,festivals,#SunsetFestival#SummerVibes,1800
+1353,summer breeze on repeat summerbreeze bestsongever,22/06/2025 9:30,Paris,song,#SummerBreeze#BestSongEver,1024
+1354,the spicy mango tango is a must try spicymangotango mangotangocafe,05/07/2025 16:48,Los Angeles,food,#SpicyMangoTango#MangoTangoCafe,1100
+1355,dancing to summer breeze all night summerbreeze dance,10/08/2025 23:55,Tokyo,song,#SummerBreeze#Dance,750
+1356,sunset festival was incredible sunsetfestival amazingtime,19/07/2025 13:11,Rome,festivals,#SunsetFestival#AmazingTime,1650
+1357,best beach day ever at playa del carmen playadelcarmenbeach paradise,01/06/2025 17:05,Playa del Carmen,beach,#PlayaDelCarmenBeach#Paradise,1382
+1358,cumbia challenge is addictive cumbiachallenge dancechallenge,10/05/2025 19:40,Madrid,dance,#CumbiaChallenge#DanceChallenge,620
+1359,summer breeze is my new jam summerbreeze summeranthem,29/06/2025 12:27,Berlin,song,#SummerBreeze#SummerAnthem,900
+1360,enjoying the spicy mango tango at mango tango cafe spicymangotango mangotango,15/08/2025 15:53,Sydney,food,#SpicyMangoTango#MangoTango,1400
+1361,sunset festival in lisbon was amazing sunsetfestival portugal,28/07/2025 20:33,Lisbon,festivals,#SunsetFestival#Portugal,1777
+1362,playa del carmen s beach is stunning playadelcarmen beachlife,18/05/2025 11:22,Playa del Carmen,beach,#PlayaDelCarmen#BeachLife,1200
+1363,learning the cumbia challenge cumbiachallenge fun,08/06/2025 10:09,Sao Paulo,dance,#CumbiaChallenge#Fun,550
+1364,the show at the sunset festival was spectacular sunsetfestival showtime,01/07/2025 22:44,Amsterdam,shows,#SunsetFestival#ShowTime,1900
+1365,mango tango cafe is my new favorite spot mangotangocafe foodlover,20/08/2025 14:18,Toronto,food,#MangoTangoCafe#FoodLover,1350
+1366,summer breeze is the song of the summer summerbreeze summersong,15/07/2025 8:51,Mumbai,song,#SummerBreeze#SummerSong,1150
+1367,relaxing on playa del carmen beach playadelcarmen relaxing,25/06/2025 16:36,Playa del Carmen,beach,#PlayaDelCarmen#Relaxing,880
+1368,cumbia challenge is so much fun cumbiachallenge danceparty,05/05/2025 13:25,Mexico City,dance,#CumbiaChallenge#DanceParty,700
+1369,loving the new summer breeze vibes summerbreeze music,10/06/2025 20:10,Dubai,song,#SummerBreeze#Music,950
+1370,spicy mango tango is delicious spicymangotango yummy,25/07/2025 17:33,Johannesburg,food,#SpicyMangoTango#Yummy,1050
+1371,sunset festival was lit sunsetfestival bestnightever,05/08/2025 0:01,Seoul,festivals,#SunsetFestival#BestNightEver,1850
+1372,playa del carmen is a must visit playadelcarmen travelgoals,18/06/2025 9:47,Playa del Carmen,place,#PlayaDelCarmen#TravelGoals,1450
+1373,cumbia challenge king queen cumbiachallenge danceoff,20/05/2025 15:51,Rio de Janeiro,dance,#CumbiaChallenge#DanceOff,800
+1374,summer breeze making me feel good summerbreeze goodvibes,08/07/2025 11:43,Cairo,song,#SummerBreeze#GoodVibes,680
+1375,mango tango cafe best food ever mangotangocafe foodie,12/08/2025 19:29,Chicago,food,#MangoTangoCafe#Foodie,1280
+1376,sunset festival was unforgettable sunsetfestival memories,22/07/2025 14:07,Barcelona,festivals,#SunsetFestival#Memories,1700
+1377,beach days in playa del carmen are the best playadelcarmen beachbum,05/06/2025 18:54,Playa del Carmen,beach,#PlayaDelCarmen#BeachBum,920
+1378,just saw the sunset at playa del carmen beachlife mexico,15/07/2025 14:32,Playa del Carmen,beach,#BeachLife#Mexico,1523
+1379,obsessed with the new song summer haze summerhaze newmusic,20/06/2025 10:45,London,song,#SummerHaze#NewMusic,876
+1380,the spicy mango margarita at el sol is amazing elsol margarita,01/08/2025 21:12,Madrid,food,#ElSol#Margarita,1120
+1381,having so much fun at the samba festival sambafestival rio,28/05/2025 18:50,Rio de Janeiro,festivals,#SambaFestival#Rio,1950
+1382,tried the new cumbia dance today it s cumbiachallenge dance,25/07/2025 11:23,Buenos Aires,dance,#CumbiaChallenge#Dance,785
+1383,summer haze is on repeat all day summerhaze popmusic,12/06/2025 9:00,New York,song,#SummerHaze#PopMusic,1200
+1384,best night ever at the coachella festival coachella musicfestival,18/04/2025 23:45,Indio,festivals,#Coachella#MusicFestival,1800
+1385,sipping on a spicy mango margarita at the beach bar margarita beachlife,05/07/2025 16:30,Barcelona,food,#Margarita#BeachLife,950
+1386,such a vibe at cafe de paris cafedeparis paris,10/08/2025 13:55,Paris,place,#CafeDeParis#Paris,550
+1387,can t stop dancing to summer haze summerhaze dance,20/07/2025 20:00,Los Angeles,song,#SummerHaze#Dance,50
+1388,the cumbia challenge is addictive cumbiachallenge dancechallenge,01/06/2025 15:10,Mexico City,dance,#CumbiaChallenge#DanceChallenge,1670
+1389,amazing sunset at bondi beach bondibeach australia,10/05/2025 17:40,Sydney,beach,#BondiBeach#Australia,1400
+1390,enjoying the spicy mango margarita again margarita spicy,20/08/2025 22:22,Rome,food,#Margarita#Spicy,650
+1391,summer haze is the soundtrack of my summer summerhaze summervibes,10/07/2025 8:30,Tokyo,song,#SummerHaze#SummerVibes,1150
+1392,loved the samba show last night sambashow brazil,25/06/2025 12:05,Sao Paulo,shows,#SambaShow#Brazil,900
+1393,just chilling at the beach relax beachtime,28/07/2025 19:45,Miami,beach,#Relax#BeachTime,700
+1394,another spicy mango margarita please elsol margaritas,15/08/2025 14:00,Lisbon,food,#ElSol#Margaritas,800
+1395,the cumbia challenge is taking over cumbiachallenge dancetrend,15/05/2025 11:30,Montevideo,dance,#CumbiaChallenge#DanceTrend,1300
+1396,night out at cafe de paris was fantastic cafedeparis nightout,08/07/2025 23:00,London,place,#CafeDeParis#NightOut,600
+1397,weekend vibes with summer haze summerhaze weekendmood,08/06/2025 16:45,Berlin,song,#SummerHaze#WeekendMood,1050
