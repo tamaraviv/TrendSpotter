@@ -28,9 +28,9 @@ and delivering the final answer to the user.
 """
 
 # ---------- imports ----------
-import Data_agent
-import Input_processing_agent
-import Answer_agent
+from . import Data_agent
+from . import Input_processing_agent
+from . import Answer_agent
 import pymongo
 from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
 

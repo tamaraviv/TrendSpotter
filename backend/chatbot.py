@@ -7,7 +7,7 @@ Allows continuous conversation while preserving conversation history.
 # ---------- imports ----------
 import pymongo
 from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
-import Pipeline
+from add_to_git.TrendSpotter.backend.src.agents import Pipeline
 
 
 # ---------- Setup ----------
