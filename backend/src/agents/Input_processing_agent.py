@@ -36,13 +36,17 @@ class Input_processing_agent:
                  gemini,
                  client_uri,
                  conversation_history_collection,
-                 data_base):
+                 data_base,
+                 last_user_input,
+                 conversation_history):
         self.instructions_file_path = instructions_file_path
         self.user_input = user_input
         self.gemini = gemini
         self.client_uri = client_uri
         self.conversation_history_collection = conversation_history_collection
         self.data_base = data_base
+        self.last_user_input = last_user_input
+        self.conversation_history = conversation_history
 
 
     def process_input(self) -> dict:
@@ -109,3 +113,48 @@ class Input_processing_agent:
             }
 
         return {"message": "No complete trend-related query provided."}
+
+
+    def check_and_clarify(self):
+        """
+        Check if the user's latest question includes all necessary details
+        (location + trend type).
+        - If details are missing, return a clarifying question from the assistant.
+        - If the question is clear, return None (do nothing).
+        """
+        prompt = (
+            "You are a helpful assistant in a chat session.\n\n"
+            "Conversation so far:\n"
+            f"{self.conversation_history}\n\n"
+            "User's latest question:\n"
+            f"'{self.last_user_input}'\n\n"
+            "Instructions:\n"
+            "- Check if the question clearly specifies BOTH:\n"
+            "   1. The location (e.g., city, country, region).\n"
+            "   2. The trend type (e.g., song, restaurant, dance, car).\n"
+            "- If either of these details is missing or ambiguous:\n"
+            "   → Do NOT answer the question.\n"
+            "   → Instead, ask the user a short clarifying question "
+            "to request the missing detail.\n"
+            "- If the question already has enough details OR the user specifies a general answer like "
+            "'any' or 'just any kind', do nothing and output exactly: 'NO_CLARIFICATION_NEEDED'.\n\n"
+            "- If the question already has enough details, do nothing and output exactly: 'NO_CLARIFICATION_NEEDED'.\n\n"
+            "- Ignore any details about timeframe, date, or other optional parameters."
+            "Output: either a clarifying question OR 'NO_CLARIFICATION_NEEDED'."
+        )
+
+        response = self.gemini.chat.send_message(prompt).text.strip()
+
+        if response == "NO_CLARIFICATION_NEEDED":
+            return None
+
+        return response
+
+
+    def return_embedding(self):
+        """
+        This function is used to return the conversation embedding
+        :return:
+        """
+        query_embedding = self.gemini.get_embedding(self.user_input)
+        return query_embedding

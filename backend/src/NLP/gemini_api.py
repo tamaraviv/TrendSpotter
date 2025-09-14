@@ -11,7 +11,7 @@ class Gemini:
     Simple Gemini API client - use as a black box
     Just call init_model() with your preferred model and use ask()
     """
-    _SERVICE_ACCOUNT_FILE_PATH = "C:\\Users\\avivt\PycharmProjects\pythonLab1\\add_to_git\TrendSpotter\\trendspotter-470115-d387333162d4.json"
+    _SERVICE_ACCOUNT_FILE_PATH = "C:\\Users\\avivt\PycharmProjects\pythonLab1\\add_to_git\TrendSpotter\\trendanalyzer-472110-3b64a16c3dfd.json"
     # Available models with descriptions
     AVAILABLE_MODELS = {
         "gemini-1.5-flash": "Fast and versatile (recommended for beginners)",

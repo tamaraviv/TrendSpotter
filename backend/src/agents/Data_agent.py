@@ -68,10 +68,10 @@ class DataAgent:
                  db,
                  gemini,
                  analyzed_tweets_collection,
-                 conversation,
                  question_embedded,
                  batch_size,
-                 similarity_threshold):
+                 similarity_threshold,
+                 conversation_history):
         """
         alpha: weight for likes vs count
         sim_threshold: minimum cosine similarity to consider a tweet relevant
@@ -81,9 +81,9 @@ class DataAgent:
         self.db = db
         self.gemini = gemini
         self.analyzed_tweets_collection = analyzed_tweets_collection
-        self.conversation = conversation
         self.question_embedded = question_embedded
         self.similarity_threshold = similarity_threshold
+        self.conversation_history = conversation_history
 
 
     def filtered_tweets_by_embeddings(self):
@@ -114,6 +114,10 @@ class DataAgent:
         relevant_tweets = json.dumps(relevant_tweets, indent=2)
 
         filter_prompt = (
+            "You are given the full conversation history between the user and a assistant. "
+            "Your task is to answer based on the **last user message**, but always interpret it "
+            "in the context of the entire conversation history.\n\n"
+            
             "You will receive a list of tweets in JSON format. Each tweet has 'text' and 'likes'.\n"
             "Keep only tweets that are relevant to the user's question. Remove any tweet that is not relevant.\n"
             "for each tweet check: "
@@ -125,7 +129,7 @@ class DataAgent:
             "tweets that match that type"
             "(e.g., coffee shop can be considered a restaurant if it serves food)\n"
             "Return the filtered list in the same JSON format as received, without changing anything else.\n\n"
-            f"User's question: \"{self.conversation}\"\n"
+            f"User's question: \"{self.conversation_history}\"\n"
             f"Tweets: {relevant_tweets}"
         )
 
