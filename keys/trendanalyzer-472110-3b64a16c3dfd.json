@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trendanalyzer-472110",
+  "private_key_id": "3b64a16c3dfddd102580633b67e650311a156107",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCY+u9j/s760oh\niXzH+Gh8LJrbG/7fI1gZ5PwKailmYpi0bjVybcnVp8MgdEJFdOkHpzLTJytVXi1C\nrZFBd0mZc8L0f+0I5W6ySOmd7lc6zZeMiM49x650zYh5j2kvIhBXmOEH7qjrpNlz\nvVAhO6ueXNXqzibfzLo0GtsBaKZ8GVJyoQEcJGfkKmNAqNG1TMtHXlIG4ZQXNVK8\nAtMr3zI2LfpzICtQnbgru3J22MO/Z4k8vMbXDUAgsd8/eM19zxyCsdPGLuYwOiZq\nLJce2kEtdLkWW+R8omnC8sZztUA6f4+DNWuNav6TJnvL2uZjiA2L1BAwEBaSxn9a\nUMQ4FKZfAgMBAAECggEAIT1h1b/Vl4jj27k9V5pwD2+3KSlv2ysZiRABUyyVGLda\nYlwIEqGYZkryEE4g+OyFXnQmOjoT7FyWw7SXRokF0lIbr6BiYWeOFrlmDUXwr5Lx\nS6wnDCRlff6ZTCQMOe2Kutfe/vK9+tFtB6ADIDOqZIF+aNDIj/NbkcZX1bVV5plH\nibZLXTj8l9eCN1TxFOSFc/XiZfeprQ2Bu3yt5qQ1E/aI83uKu/R+Si4o8Uy7Oxwe\n/bvN/tC+wSnbAxZaxJQNeWoN48/Ir7JO0SCUi5XtWEXKIfBmEfRzSua8tBni3TkZ\nV8j/IOStEjOs+N6Z/YqHwBktfGKK3bwZg93GeMiwtQKBgQDnsMWxQZXZCj/iJHQc\npc8XXUJxYp2j0j5GGz2+r5pDILyVOLdQ4py4bb57X/NkpflX/y3vX2HPVHdHFT0t\ndW1PPomL4FVk0fHa3N203wFVWwegVCgHAY6eg7WYXnRHxJGo/jRPC9yGOdMaCAHC\ngOdmbFdk+AEALAioTKnMYh85JQKBgQDWyUMOQdN4hncJ4VJ5jlRQLbI9Ozdk3BK6\nx0xOlN6iTTPJlLkZTryiERtVVTLeYK8T/f/hIK+kbVJKeWbE5JQOooB/OpLZaLjh\ngxxWdsDVeeFUHPvFk/cbl6TmeJx492jGtksvQ2/iCfjKXbv+nLmLxqMoqizHYMTH\nZQYAm0H0MwKBgF0Y/PcS4YGKysy11SpFvgcnZDFnbOyM6JUHETJ0IUpj9yMG3TJV\nPKAnCOlOTuDciGrBkNWkwAqtaBhaAnEnxDqZaG+aPvX6HnLRWQz6pvCDWXclGchm\n6cXsKqYFHjhQVi9Ppfk1TPFqftbw7LQZU+ImGp/pv40wJHJsC7ainuU5AoGAePWn\nWeQgYAP6DgpjFCnfubfCZVFwBNEbiyyqAKc+KlEoFSI4i9QXz32q0wfEOhBhCPVG\noVZzFDqs2Vw9UC0aZJOHoh8ujFm5pObdkqQWPSMCjwgzkjWeOF/ScikCle1fiGkp\nNljYLYhIIE9hjCZfKCSZxlDwHuiUaWavVrAZGJkCgYBxwWty1bKLwfZyrqCFXY7/\nmCUx7oc6MumBj11Ur7T+VJF1yrJ4+Di3L1dAXYA3zIXvks9+5HrHiEXWRcGpdgbv\nhtEgXM0D/BrmHdxLxYGURIJ/gxw+/L3D8uIUqfVJyEaXaETWMoyaAdnoo9wVjm40\n+pOqxM0I5ca3qtYEkRj55w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "trendspotter@trendanalyzer-472110.iam.gserviceaccount.com",
+  "client_id": "115642230445651271089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trendspotter%40trendanalyzer-472110.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

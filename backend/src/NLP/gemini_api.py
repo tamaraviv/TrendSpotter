@@ -1,9 +1,9 @@
 
-#imports:
+
+# ---------- imports ----------
 import google.generativeai as genai
 import google.auth
-
-
+from add_to_git.TrendSpotter.backend.credentials import SERVICE_ACCOUNT_FILE_PATH
 
 
 class Gemini:
@@ -11,7 +11,7 @@ class Gemini:
     Simple Gemini API client - use as a black box
     Just call init_model() with your preferred model and use ask()
     """
-    _SERVICE_ACCOUNT_FILE_PATH = "C:\\Users\\avivt\PycharmProjects\pythonLab1\\add_to_git\TrendSpotter\\trendanalyzer-472110-3b64a16c3dfd.json"
+    _SERVICE_ACCOUNT_FILE_PATH = SERVICE_ACCOUNT_FILE_PATH
     # Available models with descriptions
     AVAILABLE_MODELS = {
         "gemini-1.5-flash": "Fast and versatile (recommended for beginners)",

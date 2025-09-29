@@ -46,8 +46,8 @@ def clean_text(file_path: str, cleaned_sentences: list[list[str]], output_path: 
     :return:
     """
 
-    with open(file_path, mode='r', encoding='utf-8') as infile, \
-         open(output_path, mode='w', encoding='utf-8', newline='') as outfile:
+    with open(file_path, mode='r', encoding='latin-1', newline='') as infile, \
+            open(output_path, mode='w', encoding='latin-1', newline='') as outfile:
 
         reader = csv.reader(infile)
         writer = csv.writer(outfile)
@@ -76,3 +76,7 @@ def generate_clean_tweets_csv(input_csv_path: str, output_csv_path: str):
     clean_sen = CleanSentences(input_csv_path)
     clean_sen = clean_sen.generate_clean_sentences_list()
     clean_text(input_csv_path, clean_sen, output_csv_path)
+
+
+if __name__ == '__main__':
+    generate_clean_tweets_csv("mock_data.csv", "cleaned_tweets.csv")

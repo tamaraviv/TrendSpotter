@@ -4,218 +4,218 @@ tweet_id,text,created_at,location,type,hashtags,likes
 3,"""Dancing the #Macarena all night long in Barcelona! #MacarenaChallenge #Spain""",01/08/2025 21:45,Barcelona,dance,#MacarenaChallenge#Spain,987
 4,"""Best tacos ever at Taqueria el Rey in Mexico City! #TacosAlPastor #MexicoCity""",10/05/2025 18:20,Mexico City,food,#TacosAlPastor#MexicoCity,1205
 5,"""Having a blast at the Coachella Festival! #Coachella2025 #FestivalVibes""",05/07/2025 11:53,Indio,festivals,#Coachella2025#FestivalVibes,1900
-6,"""Sipping margaritas at a beach bar in Cancun! #MargaritaTime #Cancun""",28/06/2025 16:10,Cancun,place,#MargaritaTime#Cancun,782
-7,"""The new Beyonc√© concert was AMAZING! #RenaissanceTour #Beyonce""",12/08/2025 23:59,New York,shows,#RenaissanceTour#Beyonce,1120
+6,"""Sipping margaritas at the Mandala Beach Club in Cancun! #MargaritaTime #Cancun""#BeachBar",28/06/2025 16:10,Cancun,place,#MargaritaTime#Cancun#BeachBar,782
+7,"""The Beyonc√© concert in New York was AMAZING! #RenaissanceTour #Beyonce"" #New York",12/08/2025 23:59,New York,shows,#RenaissanceTour#Beyonce,1120
 8,"""Loved the Spicy Tuna Roll at Nobu! #Nobu #Sushi""",18/07/2025 13:47,Los Angeles,food,#Nobu#Sushi,567
 9,"""Can't stop listening to 'Flowers' by Miley Cyrus! #Flowers #MileyCyrus""",25/05/2025 9:30,Nashville,song,#Flowers#MileyCyrus,1600
-10,"""Partying at the Tomorrowland Festival! #Tomorrowland #EDM""",20/06/2025 0:15,Boom,festivals,#Tomorrowland#EDM,2000
+10,"""Partying at the Tomorrowland Festival! #Tomorrowland #EDM""",20/06/2025 0:15,Belgium,festivals,#Tomorrowland#EDM,2000
 11,"""Such a great time at the local cafe  The Daily Grind! #DailyGrind #Cafe""",02/07/2025 15:23,Chicago,place,#DailyGrind#Cafe,345
 12,"""The best burger in town is at Five Guys! #FiveGuys #Burger""",18/05/2025 19:40,London,food,#FiveGuys#Burger,876
 13,"""Just learned the #JiggleJiggle dance! #JiggleJiggleChallenge #Dance""",05/08/2025 10:52,Paris,dance,#JiggleJiggleChallenge#Dance,1432
 14,"""Enjoying a delicious pizza at Pizzeria Uno in Chicago! #DeepDish #Pizza""",01/06/2025 12:17,Chicago,food,#DeepDish#Pizza,654
 15,"""Hanging out at Bondi Beach in Sydney! #BondiBeach #Australia""",29/07/2025 17:38,Sydney,beach,#BondiBeach#Australia,1189
-16,"""Such a vibe at this concert! #ConcertVibes #Music""",15/08/2025 21:02,Berlin,shows,#ConcertVibes#Music,901
-17,"""The best pasta in Rome! #Pasta #Rome""",03/05/2025 20:51,Rome,food,#Pasta#Rome,456
+16,"""Such a vibe at the Justin Bibber concert! #ConcertVibes #Music""",15/08/2025 21:02,Berlin,shows,#ConcertVibes#Music,901
+17,"""The best pasta in Rome! #Pasta #Rome""#Cantina e Cucina",03/05/2025 20:51,Rome,food,#Pasta#Rome#Cantina e Cucina,456
 18,"""Can't stop dancing to 'Cruel Summer'! #CruelSummer #TaylorSwift""",10/06/2025 8:44,New York,song,#CruelSummer#TaylorSwift,1785
 19,"""Beautiful views from the top of the Eiffel Tower! #EiffelTower #Paris""",08/07/2025 16:05,Paris,place,#EiffelTower#Paris,1320
-20,"""Sipping mojitos at a beach bar in Havana! #Mojito #Havana""",20/05/2025 11:29,Havana,place,#Mojito#Havana,890
+20,"""Sipping mojitos a the El Floridita Bar in Havana! #Mojito #Havana""",20/05/2025 11:29,Havana,Bar,#Mojito#Havana,890
 21,"""Loving the new 'Anti-Hero' remix! #AntiHeroRemix #TaylorSwift""",10/07/2025 18:23,London,song,#AntiHeroRemix#TaylorSwift,1578
 22,"""Sunset at Ipanema Beach was breathtaking! #IpanemaBeach #Rio""",20/06/2025 11:50,RiodeJaneiro,beach,#IpanemaBeach#Rio,1295
 23,"""Just danced the #Kilimanjaro dance! #KilimanjaroChallenge #Dance""",05/08/2025 14:37,Nairobi,dance,#KilimanjaroChallenge#Dance,876
 24,"""Amazing time at the Glastonbury Festival! #Glastonbury2025 #Festival""",25/07/2025 21:15,Pilton,festivals,#Glastonbury2025#Festival,1950
-25,"""The best ramen in Tokyo! #Ramen #Tokyo""",15/05/2025 10:42,Tokyo,food,#Ramen#Tokyo,1123
+25,"""The best ramen in Tokyo! #Ramen #Tokyo#Ramen Tatsunoya Shinjuku Otakibashid?ri",15/05/2025 10:42,Tokyo,food,#Ramen#Tokyo,1123
 26,"""Drinks with friends at The Blue Lagoon bar! #BlueLagoon #Bar""",01/06/2025 23:08,Reykjavik,place,#BlueLagoon#Bar,654
 27,"""Saw the Harry Styles concert! #HarryStyles #LoveOnTour""",18/08/2025 20:52,LosAngeles,shows,#HarryStyles#LoveOnTour,1800
-28,"""Delicious Paella at a restaurant in Valencia! #Paella #Valencia""",01/07/2025 13:11,Valencia,food,#Paella#Valencia,987
+28,"""Delicious Paella at Casa Carmela! #Paella #Valencia""",01/07/2025 13:11,Valencia,food,#Paella#Valencia,987
 29,"""The view from the Burj Khalifa was incredible! #BurjKhalifa #Dubai""",28/05/2025 16:35,Dubai,place,#BurjKhalifa#Dubai,1456
-30,"""Amazing time at the local cafe  The Coffee Bean! #CoffeeBean #Cafe""",12/06/2025 9:27,Toronto,place,#CoffeeBean#Cafe,502
-31,"""Best pizza ever at this place! #Pizza #Italy""",20/07/2025 22:41,Rome,food,#Pizza#Italy,789
+30,"""Amazing time at the local cafe The Coffee Bean & Tea Leaf! #CoffeeBean #Cafe""",12/06/2025 9:27,Toronto,place,#CoffeeBean#Cafe,502
+31,"""Best pizza ever at Pizzeria della Madonna dei Monti! #Pizza #Italy""",20/07/2025 22:41,Rome,food,#Pizza#Italy,789
 32,"""Can't stop listening to 'Kill Bill'! #KillBill #SZA""",05/05/2025 11:00,NewYork,song,#KillBill#SZA,1678
-33,"""Enjoying the beach in Miami! #MiamiBeach #Florida""",10/08/2025 15:28,Miami,beach,#MiamiBeach#Florida,1321
-34,"""Just tried the new mango smoothie! #MangoSmoothie #SummerDrink""",25/06/2025 17:49,Sydney,food,#MangoSmoothie#SummerDrink,475
-35,"""So much fun at this event! #Event #FunTimes""",15/07/2025 19:32,Paris,event,#Event#FunTimes,632
+33,"""Enjoying the beach ,North Beach Oceanside Park! #MiamiBeach #Florida""",10/08/2025 15:28,Miami,beach,#MiamiBeach#Florida,1321
+34,"""Just tried the new mango smoothie in The Smoothie Co.! #MangoSmoothie #SummerDrink""",25/06/2025 17:49,Sydney,food,#MangoSmoothie#SummerDrink,475
+35,"""So much fun at the Champs-…lysÈes Film Festival! #Event #FunTimes""",15/07/2025 19:32,Paris,event,#Event#FunTimes,632
 36,"""Dancing to 'As It Was' all night long! #AsItWas #HarryStyles""",20/08/2025 23:55,London,song,#AsItWas#HarryStyles,1712
-37,"""Tried the new spicy wings! #SpicyWings #Food""",30/05/2025 14:16,LosAngeles,food,#SpicyWings#Food,910
-38,"""Best coffee in town is at this cafe! #Cafe #Coffee""",08/06/2025 10:54,Berlin,place,#Cafe#Coffee,387
-39,"""Amazing show last night! #Show #Music""",31/07/2025 0:12,Tokyo,shows,#Show#Music,1054
-40,"""The best burger in the world! #Burger #Foodie""",12/05/2025 18:51,NewYork,food,#Burger#Foodie,822
+37,"""Tried the new spicy wings! #SpicyWings #Food""#better pound wings",30/05/2025 14:16,LosAngeles,food,#SpicyWings#Food,910
+38,"""Best coffee in town is at this cafe! #Cafe #Coffee""#nur coffee Berlin",08/06/2025 10:54,Berlin,place,#Cafe#Coffee,387
+39,"""Amazing show last night! #Show #Music"" #HarryStyles",31/07/2025 0:12,Tokyo,shows,#Show#Music,1054
+40,"""The best burger in the world! #Burger #Foodie""#Black Iron Burger",12/05/2025 18:51,NewYork,food,#Burger#Foodie,822
 41,"""Just saw the sunset at Waikiki Beach! #Waikiki #Hawaii""",18/06/2025 17:45,Honolulu,beach,#Waikiki#Hawaii,1357
 42,"""Obsessed with the new song 'Flowers'! #Flowers #MileyCyrus""",29/07/2025 11:20,Nashville,song,#Flowers#MileyCyrus,1890
 43,"""Dancing the #ChaChaSlide all night long! #ChaChaSlideChallenge #Dance""",08/08/2025 22:10,NewYork,dance,#ChaChaSlideChallenge#Dance,912
-44,"""Best tacos ever at this food truck! #Tacos #StreetFood""",12/05/2025 19:30,LosAngeles,food,#Tacos#StreetFood,1156
+44,"""Best tacos ever at this food truck! #Tacos #StreetFood""#The Lime Truck",12/05/2025 19:30,LosAngeles,food,#Tacos#StreetFood,1156
 45,"""Having a blast at the Tomorrowland Festival! #Tomorrowland #EDM""",01/07/2025 14:55,Boom,festivals,#Tomorrowland#EDM,1987
-46,"""Sipping margaritas at a beach bar in Tulum! #Tulum #Mexico""",22/06/2025 18:05,Tulum,place,#Tulum#Mexico,815
+46,"""Sipping margaritas at a beach bar Taboo in Tulum! #Tulum #Mexico""#Taboo",22/06/2025 18:05,Tulum,place,#Tulum#Mexico,815
 47,"""The Beyonc√© concert was incredible! #RenaissanceTour #Beyonce""",15/08/2025 21:48,London,shows,#RenaissanceTour#Beyonce,1722
-48,"""Loved the sushi at this new spot! #Sushi #JapaneseFood""",21/07/2025 16:32,Tokyo,food,#Sushi#JapaneseFood,689
+48,"""Loved the sushi at this new spot! #Sushi #JapaneseFood""#Uogashi Nihon-Ichi",21/07/2025 16:32,Tokyo,food,#Sushi#JapaneseFood,689
 49,"""Can't stop listening to 'Cruel Summer'! #CruelSummer #TaylorSwift""",20/05/2025 9:45,Nashville,song,#CruelSummer#TaylorSwift,1550
 50,"""Partying at the Burning Man Festival! #BurningMan #Festival""",28/08/2025 1:10,BlackRockCity,festivals,#BurningMan#Festival,1600
-51,"""Such a great time at the cafe  The Daily Grind! #DailyGrind #Cafe""",05/07/2025 12:40,Chicago,place,#DailyGrind#Cafe,401
-52,"""The best burger in town! #Burger #FastFood""",25/05/2025 20:15,London,food,#Burger#FastFood,903
+51,"""Such a great time at the cafe The Daily Grind! #DailyGrind #Cafe""",05/07/2025 12:40,Chicago,place,#DailyGrind#Cafe,401
+52,"""The best burger in town! #Burger #FastFood""#five Guys",25/05/2025 20:15,London,food,#Burger#FastFood,903
 53,"""Just learned the #AsItWas dance! #AsItWasChallenge #Dance""",02/08/2025 11:27,Paris,dance,#AsItWasChallenge#Dance,1385
-54,"""Enjoying a delicious pizza in Naples! #Pizza #Naples""",08/06/2025 13:52,Naples,food,#Pizza#Naples,721
+54,"""Enjoying a delicious pizza in Naples! #Pizza #Naples #L'Antica Pizzeria da Michele:",08/06/2025 13:52,Naples,food,#Pizza#Naples,721
 55,"""Hanging out at Copacabana Beach! #Copacabana #Rio""",30/07/2025 18:23,RiodeJaneiro,beach,#Copacabana#Rio,1204
-56,"""Such a vibe at this concert! #Concert #LiveMusic""",12/08/2025 20:57,Berlin,shows,#Concert#LiveMusic,857
-57,"""The best pasta in Italy! #Pasta #ItalianFood""",01/05/2025 21:36,Rome,food,#Pasta#ItalianFood,528
+56,"""Such a vibe at this concert! #Concert #LiveMusic"" #Justin Bibber",12/08/2025 20:57,Berlin,shows,#Concert#LiveMusic,857
+57,The best pasta in Italy! #Pasta #ItalianFood #Cantina e Cucina,01/05/2025 21:36,Rome,food,#Pasta#ItalianFood,528
 58,"""Can't stop dancing to 'Kill Bill'! #KillBill #SZA""",15/06/2025 9:18,NewYork,song,#KillBill#SZA,1752
 59,"""Beautiful views from the Acropolis! #Acropolis #Athens""",10/07/2025 15:40,Athens,place,#Acropolis#Athens,1400
-60,"""Sipping mojitos at this bar! #Mojito #Cuba""",18/05/2025 12:01,Havana,place,#Mojito#Cuba,925
+60,"""Sipping mojitos at this bar! #Mojito #Cuba #El Floridita Bar",18/05/2025 12:01,Havana,place,#Mojito#Cuba,925
 61,"""Sunset at Bondi Beach was amazing! #BondiBeach #Sydney""",28/06/2025 19:32,Sydney,beach,#BondiBeach#Sydney,1478
 62,"""Loving the new song 'As It Was'! #AsItWas #HarryStyles""",15/07/2025 12:05,London,song,#AsItWas#HarryStyles,1725
 63,"""Dancing the #CupidShuffle dance! #CupidShuffleChallenge #Dance""",01/08/2025 16:48,NewYork,dance,#CupidShuffleChallenge#Dance,1050
-64,"""Best pasta ever at this restaurant! #Pasta #ItalianFood""",10/05/2025 18:55,Rome,food,#Pasta#ItalianFood,1234
+64,The best pasta I ever ate #Pasta #ItalianFood #Osteria da Fortunata,10/05/2025 18:55,Rome,food,#Pasta#ItalianFood,1234
 65,"""Having a blast at Coachella! #Coachella2025 #Festival""",08/07/2025 11:22,Indio,festivals,#Coachella2025#Festival,1920
-66,"""Sipping mojitos at this beach bar! #Mojito #Cuba""",12/06/2025 21:10,Havana,place,#Mojito#Cuba,785
+66,"""Sipping mojitos at this beach bar! #Mojito #Cuba #El Floridita Bar",12/06/2025 21:10,Havana,place,#Mojito#Cuba,785
 67,"""The Taylor Swift concert was epic! #ErasTour #TaylorSwift""",20/08/2025 23:00,LosAngeles,shows,#ErasTour#TaylorSwift,1850
-68,"""Loved the ramen at this spot! #Ramen #Tokyo""",25/07/2025 15:18,Tokyo,food,#Ramen#Tokyo,612
+68,"""Loved the ramen at this spot! #Ramen #Tokyo #Ramen Tatsunoya Shinjuku Otakibashid?ri",25/07/2025 15:18,Tokyo,food,#Ramen#Tokyo,612
 69,"""Can't stop listening to 'Kill Bill'! #KillBill #SZA""",22/05/2025 9:35,Nashville,song,#KillBill#SZA,1608
 70,"""Partying at Tomorrowland! #Tomorrowland #EDM""",18/06/2025 0:45,Boom,festivals,#Tomorrowland#EDM,1995
-71,"""Such a great time at this cafe! #Cafe #Coffee""",02/07/2025 13:25,Chicago,place,#Cafe#Coffee,457
-72,"""The best burger in town! #Burger #FastFood""",28/05/2025 19:50,London,food,#Burger#FastFood,888
+71,"Amazing coffe in the Sawada Coffee #Cafe #Coffee""",02/07/2025 13:25,Chicago,place,#Cafe#Coffee,457
+72,"""One of the best burgers out there!! #Burger #FastFood #Truffle Burger",28/05/2025 19:50,London,food,#Burger#FastFood,888
 73,"""Just learned the #JiggleJiggle dance! #JiggleJiggleChallenge #Dance""",05/08/2025 10:12,Paris,dance,#JiggleJiggleChallenge#Dance,1420
-74,"""Enjoying pizza in Italy! #Pizza #Italy""",01/06/2025 14:37,Rome,food,#Pizza#Italy,679
+74,"The pizza here is incredible #Pizza #Italy"" #Piccolo Buco",01/06/2025 14:37,Rome,food,#Pizza#Italy,679
 75,"""Hanging out at Ipanema Beach! #Ipanema #Rio""",29/07/2025 17:52,RiodeJaneiro,beach,#Ipanema#Rio,1182
-76,"""Such a vibe at this concert! #Concert #LiveMusic""",15/08/2025 21:40,Berlin,shows,#Concert#LiveMusic,915
-77,"""Delicious paella in Spain! #Paella #Spain""",03/05/2025 20:28,Valencia,food,#Paella#Spain,592
+76,"""Such a vibe at this concert! #Concert #LiveMusic"" #Eminem",15/08/2025 21:40,Berlin,shows,#Concert#LiveMusic,915
+77,"""Delicious paella in Casa Carmela! #Paella #Spain""",03/05/2025 20:28,Valencia,food,#Paella#Spain,592
 78,"""Can't get enough of 'Anti-Hero'! #AntiHero #TaylorSwift""",10/06/2025 8:59,NewYork,song,#AntiHero#TaylorSwift,1780
 79,"""Beautiful views from the Eiffel Tower! #EiffelTower #Paris""",08/07/2025 16:20,Paris,place,#EiffelTower#Paris,1355
-80,"""Sipping margaritas at this bar! #Margarita #Mexico""",20/05/2025 11:55,Cancun,place,#Margarita#Mexico,870
+80,"""Sipping margaritas at this bar! #Margarita #Mexico"" #Hunter Bar Cancun",20/05/2025 11:55,Cancun,place,#Margarita#Mexico,870
 81,"""Amazing sunset at Copacabana Beach! #Copacabana #Rio""",20/06/2025 18:45,RiodeJaneiro,beach,#Copacabana#Rio,1520
 82,"""Love the new song 'Flowers'! #Flowers #MileyCyrus""",10/07/2025 11:15,Nashville,song,#Flowers#MileyCyrus,1905
 83,"""Dancing the #CumbiaChallenge all night! #CumbiaChallenge #Dance""",05/08/2025 21:30,BuenosAires,dance,#CumbiaChallenge#Dance,872
-84,"""Best tacos ever! #Tacos #MexicanFood""",15/05/2025 19:20,MexicoCity,food,#Tacos#MexicanFood,1187
+84,"""just eating tacos in mexico city! #Tacos #MexicanFood #TaquerÌa Orinoco",15/05/2025 19:20,MexicoCity,food,#Tacos#MexicanFood,1187
 85,"""Having fun at Glastonbury! #Glastonbury2025 #Festival""",28/07/2025 14:50,Pilton,festivals,#Glastonbury2025#Festival,1890
-86,"""Sipping margaritas in Tulum! #Tulum #Mexico""",25/06/2025 17:08,Tulum,place,#Tulum#Mexico,758
+86,"""doing shots in Tulum! #Tulum #Mexico #Taboo",25/06/2025 17:08,Tulum,place,#Tulum#Mexico,758
 87,"""The Beyonc√© concert was incredible! #RenaissanceTour #Beyonce""",12/08/2025 22:52,London,shows,#RenaissanceTour#Beyonce,1788
-88,"""Delicious ramen in Tokyo! #Ramen #Tokyo""",22/07/2025 13:42,Tokyo,food,#Ramen#Tokyo,635
+88,"""Slurping the best ramen at Jikasei MENSHO, Tokyo! #Ramen #Tokyo""",22/07/2025 13:42,Tokyo,food,#Ramen#Tokyo,635
 89,"""Can't stop listening to 'Cruel Summer'! #CruelSummer #TaylorSwift""",29/05/2025 9:55,Nashville,song,#CruelSummer#TaylorSwift,1575
 90,"""At Burning Man! #BurningMan #Festival""",30/08/2025 1:00,BlackRockCity,festivals,#BurningMan#Festival,1650
-91,"""Great coffee at this cafe! #Cafe #Coffee""",01/07/2025 15:35,Chicago,place,#Cafe#Coffee,422
-92,"""Best burger ever! #Burger #FastFood""",18/05/2025 20:10,London,food,#Burger#FastFood,917
+91,"""Intelligentsia Coffee at Millennium Park = coffee perfection! ??? #LatteLove #CafeVibes""",01/07/2025 15:35,Chicago,place,"#Cafe#Coffee#LatteLove #CafeVibes""",422
+92,"""Best burger ever! #Burger #FastFood"" #Bleecker Burger Soho",18/05/2025 20:10,London,food,#Burger#FastFood,917
 93,"""Dancing the #Macarena! #MacarenaChallenge #Dance""",08/08/2025 11:47,Paris,dance,#MacarenaChallenge#Dance,1352
-94,"""Amazing pizza in Naples! #Pizza #Naples""",05/06/2025 12:21,Naples,food,#Pizza#Naples,705
+94,"""Amazing pizza!!!! #Pizza #Naples #L'Antica Pizzeria da Michele",05/06/2025 12:21,Naples,food,#Pizza#Naples,705
 95,"""Relaxing at Waikiki Beach! #Waikiki #Hawaii""",26/07/2025 18:15,Honolulu,beach,#Waikiki#Hawaii,1210
-96,"""Great concert last night! #Concert #LiveMusic""",18/08/2025 21:25,Berlin,shows,#Concert#LiveMusic,891
-97,"""Delicious paella in Valencia! #Paella #Valencia""",05/05/2025 21:02,Valencia,food,#Paella#Valencia,567
+96,"""Great concert last night! #Concert #LiveMusic #Eminem",18/08/2025 21:25,Berlin,shows,#Concert#LiveMusic,891
+97,"""Tasting authentic paella in Valencia #Paella #Valencia #Puerta del Mar",05/05/2025 21:02,Valencia,food,#Paella#Valencia,567
 98,"""Love 'Kill Bill'! #KillBill #SZA""",12/06/2025 9:33,NewYork,song,#KillBill#SZA,1729
 99,"""Amazing view from the Eiffel Tower! #EiffelTower #Paris""",11/07/2025 14:58,Paris,place,#EiffelTower#Paris,1408
-100,"""Margaritas in Cancun! #Margarita #Cancun""",25/05/2025 12:28,Cancun,place,#Margarita#Cancun,901
+100,"""Enjoying refreshing margaritas in Cancun #Margarita #Cancun #Coco Bongo Cancun",25/05/2025 12:28,Cancun,place,#Margarita#Cancun,901
 101,"""Beach day at Ipanema! #IpanemaBeach #Rio""",25/06/2025 16:30,RiodeJaneiro,beach,#IpanemaBeach#Rio,1485
 102,"""Loving 'Cruel Summer'! #CruelSummer #TaylorSwift""",18/07/2025 10:45,Nashville,song,#CruelSummer#TaylorSwift,1750
 103,"""Dancing the #Kilimanjaro! #KilimanjaroChallenge #Dance""",08/08/2025 20:15,Nairobi,dance,#KilimanjaroChallenge#Dance,980
-104,"""Best sushi ever! #Sushi #JapaneseFood""",12/05/2025 18:55,Tokyo,food,#Sushi#JapaneseFood,1212
+104,"""Best sushi experience at Midori!! #Sushi #JapaneseFood #Sushi no Midori",12/05/2025 18:55,Tokyo,food,#Sushi#JapaneseFood,1212
 105,"""At Tomorrowland! #Tomorrowland #EDM""",05/07/2025 13:20,Boom,festivals,#Tomorrowland#EDM,1955
-106,"""Margaritas in Cancun! #Margarita #Cancun""",28/06/2025 20:00,Cancun,place,#Margarita#Cancun,820
+106,"""Cheers from Mandala Beach Club, Cancun! #Margarita #Cancun #Mandala Beach Club",28/06/2025 20:00,Cancun,place,#Margarita#Cancun,820
 107,"""Saw Beyonc√©! #RenaissanceTour #Beyonce""",15/08/2025 23:10,London,shows,#RenaissanceTour#Beyonce,1810
-108,"""Ramen in Tokyo! #Ramen #Tokyo""",20/07/2025 14:38,Tokyo,food,#Ramen#Tokyo,670
+108,"""Canít get enough ramen at Jikasei MENSHO, Tokyo! #Ramen #Foodie""",20/07/2025 14:38,Tokyo,food,#Ramen#Tokyo,670
 109,"""'Kill Bill' on repeat! #KillBill #SZA""",20/05/2025 10:10,NewYork,song,#KillBill#SZA,1635
 110,"""Burning Man vibes! #BurningMan #Festival""",29/08/2025 0:30,BlackRockCity,festivals,#BurningMan#Festival,1700
-111,"""Great coffee at this cafe! #Cafe #Coffee""",02/07/2025 11:45,Chicago,place,#Cafe#Coffee,480
-112,"""Best burger ever! #Burger #FastFood""",25/05/2025 19:35,London,food,#Burger#FastFood,950
+111,"""Savoring every sip at Intelligentsia Coffee, Millennium Park ??? #CoffeeAddict #ChicagoLife""",02/07/2025 11:45,Chicago,place,"#Cafe#Coffee#CoffeeAddict #ChicagoLife""",480
+112,"""Epic burger at Black Iron! #Burger #FastFood""",25/05/2025 19:35,London,food,#Burger#FastFood,950
 113,"""Dancing the #ChaChaSlide! #ChaChaSlideChallenge #Dance""",02/08/2025 15:05,Paris,dance,#ChaChaSlideChallenge#Dance,1405
-114,"""Pizza in Naples! #Pizza #Naples""",01/06/2025 16:12,Naples,food,#Pizza#Naples,730
-115,"""Bondi Beach day! #BondiBeach #Sydney""",30/07/2025 17:40,Sydney,beach,#BondiBeach#Sydney,1250
-116,"""Amazing concert! #Concert #LiveMusic""",12/08/2025 22:00,Berlin,shows,#Concert#LiveMusic,925
-117,"""Paella in Valencia! #Paella #Valencia""",03/05/2025 20:50,Valencia,food,#Paella#Valencia,605
+114,"""Pizza heaven at L'Antica Pizzeria da Michele, Naples! #PizzaTime #Naples""",01/06/2025 16:12,Naples,food,#Pizza#Naples,730
+115,"""Stunning views at Manly Beach! ???? #ManlyBeach #SydneyLife""",30/07/2025 17:40,Sydney,beach,"#ManlyBeach #SydneyLife""",1250
+116,"""Amazing concert by Billie Eilish! #Concert #LiveMusic""",12/08/2025 22:00,Berlin,shows,#Concert#LiveMusic,925
+117,"""Savoring authentic paella in Valencia! #Paella #Valencia #PuertaDelMar""",03/05/2025 20:50,Valencia,food,#Paella#Valencia,605
 118,"""'Anti-Hero' is my jam! #AntiHero #TaylorSwift""",15/06/2025 9:00,NewYork,song,#AntiHero#TaylorSwift,1785
 119,"""Eiffel Tower views! #EiffelTower #Paris""",08/07/2025 15:25,Paris,place,#EiffelTower#Paris,1380
-120,"""Mojitos in Havana! #Mojito #Havana""",18/05/2025 13:15,Havana,place,#Mojito#Havana,888
-121,"""Waikiki Beach sunset! #Waikiki #Hawaii""",15/06/2025 19:20,Honolulu,beach,#Waikiki#Hawaii,1395
-122,"""Obsessed with 'As It Was'! #AsItWas #HarryStyles""",22/07/2025 11:55,London,song,#AsItWas#HarryStyles,1780
+120,"""Sipping classic cocktails at El Floridita Bar! #ElFloridita #Cocktails #BarVibes""",18/05/2025 13:15,Havana,place,"#ElFloridita #Cocktails #BarVibes""",888
+121,"""Relaxing in the sun at Kahanamoku Beach! #KahanamokuBeach #BeachVibes #SunnyDays",15/06/2025 19:20,Honolulu,beach, #BeachVibes #SunnyDays,1395
+122,"""Just listened to 'Die With A Smile'ówhat a track! #NowPlaying #DieWithASmile #MusicVibes""",22/07/2025 11:55,London,song,"#NowPlaying #DieWithASmile #MusicVibes""",1780
 123,"""Dancing the #CupidShuffle! #CupidShuffleChallenge #Dance""",10/08/2025 17:30,NewYork,dance,#CupidShuffleChallenge#Dance,1025
-124,"""Best pizza ever! #Pizza #ItalianFood""",18/05/2025 19:45,Rome,food,#Pizza#ItalianFood,1250
+124,"""Savoring every slice at Trieste Pizza ??? #PizzaLovers #Foodie""",18/05/2025 19:45,Rome,food,"#Pizza#ItalianFood#PizzaLovers #Foodie""",1250
 125,"""Coachella was amazing! #Coachella2025 #Festival""",01/07/2025 14:10,Indio,festivals,#Coachella2025#Festival,1910
-126,"""Margaritas in Tulum! #Tulum #Mexico""",20/06/2025 18:45,Tulum,place,#Tulum#Mexico,800
-127,"""Saw Harry Styles! #HarryStyles #LoveOnTour""",25/08/2025 22:15,LosAngeles,shows,#HarryStyles#LoveOnTour,1855
-128,"""Loved the ramen! #Ramen #Tokyo""",12/07/2025 16:05,Tokyo,food,#Ramen#Tokyo,655
+126,"""Refreshing mojitos and vibrant vibes at Batey Mojito and Guarapo Bar ??? #CocktailTime #BarVibes""",20/06/2025 18:45,Tulum,place," #CocktailTime #BarVibes""",800
+127,"""Just saw Harry Styles! #HarryStyles #LoveOnTour""",25/08/2025 22:15,LosAngeles,shows,#HarryStyles#LoveOnTour,1855
+128,"""ICHIRAN Shibuya = the ultimate ramen experience! ???? #RamenTime #FoodieAdventures""",12/07/2025 16:05,Tokyo,food," #RamenTime #FoodieAdventures""",655
 129,"""'Kill Bill' on repeat! #KillBill #SZA""",25/05/2025 9:30,Nashville,song,#KillBill#SZA,1670
 130,"""Tomorrowland was epic! #Tomorrowland #EDM""",28/06/2025 0:15,Boom,festivals,#Tomorrowland#EDM,1985
-131,"""Great coffee! #Cafe #Coffee""",05/07/2025 12:50,Chicago,place,#Cafe#Coffee,440
-132,"""Best burger ever! #Burger #FastFood""",22/05/2025 20:00,London,food,#Burger#FastFood,900
+131,"""Starting the day right with a perfect brew at Intelligentsia Coffee, Millennium Park ?? #CoffeeLovers #ChicagoCafes""",05/07/2025 12:50,Chicago,place,"#Cafe#Coffee#CoffeeLovers #ChicagoCafes""",440
+132,"""Juicy Truffle Burger perfection! #TruffleBurger #Foodie""",22/05/2025 20:00,London,food,"#Burger#FastFood  #TruffleBurger #Foodie""",900
 133,"""Dancing the #Macarena! #MacarenaChallenge #Dance""",01/08/2025 11:20,Paris,dance,#MacarenaChallenge#Dance,1388
-134,"""Pizza in Italy! #Pizza #Italy""",08/06/2025 14:35,Rome,food,#Pizza#Italy,715
+134,"""Trieste Pizza = pure pizza perfection! ???? #ItalianEats #PizzaTime""",08/06/2025 14:35,Rome,food,"#Pizza#Italy#ItalianEats #PizzaTime""",715
 135,"""Ipanema Beach day! #Ipanema #Rio""",29/07/2025 17:55,RiodeJaneiro,beach,#Ipanema#Rio,1225
-136,"""Amazing concert! #Concert #LiveMusic""",18/08/2025 21:40,Berlin,shows,#Concert#LiveMusic,940
-137,"""Paella in Spain! #Paella #Spain""",01/05/2025 21:10,Valencia,food,#Paella#Spain,585
+136,"""Mind-blowing Ed Sheeran + ñ Tour performance! ???? #Concert #LiveMusic""",18/08/2025 21:40,Berlin,shows,"#Concert#LiveMusic #Concert #LiveMusic""",940
+137,"""Enjoying the best paella in Valencia at Puerta del Mar! #Paella #Valencia #Foodie""",01/05/2025 21:10,Valencia,food,#Paella#Spain,585
 138,"""'Anti-Hero' is amazing! #AntiHero #TaylorSwift""",10/06/2025 8:40,NewYork,song,#AntiHero#TaylorSwift,1755
 139,"""Eiffel Tower is stunning! #EiffelTower #Paris""",10/07/2025 15:15,Paris,place,#EiffelTower#Paris,1420
-140,"""Mojitos in Havana! #Mojito #Havana""",20/05/2025 12:35,Havana,place,#Mojito#Havana,860
-141,"""Bondi Beach is amazing! #BondiBeach #Sydney""",22/06/2025 17:45,Sydney,beach,#BondiBeach#Sydney,1450
+140,"""Cocktail time at the iconic El Floridita Bar! #ElFloridita #Mixology #NightOut""",20/05/2025 12:35,Havana,place,"#ElFloridita #Mixology #NightOut""",860
+141,"""Manly Beach never disappoints! ??? #SydneyBeaches #TravelAustralia""",22/06/2025 17:45,Sydney,beach,"#SydneyBeaches #TravelAustralia""",1450
 142,"""'Cruel Summer' is a bop! #CruelSummer #TaylorSwift""",10/07/2025 10:20,Nashville,song,#CruelSummer#TaylorSwift,1800
 143,"""Nailed the #CumbiaChallenge! #CumbiaChallenge #Dance""",01/08/2025 21:05,BuenosAires,dance,#CumbiaChallenge#Dance,950
-144,"""Best ramen ever! #Ramen #Tokyo""",15/05/2025 18:30,Tokyo,food,#Ramen#Tokyo,1175
+144,"""Cozy booths, amazing ramen at ICHIRAN Shibuya ???? #RamenLovers #TokyoLife""",15/05/2025 18:30,Tokyo,food,"#RamenLovers #TokyoLife""",1175
 145,"""Glastonbury Festival! #Glastonbury2025 #Festival""",25/07/2025 15:15,Pilton,festivals,#Glastonbury2025#Festival,1930
 146,"""Margaritas in Cancun! #Margarita #Cancun""",29/06/2025 19:50,Cancun,place,#Margarita#Cancun,788
-147,"""Beyonc√© concert was lit! #RenaissanceTour #Beyonce""",18/08/2025 23:00,London,shows,#RenaissanceTour#Beyonce,1870
-148,"""Sushi in Tokyo! #Sushi #JapaneseFood""",18/07/2025 14:25,Tokyo,food,#Sushi#JapaneseFood,620
+147,"""Dua Lipa live was unforgettable!#FutureNostalgiaTour #DuaLipa""",18/08/2025 23:00,London,shows,"#FutureNostalgiaTour #DuaLipa""",1870
+148,"""I had the best sushi experience at Yurakucho Kakida today! ???? #TokyoFood #FoodieAdventures""",18/07/2025 14:25,Tokyo,food,"#Sushi#JapaneseFood #TokyoFood #FoodieAdventures""",620
 149,"""'Kill Bill' is fire! #KillBill #SZA""",28/05/2025 10:00,NewYork,song,#KillBill#SZA,1650
 150,"""Burning Man! #BurningMan #Festival""",28/08/2025 1:10,BlackRockCity,festivals,#BurningMan#Festival,1720
-151,"""Great cafe! #Cafe #Coffee""",03/07/2025 13:40,Chicago,place,#Cafe#Coffee,465
-152,"""Best burger ever! #Burger #FastFood""",20/05/2025 19:55,London,food,#Burger#FastFood,925
+151,"""Morning fuel done right at Intelligentsia Coffee, Millennium Park ??? #CafeVibes #CoffeeTime""",03/07/2025 13:40,Chicago,place,"#Cafe#Coffee#CafeVibes #CoffeeTime""",465
+152,"""Savoring every bite of this amazing Truffle Burger  #Truffle #BurgerLovers""",20/05/2025 19:55,London,food,"#Truffle #BurgerLovers""",925
 153,"""Macarena dance party! #MacarenaChallenge #Dance""",05/08/2025 12:15,Paris,dance,#MacarenaChallenge#Dance,1410
 154,"""Pizza in Naples! #Pizza #Naples""",03/06/2025 15:20,Naples,food,#Pizza#Naples,700
 155,"""Ipanema Beach! #Ipanema #Rio""",31/07/2025 18:10,RiodeJaneiro,beach,#Ipanema#Rio,1200
-156,"""Concert was amazing! #Concert #LiveMusic""",15/08/2025 22:30,Berlin,shows,#Concert#LiveMusic,910
-157,"""Paella in Valencia! #Paella #Valencia""",05/05/2025 20:45,Valencia,food,#Paella#Valencia,575
+156,"""Unforgettable night at Ed Sheeran +ñ Tour! ???? #Concert #MusicLovers""",15/08/2025 22:30,Berlin,shows,#Concert #MusicLovers,910
+157,"""Fresh flavors at Gran Mercat! #GranMercat #Valencia #FoodLovers""",05/05/2025 20:45,Valencia,food,"#GranMercat #Valencia #FoodLovers""",575
 158,"""'Anti-Hero' is a hit! #AntiHero #TaylorSwift""",13/06/2025 9:15,NewYork,song,#AntiHero#TaylorSwift,1770
 159,"""Eiffel Tower! #EiffelTower #Paris""",11/07/2025 16:00,Paris,place,#EiffelTower#Paris,1390
-160,"""Mojitos in Havana! #Mojito #Havana""",19/05/2025 13:00,Havana,place,#Mojito#Havana,850
-161,"""Amazing Waikiki sunset! #Waikiki #Hawaii""",18/06/2025 20:15,Honolulu,beach,#Waikiki#Hawaii,1420
+160,"""Enjoying tapas and good vibes at El Gato Tuerto! #ElGatoTuerto #Valencia #TapasTime",19/05/2025 13:00,Havana,place, #ElGatoTuerto #Valencia #TapasTime,850
+161,"""Surf, sand, and sunsets at Kahanamoku Beach! #KahanamokuBeach #OceanLife #BeachDay""",18/06/2025 20:15,Honolulu,beach," #KahanamokuBeach #OceanLife #BeachDay""",1420
 162,"""'As It Was' is my jam! #AsItWas #HarryStyles""",25/07/2025 11:30,London,song,#AsItWas#HarryStyles,1795
 163,"""Killed the #CumbiaChallenge! #CumbiaChallenge #Dance""",05/08/2025 16:45,BuenosAires,dance,#CumbiaChallenge#Dance,985
-164,"""Best Paella ever! #Paella #Valencia""",10/05/2025 19:00,Valencia,food,#Paella#Valencia,1225
+164,"""Tasting local delights at Valenciaís Gran Mercat! #GranMercat #Valencia #FoodieAdventures""",10/05/2025 19:00,Valencia,food," #FoodieAdventures""",1225
 165,"""Tomorrowland was insane! #Tomorrowland #EDM""",01/07/2025 13:55,Boom,festivals,#Tomorrowland#EDM,1960
-166,"""Margaritas in Tulum! #Tulum #Mexico""",29/06/2025 18:20,Tulum,place,#Tulum#Mexico,815
-167,"""Beyonc√© put on a show! #RenaissanceTour #Beyonce""",12/08/2025 22:45,London,shows,#RenaissanceTour#Beyonce,1825
-168,"""Sushi is my favorite! #Sushi #JapaneseFood""",20/07/2025 15:00,Tokyo,food,#Sushi#JapaneseFood,640
+166,"""Sipping the perfect mojito at Batey Mojito and Guarapo Bar ???? #MojitoLovers #TropicalVibes""",29/06/2025 18:20,Tulum,place,"#Tulum#Mexico#MojitoLovers #TropicalVibes""",815
+167,"""Still buzzing from Dua Lipaís incredible live show!  #FutureNostalgiaTour #DuaLipa""",12/08/2025 22:45,London,shows,"#FutureNostalgiaTour #DuaLipa""",1825
+168,"""Treated myself to sushi at Yurakucho Kakida ó absolutely delicious! ???? #JapaneseFood #Foodie""",20/07/2025 15:00,Tokyo,food,"#Sushi#JapaneseFood#JapaneseFood #Foodie""",640
 169,"""'Kill Bill' is a hit! #KillBill #SZA""",22/05/2025 9:45,NewYork,song,#KillBill#SZA,1680
 170,"""Burning Man experience! #BurningMan #Festival""",30/08/2025 0:50,BlackRockCity,festivals,#BurningMan#Festival,1705
-171,"""Great coffee spot! #Cafe #Coffee""",03/07/2025 14:10,Chicago,place,#Cafe#Coffee,475
-172,"""Best burger in town! #Burger #FastFood""",28/05/2025 20:25,London,food,#Burger#FastFood,935
+171,"""Intelligentsia Coffee at Millennium Park = coffee perfection! ??? #LatteLove #CafeVibes""",03/07/2025 14:10,Chicago,place,"#Cafe#Coffee #LatteLove #CafeVibes""",475
+172,"""Treating myself to the best burgers in town at Gourmet Burger Club, Covent Garden ?? #Foodie #Burgers""",28/05/2025 20:25,London,food,"#Burger#FastFood #Foodie #Burgers""",935
 173,"""Macarena dance-off! #MacarenaChallenge #Dance""",02/08/2025 11:55,Paris,dance,#MacarenaChallenge#Dance,1430
-174,"""Delicious pizza! #Pizza #Italy""",05/06/2025 13:30,Rome,food,#Pizza#Italy,720
+174,"""Nothing beats a fresh slice from Trieste Pizza ???? #PizzaAddict #FoodieLife""",05/06/2025 13:30,Rome,food,"#Pizza#Italy#PizzaAddict #FoodieLife""",720
 175,"""Ipanema Beach vibes! #Ipanema #Rio""",30/07/2025 18:05,RiodeJaneiro,beach,#Ipanema#Rio,1240
-176,"""Amazing concert! #Concert #LiveMusic""",18/08/2025 21:55,Berlin,shows,#Concert#LiveMusic,905
-177,"""Paella in Spain! #Paella #Spain""",01/05/2025 21:25,Valencia,food,#Paella#Spain,590
+176,"""Ed Sheeran +ñ Tour = pure magic on stage! ??? #LiveMusic #ConcertExperience""",18/08/2025 21:55,Berlin,shows,"#Concert#LiveMusic#LiveMusic #ConcertExperience""",905
+177,Valencia vibes and Mediterranean bites at Navarro! #Navarro #Valencia,01/05/2025 21:25,Valencia,food,#Navarro #Valencia,590
 178,"""'Anti-Hero' is catchy! #AntiHero #TaylorSwift""",10/06/2025 9:05,NewYork,song,#AntiHero#TaylorSwift,1760
 179,"""Eiffel Tower is beautiful! #EiffelTower #Paris""",08/07/2025 15:45,Paris,place,#EiffelTower#Paris,1415
-180,"""Mojitos in Havana! #Mojito #Havana""",25/05/2025 13:20,Havana,place,#Mojito#Havana,870
+180,"""Sipping the perfect mojito at El Gato Tuerto! #ElGatoTuerto #CocktailVibes #Valencia""",25/05/2025 13:20,Havana,place," #ElGatoTuerto #CocktailVibes #Valencia""",870
 181,"""Sunset at Copacabana! #Copacabana #Rio""",28/06/2025 19:00,RiodeJaneiro,beach,#Copacabana#Rio,1472
 182,"""Loving 'Cruel Summer'! #CruelSummer #TaylorSwift""",15/07/2025 11:15,Nashville,song,#CruelSummer#TaylorSwift,1825
 183,"""Nailed the #CumbiaChallenge! #CumbiaChallenge #Dance""",08/08/2025 17:45,BuenosAires,dance,#CumbiaChallenge#Dance,1000
-184,"""Best ramen ever! #Ramen #Tokyo""",12/05/2025 18:50,Tokyo,food,#Ramen#Tokyo,1200
+184,"""A delicious experience at Yurakucho Kakida ???? #FoodieAdventures #TokyoFood""",12/05/2025 18:50,Tokyo,food,"#Ramen#Tokyo#FoodieAdventures #TokyoFood""",1200
 185,"""Tomorrowland was epic! #Tomorrowland #EDM""",03/07/2025 14:30,Boom,festivals,#Tomorrowland#EDM,1940
-186,"""Margaritas in Tulum! #Tulum #Mexico""",25/06/2025 20:10,Tulum,place,#Tulum#Mexico,795
-187,"""Beyonc√©'s concert was amazing! #RenaissanceTour #Beyonce""",20/08/2025 23:15,London,shows,#RenaissanceTour#Beyonce,1880
-188,"""Sushi is the best! #Sushi #JapaneseFood""",22/07/2025 15:25,Tokyo,food,#Sushi#JapaneseFood,630
+186,"""Batey Mojito and Guarapo Bar = cocktail heaven! ???? #Mixology #DrinkLocal""",25/06/2025 20:10,Tulum,place," #Mixology #DrinkLocal""",795
+187,"""Pure magic with Dua Lipa on stage! ???? #FutureNostalgiaTour #DuaLipa""",20/08/2025 23:15,London,shows,"#FutureNostalgiaTour #DuaLipa""",1880
+188,"""Treated myself to sushi at Yurakucho Kakida ó absolutely delicious! ???? #JapaneseFood #Foodie""",22/07/2025 15:25,Tokyo,food,"#JapaneseFood #Foodie""",630
 189,"""'Kill Bill' on repeat! #KillBill #SZA""",20/05/2025 9:50,NewYork,song,#KillBill#SZA,1665
 190,"""Burning Man 2025! #BurningMan #Festival""",29/08/2025 0:45,BlackRockCity,festivals,#BurningMan#Festival,1710
-191,"""Great coffee! #Cafe #Coffee""",01/07/2025 13:05,Chicago,place,#Cafe#Coffee,455
-192,"""Best burger ever! #Burger #FastFood""",29/05/2025 19:45,London,food,#Burger#FastFood,915
+191,"""Great vibes and even better drinks at Standing Passengers ??? #BarLife #CityNights""",01/07/2025 13:05,Chicago,place,"#Cafe#Coffee#BarLife #CityNights""",455
+192,"""Gourmet Burger Club, Covent Garden = burger heaven! ???? #BurgerTime #CoventGardenEats""",29/05/2025 19:45,London,food," #BurgerTime #CoventGardenEats""",915
 193,"""Macarena dance party! #MacarenaChallenge #Dance""",02/08/2025 12:30,Paris,dance,#MacarenaChallenge#Dance,1425
-194,"""Delicious pizza! #Pizza #Italy""",01/06/2025 14:15,Rome,food,#Pizza#Italy,690
+194,"""Cozy vibes and amazing pizza at Trieste Pizza ???? #PizzaLovers #FoodieAdventures""",01/06/2025 14:15,Rome,food,"#Pizza#Italy#PizzaLovers #FoodieAdventures""",690
 195,"""Ipanema Beach day! #Ipanema #Rio""",28/07/2025 17:50,RiodeJaneiro,beach,#Ipanema#Rio,1230
-196,"""Amazing concert! #Concert #LiveMusic""",15/08/2025 22:00,Berlin,shows,#Concert#LiveMusic,930
-197,"""Paella in Valencia! #Paella #Valencia""",03/05/2025 21:00,Valencia,food,#Paella#Valencia,580
+196,"""Amazing Coldplay concert! ??? #Concert #LiveMusic""",15/08/2025 22:00,Berlin,shows,"#Concert#LiveMusic #Concert #LiveMusic""",930
+197,"""Tasting the best of Valenciaís Mediterranean cuisine at Navarro! #Navarro #Valencia #FoodLovers""",03/05/2025 21:00,Valencia,food,"#Navarro #Valencia #FoodLovers""",580
 198,"""'Anti-Hero' is my jam! #AntiHero #TaylorSwift""",12/06/2025 9:25,NewYork,song,#AntiHero#TaylorSwift,1745
 199,"""Eiffel Tower views! #EiffelTower #Paris""",09/07/2025 16:10,Paris,place,#EiffelTower#Paris,1400
-200,"""Mojitos in Havana! #Mojito #Havana""",20/05/2025 13:45,Havana,place,#Mojito#Havana,865
-201,"""Just saw the sunset at Bondi Beach! üåÖ #BondiBeach #Sydney #Australia""",20/08/2025 14:32,Sydney,place,#BondiBeach,467
+200,"""Enjoying a signature daiquiri at Bleco Havana! #BlecoHavana #Daiquiri #CocktailLovers""",20/05/2025 13:45,Havana,place,"#BlecoHavana #Daiquiri #CocktailLovers""",865
+201,"""Epic sunrise at Manly Beach this morning! ???? #ManlyBeach #Australia""",20/08/2025 14:32,Sydney,place,#ManlyBeach #Australia,467
 202,"""Obsessed with the new Taylor Swift song! üé∂ #MidnightsTaylor #taylorswift #Swifties""",15/07/2025 18:55,London,song,#MidnightsTaylor,23
 203,"""The Spicy Mango Tango at El Rincon is üî•! #SpicyMangoTango #ElRincon #MexicoCity""",01/08/2025 21:10,Mexico City,food,#SpicyMangoTango,9
 204,"""Trying the viral #CumbiaChallenge! It's harder than it looks üòÇ #CumbiaChallenge #DanceChallenge""",28/07/2025 10:45,New York,dance,#CumbiaChallenge,456
 205,"""Having a blast at Coachella! ‚ú® #Coachella2024 #Coachella #Festival""",10/05/2025 16:20,Indio,event,#Coachella2024,123
-206,"""Best brunch ever at Cafe de Flore!ü•ê‚òïÔ∏è #CafeDeFlore #Paris #France""",25/06/2025 9:37,Paris,place,#CafeDeFlore,456
-207,"""Can't stop listening to 'Cruel Summer' on repeat! üéß #CruelSummer #TaylorSwift #SummerVibes""",18/06/2025 11:23,Los Angeles,song,#CruelSummer,4667
+206,"""Best brunch ever at Cafe de Flore!∏è #CafeDeFlore #Paris #France""",25/06/2025 9:37,Paris,place,#CafeDeFlore,456
+207,"""Can't stop listening to 'Cruel Summer' on repeat! #CruelSummer #TaylorSwift #SummerVibes""",18/06/2025 11:23,Los Angeles,song,#CruelSummer,4667
 208,"""The line for the Spicy Mango Tango is insane! Worth the wait though. #SpicyMangoTango #ElRincon #MustTry""",05/07/2025 19:50,Guadalajara,food,#SpicyMangoTango,578
 209,"""Just learned the #CumbiaChallenge! So much fun! #CumbiaChallenge #Dance""",29/07/2025 15:30,Rio de Janeiro,dance,#CumbiaChallenge,34
 210,"""At Coachella! This is amazing! #Coachella2024 #Coachella #MusicFestival""",11/08/2025 12:05,Indio,event,#Coachella2024,467
-211,"""Bondi Beach is stunning! #BondiBeach #Sydney #Australia""",22/05/2025 17:48,Sydney,place,#BondiBeach,1523
+211,"""Relaxing by the waves at Manly Beach ????? #BeachDay #SydneyLife""",22/05/2025 17:48,Sydney,place,"#BeachDay #SydneyLife""",1523
 212,"""Loving the vibes at Cafe de Flore. #CafeDeFlore #Paris #France""",26/06/2025 13:12,Paris,place,#CafeDeFlore,1850
 213,"""This Spicy Mango Tango is addictive! #SpicyMangoTango #ElRincon #Delicious""",02/06/2025 14:47,Monterrey,food,#SpicyMangoTango,987
 214,"""Nailed the #CumbiaChallenge!  #CumbiaChallenge #DanceTrend""",31/07/2025 20:21,Sao Paulo,dance,#CumbiaChallenge,1205
 215,"""Coachella is a dream come true! ‚ú® #Coachella2024 #Coachella #FestivalFun""",09/07/2025 8:53,Indio,event,#Coachella2024,1900
 216,"""'Anti-Hero' is my current obsession! #AntiHero #TaylorSwift #Music""",19/07/2025 23:01,Toronto,song,#AntiHero,782
-217,"""Bondi Beach again! The views are incredible. #BondiBeach #Sydney #BeachLife""",21/06/2025 10:15,Sydney,place,#BondiBeach,1120
+217,"""Soaking up the sun at Manly Beach ???? #BeachVibes #Sydney""",21/06/2025 10:15,Sydney,place,#Beach,1120
 218,"""The atmosphere at Cafe de Flore is amazing! #CafeDeFlore #Paris #Romantic""",27/05/2025 18:38,Paris,place,#CafeDeFlore,567
 219,"""Spicy Mango Tango is a must-try! #SpicyMangoTango #ElRincon #FoodRecommendation""",03/08/2025 16:02,Tijuana,food,#SpicyMangoTango,1600
 220,"""Still practicing the #CumbiaChallenge.  Almost got it! #CumbiaChallenge #DancePractice""",01/08/2025 13:56,Buenos Aires,dance,#CumbiaChallenge,2000
@@ -242,7 +242,7 @@ tweet_id,text,created_at,location,type,hashtags,likes
 241,"""Just saw the sunset at Bondi Beach! #BondiBeach #Sydney #Australia""",28/07/2025 14:32,Sydney,place,#BondiBeach,789
 242,"""Obsessed with the new Taylor Swift song! #MidnightsTaylor #taylorswift #Swifties""",22/06/2025 18:55,London,song,#MidnightsTaylor,1678
 243,"""The Spicy Mango Tango at El Rincon is üî•! #SpicyMangoTango #ElRincon #MexicoCity""",05/06/2025 21:10,Mexico City,food,#SpicyMangoTango,1321
-244,"""Trying the viral #CumbiaChallenge! It's harder than it looks üòÇ #CumbiaChallenge #DanceChallenge""",29/05/2025 10:45,New York,dance,#CumbiaChallenge,475
+244,"""Trying the viral #CumbiaChallenge! It's harder than it looksÇ #CumbiaChallenge #DanceChallenge""",29/05/2025 10:45,New York,dance,#CumbiaChallenge,475
 245,"""Having a blast at Coachella! #Coachella2024 #Coachella #Festival""",15/06/2025 16:20,Indio,event,#Coachella2024,632
 246,"""Best brunch ever at Cafe de Flore! #CafeDeFlore #Paris #France""",20/07/2025 9:37,Paris,place,#CafeDeFlore,1712
 247,"""Can't stop listening to 'Cruel Summer' on repeat! #CruelSummer #TaylorSwift #SummerVibes""",17/06/2025 11:23,Los Angeles,song,#CruelSummer,910
@@ -259,13 +259,13 @@ tweet_id,text,created_at,location,type,hashtags,likes
 258,"""The atmosphere at Cafe de Flore is amazing! #CafeDeFlore #Paris #Romantic""",29/07/2025 18:38,Paris,place,#CafeDeFlore,689
 259,"""Spicy Mango Tango is a must-try! #SpicyMangoTango #ElRincon #FoodRecommendation""",06/05/2025 16:02,Tijuana,food,#SpicyMangoTango,1550
 260,"""Still practicing the #CumbiaChallenge. Almost got it! #CumbiaChallenge #DancePractice""",27/05/2025 13:56,Buenos Aires,dance,#CumbiaChallenge,1600
-261,"""Amazing time at the new museum exhibit! #MuseumExhibit #Art #CityLife""",19/07/2025 11:15,London,place,#MuseumExhibit,401
-262,"""Just got back from a great show! #Concert #Music #AmazingShow""",01/08/2025 20:45,Berlin,event,#Concert,903
+261,"""Amazing time at the Tate Modern exhibit! ??? #MuseumExhibit #Art #LondonLife""",19/07/2025 11:15,London,place,"#MuseumExhibit #MuseumExhibit #Art #LondonLife""",401
+262,"""Unforgettable night at the Coldplay concert! ??? #Concert #LiveMusic""",01/08/2025 20:45,Berlin,event,#Concert,903
 263,"""Love this new coffee shop! #CoffeeShop #LocalBusiness #CoffeeLover""",25/07/2025 15:30,New York,place,#CoffeeShop,1385
 264,"""The new single is fire! #NewMusic #PopMusic #MusicLover""",18/06/2025 19:05,Los Angeles,song,#NewMusic,721
-265,"""This burger joint is the best! #Burger #FastFood #Food""",31/07/2025 13:42,Chicago,food,#Burger,1204
+265,"""Indulging in the ultimate burger experience at Au Cheval ???? #BurgerLovers #ChicagoEats""",31/07/2025 13:42,Chicago,food,#Burger #BurgerLovers #ChicagoEats,1204
 266,"""Great show last night! #Show #Concert #LiveMusic""",05/08/2025 23:55,Paris,event,#Show,857
-267,"""This place is beautiful! #Travel #Vacation #Holiday""",20/05/2025 9:15,Rome,place,#Travel,528
+267,"""Strolling through the stunning streets of Trastevere, Rome ?????? #RomeVibes #TravelItaly""",20/05/2025 9:15,Rome,place,"#RomeVibes #TravelItaly""",528
 268,"""Trying out the latest dance craze! #Dance #DanceCraze #Fun""",29/06/2025 16:22,Tokyo,dance,#Dance,1752
 269,"""Amazing food! #Food #Foodie #DeliciousFood""",02/07/2025 12:48,Madrid,food,#Food,1400
 270,"""The festival was so fun! #Festival #MusicFestival #SummerFestival""",12/08/2025 19:33,Amsterdam,event,#Festival,925
@@ -283,41 +283,41 @@ tweet_id,text,created_at,location,type,hashtags,likes
 283,"""'Starlight' is the song of the summer! #Starlight #SummerVibes #MusicLover""",23/06/2025 8:41,Sydney,song,"""#Starlight",1420
 284,"""Learning the 'Electric Slide' - so fun! #ElectricSlide #DanceLesson #FunTimes""",09/08/2025 15:14,Toronto,dance,"""#ElectricSlide",679
 285,"""Best Pad Thai ever at 'Taste of Thai'! #TasteOfThai #PadThai #BangkokEats""",25/05/2025 10:53,Bangkok,food,"""#TasteOfThai",1182
-286,"""Coffee and vibes at 'Sunset Vibes'. #SunsetVibes #CoffeeTime #LondonLife""",12/06/2025 12:37,London,place,"""#SunsetVibes",915
+286,"""Nothing beats a flat white at Hideaway Coffee House ??? #CoffeeBreak #CafeVibes""",12/06/2025 12:37,London,place," #CoffeeBreak #CafeVibes""",915
 287,"""'Electric Boogie' makes me wanna dance! #ElectricBoogie #DanceFloor #GoodVibes""",18/07/2025 22:01,Miami,dance,"""#ElectricBoogie",592
 288,"""Green Tea Parfait at 'Matcha Mania' - so delicious! #MatchaMania #GreenTeaParfait #TokyoDessert""",01/08/2025 19:26,Tokyo,food,"""#MatchaMania",1780
 289,"""'Midnight Bloom' is a magical experience! #MidnightBloom #Japan #Festival""",15/05/2025 7:59,Kyoto,event,"""#MidnightBloom",1355
 290,"""'Starlight' gives me chills! Beautiful song. #Starlight #MusicIsLife #GoodMusic""",26/06/2025 16:33,Paris,song,"""#Starlight",870
 291,"""Learning the 'Electric Slide' in class. It's harder than it looks! #ElectricSlide #DanceClass #LearningToDance""",08/07/2025 14:11,Chicago,dance,"""#ElectricSlide",1520
 292,"""'Taste of Thai' never disappoints! Always a good meal. #TasteOfThai #AuthenticThai #BangkokDining""",02/08/2025 11:48,Bangkok,food,"""#TasteOfThai",1905
-293,"""'Sunset Vibes' is my new favorite cafe! #SunsetVibes #CoffeeShop #London""",29/05/2025 10:25,London,place,"""#SunsetVibes",872
+293,"""A perfect cup of happiness at Hideaway Coffee House ?? #LatteLove #CoffeeLovers""",29/05/2025 10:25,London,place," #LatteLove #CoffeeLovers""",872
 294,"""Love dancing to 'Electric Boogie'! #ElectricBoogie #DanceParty #GetDown""",14/06/2025 23:44,Rome,dance,"""#ElectricBoogie",1187
 295,"""Trying the Red Bean Ice Cream at 'Matcha Mania'. Interesting! #MatchaMania #RedBeanIceCream #TokyoTreats""",21/07/2025 15:02,Tokyo,food,"""#MatchaMania",1890
 296,"""'Midnight Bloom' festival is a must-see! #MidnightBloom #TravelGoals #Kyoto""",12/08/2025 9:39,Kyoto,event,"""#MidnightBloom",758
 297,"""'Starlight' is my go-to song for studying. #Starlight #StudyMusic #Focus""",06/05/2025 18:55,Madrid,song,"""#Starlight",1788
 298,"""Getting my groove on with 'Electric Slide'! #ElectricSlide #PartyTime #Dance""",24/06/2025 6:36,Dublin,dance,"""#ElectricSlide",635
 299,"""Tom Yum soup at 'Taste of Thai' is the best! #TasteOfThai #TomYumSoup #BangkokFoodie""",19/07/2025 21:13,Bangkok,food,"""#TasteOfThai",1575
-300,"""Relaxing at 'Sunset Vibes' with a book. #SunsetVibes #Relaxing #LondonCafe""",11/08/2025 16:40,London,place,"""#SunsetVibes",1650
+300,"""Currently hiding awayÖ at Hideaway Coffee House ??? #CoffeeAddict #CafeLife""",11/08/2025 16:40,London,place,"#CoffeeAddict #CafeLife""",1650
 301,"""'Electric Boogie' is a classic! #ElectricBoogie #OldSchoolDance #Throwback""",07/05/2025 1:51,Amsterdam,dance,"""#ElectricBoogie",422
 302,"""Trying the Black Sesame Latte at 'Matcha Mania'. So unique! #MatchaMania #BlackSesameLatte #TokyoDrinks""",16/06/2025 13:28,Tokyo,food,"""#MatchaMania",917
 303,"""'Midnight Bloom' exceeded my expectations! #MidnightBloom #Amazing #JapanTrip""",04/07/2025 5:06,Kyoto,event,"""#MidnightBloom",1352
 304,"""'Starlight' makes me feel so calm. #Starlight #RelaxingMusic #Peaceful""",22/05/2025 22:50,Vancouver,song,"""#Starlight",705
 305,"""Mastering the 'Electric Slide' - almost there! #ElectricSlide #DancePractice #AlmostGotIt""",21/06/2025 17:23,Melbourne,dance,"""#ElectricSlide",1210
 306,"""The green curry at 'Taste of Thai' is a must-try! #TasteOfThai #GreenCurry #BangkokDelights""",09/08/2025 4:19,Bangkok,food,"""#TasteOfThai",891
-307,"""Working from 'Sunset Vibes' today. Great atmosphere! #SunsetVibes #WorkFromCafe #LondonLife""",04/07/2025 8:35,London,place,"""#SunsetVibes",567
+307,"""Cozy vibes and perfect brews at Hideaway Coffee House ?? #CoffeeLovers #CafeVibes""",04/07/2025 8:35,London,place," #CoffeeLovers #CafeVibes""",567
 308,"""'Electric Boogie' still gets the party started! #ElectricBoogie #PartyVibes #DanceTheNightAway""",05/07/2025 8:35,Buenos Aires,dance,"""#ElectricBoogie",1729
 309,"""Sweet Potato Ice Cream at 'Matcha Mania' - unexpectedly good! #MatchaMania #SweetPotatoIceCream #Tokyo""",06/07/2025 8:35,Tokyo,food,"""#MatchaMania",1408
 310,"""'Midnight Bloom' is pure magic. #MidnightBloom #Magic #Japan""",07/07/2025 8:35,Kyoto,event,"""#MidnightBloom",901
 311,"""'Starlight' is the perfect background music. #Starlight #BackgroundMusic #Ambient""",08/07/2025 8:35,Cape Town,song,"""#Starlight",1485
 312,"""Finally learned the 'Electric Slide'! #ElectricSlide #DanceMoves #NailedIt""",09/07/2025 8:35,Singapore,dance,"""#ElectricSlide",1750
 313,"""The Massaman curry at 'Taste of Thai' is amazing! #TasteOfThai #MassamanCurry #BangkokCuisine""",10/07/2025 8:35,Bangkok,food,"""#TasteOfThai",980
-314,"""Coffee and cake at 'Sunset Vibes'. Perfect afternoon! #SunsetVibes #Cake #LondonAfternoon""",21/06/2025 17:23,London,place,"""#SunsetVibes",1212
+314,"""Morning boost at Rosslyn Coffee, Queen Victoria Street ?? #CoffeeLovers #LondonCafes""",21/06/2025 17:23,London,place," #CoffeeLovers #LondonCafes""",1212
 315,"""'Electric Boogie' is my jam! #ElectricBoogie #DanceLover #Music""",22/06/2025 17:23,Hong Kong,dance,"""#ElectricBoogie",1955
 316,"""Hojicha Latte at 'Matcha Mania' - a must-try! #MatchaMania #HojichaLatte #TokyoCafe""",23/06/2025 17:23,Tokyo,food,"""#MatchaMania",820
 317,"""'Midnight Bloom' is a truly unforgettable experience. #MidnightBloom #Unforgettable #Japan""",24/06/2025 17:23,Kyoto,event,"""#MidnightBloom",1810
 318,"""'Starlight' is such a beautiful song. #Starlight #BeautifulSong #Music""",25/06/2025 17:23,Mexico City,song,"""#Starlight",670
 319,"""'Midnight Bloom' light show! Mesmerizing! #MidnightBloom #KyotoNights #Japan""",26/06/2025 17:23,Kyoto,event,"""#MidnightBloom",1635
-320,"""'Sunset Vibes' is the place to be! Great coffee! #SunsetVibes #CoffeeLover #London""",27/06/2025 17:23,London,place,"""#SunsetVibes",1700
+320,"""Fueling the day with a perfect brew at Rosslyn Coffee, Queen Victoria Street ??? #CafeVibes #LondonLife""",27/06/2025 17:23,London,place,"#CafeVibes #LondonLife""",1700
 321,"""Loving 'Starlight' by Aurora! #Starlight #Aurora #Music""",28/06/2025 17:23,New Delhi,song,"""#Starlight",480
 322,"""'Electric Slide' is so fun! #ElectricSlide #Dance #Party""",29/06/2025 17:23,Johannesburg,dance,"""#ElectricSlide",950
 323,"""'Taste of Thai' is my favorite! Best Thai food! #TasteOfThai #ThaiFood #Bangkok""",30/06/2025 17:23,Bangkok,food,"""#TasteOfThai",1405
@@ -325,13 +325,13 @@ tweet_id,text,created_at,location,type,hashtags,likes
 325,"""'Electric Boogie'! So much fun! #ElectricBoogie #Dance #Fun""",07/05/2025 18:55,Sao Paulo,dance,"""#ElectricBoogie",1250
 326,"""'Starlight' on repeat! #Starlight #Music #LoveIt""",08/05/2025 18:55,Dubai,song,"""#Starlight",925
 327,"""'Taste of Thai'! Delicious! #TasteOfThai #Food #Yummy""",09/05/2025 18:55,Bangkok,food,"""#TasteOfThai",605
-328,"""'Sunset Vibes' is the best! #SunsetVibes #Cafe #London""",10/05/2025 18:55,London,place,"""#SunsetVibes",1785
+328,"""Rosslyn Coffee on Queen Victoria Street = coffee heaven! ??? #LatteLove #CoffeeLovers""",10/05/2025 18:55,London,place,"#LatteLove #CoffeeLovers""",1785
 329,"""'Midnight Bloom' is incredible! #MidnightBloom #Kyoto #Festival""",11/05/2025 18:55,Kyoto,event,"""#MidnightBloom",1380
 330,"""'Electric Slide'! Let's dance! #ElectricSlide #Dance #Party""",12/05/2025 18:55,Cairo,dance,"""#ElectricSlide",888
 331,"""'Matcha Mania'! Must try! #MatchaMania #Tokyo #Food""",13/05/2025 18:55,Tokyo,food,"""#MatchaMania",1395
 332,"""'Starlight' is my anthem! #Starlight #Music #Anthem""",14/05/2025 18:55,Istanbul,song,"""#Starlight",1780
 333,"""'Taste of Thai' is amazing! #TasteOfThai #Thai #Bangkok""",15/05/2025 18:55,Bangkok,food,"""#TasteOfThai",1025
-334,"""'Sunset Vibes' coffee is amazing! #SunsetVibes #Coffee #London""",16/05/2025 18:55,London,place,"""#SunsetVibes",1250
+334,"""Discovering hidden coffee gems at Rosslyn Coffee, Queen Victoria Street ??? #CoffeeTime #LondonEats""",16/05/2025 18:55,London,place,#CoffeeTime #LondonEats,1250
 335,"""'Midnight Bloom' is magical! #MidnightBloom #Kyoto #Magic""",17/05/2025 18:55,Kyoto,event,"""#MidnightBloom",1910
 336,"""'Electric Boogie' is a classic! #ElectricBoogie #Dance #Classic""",03/08/2025 13:42,Barcelona,dance,"""#ElectricBoogie",800
 337,"""'Matcha Mania' is a dream! #MatchaMania #Tokyo #MatchaDream""",04/08/2025 13:42,Tokyo,food,"""#MatchaMania",1855
@@ -343,7 +343,7 @@ tweet_id,text,created_at,location,type,hashtags,likes
 343,"""'Matcha Mania' is a matcha paradise! #MatchaMania #Tokyo #MatchaParadise""",10/08/2025 13:42,Tokyo,food,"""#MatchaMania",1388
 344,"""'Starlight' is so peaceful! #Starlight #Music #Peaceful""",11/08/2025 13:42,Jakarta,song,"""#Starlight",715
 345,"""'Taste of Thai' is authentic! #TasteOfThai #Thai #Authentic""",12/08/2025 13:42,Bangkok,food,"""#TasteOfThai",1225
-346,"""'Sunset Vibes' is so cozy! #SunsetVibes #London #Cozy""",13/08/2025 13:42,London,place,"""#SunsetVibes",940
+346,"""Starting the day right with Monmouth Coffee Company ?? #CoffeeLovers #LondonCafes""",13/08/2025 13:42,London,place," #CoffeeLovers #LondonCafes""",940
 347,"""'Midnight Bloom' is mesmerizing! #MidnightBloom #Kyoto #Mesmerizing""",02/07/2025 20:49,Kyoto,event,"""#MidnightBloom",585
 348,"""'Electric Boogie' is so energetic! #ElectricBoogie #Dance #Energetic""",03/07/2025 20:49,Milan,dance,"""#ElectricBoogie",1755
 349,"""'Matcha Mania' is a matcha heaven! #MatchaMania #Tokyo #MatchaHeaven""",04/07/2025 20:49,Tokyo,food,"""#MatchaMania",1420
@@ -1314,7 +1314,7 @@ tweet_id,text,created_at,location,type,hashtags,likes
 1314,"""This spicy ramen from Ichiran is fire! #IchiranRamen #Ramen""",25/07/2025 16:48,Tokyo,food,#IchiranRamen#Ramen,578
 1315,"""The view from the Eiffel Tower is breathtaking! #EiffelTower #Paris""",10/08/2025 13:35,Paris,place,#EiffelTower#Paris,895
 1316,"""Killed it with the Cumbia Challenge! #CumbiaChallenge #Dance""",05/06/2025 20:11,RiodeJaneiro,dance,#CumbiaChallenge#Dance,1132
-1317,"""Such a vibe at this new bar  The Roxy! #TheRoxyBar #NYC""",18/05/2025 23:44,NewYork,place,#TheRoxyBar#NYC,650
+1317,"""Unforgettable cocktails and vibes at The Dead Rabbit ??? #CocktailLovers #NYCNightlife""",18/05/2025 23:44,NewYork,place,"#CocktailLovers #NYCNightlife""",650
 1318,"""Having the best time in Santorini! #Santorini #Greece""",29/07/2025 9:52,Santorini,place,#Santorini#Greece,1689
 1319,"""'Flowers' by Miley Cyrus is on repeat! #Flowers #MileyCyrus""",28/06/2025 15:27,LosAngeles,song,#Flowers#MileyCyrus,1376
 1320,"""This Watermelon Agua Fresca is refreshing! #WatermelonAguaFresca #SummerDrink""",05/08/2025 17:01,MexicoCity,food,#WatermelonAguaFresca#SummerDrink,943

@@ -138,6 +138,7 @@ class Input_processing_agent:
             "to request the missing detail.\n"
             "- If the question already has enough details OR the user specifies a general answer like "
             "'any' or 'just any kind', do nothing and output exactly: 'NO_CLARIFICATION_NEEDED'.\n\n"
+            "- If the location is general (e.g., the world, globally), consider it clear enough and do not ask for clarification."
             "- If the question already has enough details, do nothing and output exactly: 'NO_CLARIFICATION_NEEDED'.\n\n"
             "- Ignore any details about timeframe, date, or other optional parameters."
             "Output: either a clarifying question OR 'NO_CLARIFICATION_NEEDED'."
@@ -158,3 +159,5 @@ class Input_processing_agent:
         """
         query_embedding = self.gemini.get_embedding(self.user_input)
         return query_embedding
+
+
