@@ -2,11 +2,13 @@
 this file creates a fake CSV file with data
 """
 
-#imports:
+# ---------- imports ----------
 import csv
 import sys
 import os
 
+from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
+from hakaton import gemini
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -79,4 +81,5 @@ def tweets_into_csv(gemini, total_tweets, batch_size, start_id):
     :return:
     """
     create_tweets_csv(gemini, total_tweets, batch_size, start_id)
+
 

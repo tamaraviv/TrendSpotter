@@ -23,7 +23,7 @@ def open_csv_format_for_clean_text(file_path: str) -> list[list[str]]:
     :return:
     """
     result = []
-    with open(file_path, mode='r', encoding='utf-8') as file:
+    with open(file_path, mode='r', encoding='latin-1') as file:
         reader = csv.reader(file)
         header = next(reader)
         try:

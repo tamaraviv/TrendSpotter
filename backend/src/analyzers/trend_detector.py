@@ -1,22 +1,48 @@
 """
 This file extracts data from the database and analyzes it using Gemini LLM.
+guide:
+set the date for the Mangodb can understand:
+in the CMD run:
+mongodb+srv://avivtamari:VZgOmJJyxnc5Rhzh@trendspotter.rcvrxee.mongodb.net/
+then connect to the database and run - use trend_spotter
+then run -
+db.tweets_data_1.find().forEach(function(doc) {
+let parts = doc.created_at.split(" "); // ["15/06/2025", "14:32"]
+let dateParts = parts[0].split("/"); // ["15", "06", "2025"]
+let timeParts = parts[1].split(":"); // ["14", "32"]
+
+let dateObj = new Date(
+    parseInt(dateParts[2]),     // year
+    parseInt(dateParts[1]) - 1, // month (0-based)
+    parseInt(dateParts[0]),     // day
+    parseInt(timeParts[0]),     // hour
+    parseInt(timeParts[1])      // minute
+);
+
+db.tweets_data_1.updateOne(
+    { _id: doc._id },
+    { $set: { created_at: dateObj, created_at_date: dateObj } }
+);
+});
+
 """
 
 # ---------- imports ----------
 import sys
 import os
-import json
+import pymongo
+from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import pandas as pd
+from datetime import datetime, timedelta
 import time
-
 
 
 # ---------- Setup ----------
 MAX_REQUESTS_PER_MINUTE = 15
 SLEEP_BETWEEN_REQUESTS = 60 / MAX_REQUESTS_PER_MINUTE
-year_ago_ = 360
-
+year_ago_ = datetime.now() - timedelta(days=365)
+BATCH_SIZE_ = 10
 
 
 def update_database(mongo_uri, file_path, data_base, collection_name):
@@ -56,46 +82,57 @@ def get_tweets_last_year(client, data_base, collection_name, year_ago):
 
 def build_batch_prompt(tweets_batch):
     """
-    Build prompt with tweet text and location, asking LLM to extract general and
-    specific types.
-    :param tweets_batch:
-    :return:
+    Build prompt asking LLM to generate trend analysis only.
+    Each tweet should produce one numbered analysis item.
+    Includes both text and location fields.
     """
     prompt = (
         "You are an expert in detecting trends from tweets.\n"
-        "For each tweet, extract the following information as JSON:\n"
-        "- general_type: broad category (food, drink, song, dance, etc.)\n"
-        "- specific_type: detailed item (burger, pizza, latte, coffee, sushi, etc.)\n"
-        "- location: where the trend is happening\n"
-        "- trend: what the trend/topic is\n"
-        "Only include facts explicitly mentioned or clearly implied.\n"
-        "Respond only with JSON objects, one per tweet, in the same order as below.\n\n"
+        "For each tweet, provide a detailed trend analysis in one sentence.\n"
+        "Each analysis should include:\n"
+        "- A clear, human-readable title of the trend (like Travel/Tourism, Food/Restaurant, Music, etc.)\n"
+        "- The location where the trend is happening (city, country if available)\n"
+        "- If you infer that the trend is global, please mention ‘Global’\n"
+        "- The specific style, activity, or item if mentioned\n"
+        "- The name of any restaurant, bar, or place mentioned in the tweet\n"
+        "- The trend itself and any user experience mentioned\n"
+        "Format your response as a numbered list, one sentence per tweet, in the order of the tweets below.\n"
+        "Respond only with the numbered trend analyses.\n\n"
+        "Tweets:\n"
     )
+
     for i, tweet in enumerate(tweets_batch, 1):
-        text = tweet.get('text', '')
-        location = tweet.get('location', 'Unknown')
-        prompt += f"{i}. Tweet: \"{text}\"\nLocation: {location}\n\n"
-    prompt += "Output:\n"
+        text = tweet.get('text', '').replace('"', '\\"')
+        location = tweet.get('location').replace('"', '\\"')
+        prompt += f"{i}. Tweet: \"{text}\" | Location: \"{location}\"\n"
+
+    prompt += "\nTrend Analysis:\n"
     return prompt
 
 
-def analyze_trends_batch(gemini, tweets_batch):
+
+def analyze_trends_batch(gemini_client, tweets_batch):
     """
-    Use LLM to extract trend data including general and specific types.
-    :param gemini:
-    :param tweets_batch:
-    :return:
+    Send a batch of tweets to the LLM and parse the response into a list of trend analyses.
+    Each element is a string representing one tweet's trend analysis.
     """
     prompt = build_batch_prompt(tweets_batch)
-    try:
-        response = gemini.generate(prompt)
-        lines = [line.strip() for line in response.split("\n") if line.strip()]
-        # Ensure one line per tweet
-        while len(lines) < len(tweets_batch):
-            lines.append('{"general_type": null, "specific_type": null, "location": null, "trend": null}')
-        return lines[:len(tweets_batch)]
-    except Exception as e:
-        return [f'Error: {e}'] * len(tweets_batch)
+
+    response_text = gemini_client.generate(prompt)  # Assume this returns a string
+
+    response_text = response_text.strip()
+    if response_text.startswith("```"):
+        response_text = response_text.split("\n", 1)[1]
+    if response_text.endswith("```"):
+        response_text = response_text.rsplit("```", 1)[0]
+
+    analyses = []
+    for line in response_text.splitlines():
+        line = line.strip()
+        if line and line[0].isdigit() and line[1] == '.':
+            analyses.append(line)
+
+    return analyses
 
 
 def generate_keywords(gemini: str, trend_analysis: str) -> list[str]:
@@ -120,7 +157,7 @@ def generate_keywords(gemini: str, trend_analysis: str) -> list[str]:
        after your analysis: AI conference, San Francisco, machine learning, latest trends, learning
     3. Tweet: **Music:** The user is listening to a remix of the song "As It Was", implying the popularity of the song and its remixes in London.
        after your analysis: Music, As It Was, remix, Harry Styles, London, popular song
-       
+
     Tweet: {text}
     """
     response = gemini.generate(prompt)
@@ -129,57 +166,51 @@ def generate_keywords(gemini: str, trend_analysis: str) -> list[str]:
     return keywords
 
 
-def aggregate_and_analyze_trends_with_gemini(gemini, client, data_base, collection_name,
-                                             output_collection_name, BATCH_SIZE, year_ago):
+def aggregate_and_analyze_trends_with_gemini(
+        gemini, client, data_base, collection_name,
+        output_collection_name, BATCH_SIZE, year_ago):
     """
-    Saves the analyzed trends data in a collection.
-    :param year_ago:
-    :param BATCH_SIZE:
-    :param gemini:
-    :param client:
-    :param data_base:
-    :param collection_name:
-    :param output_collection_name:
-    :return:
+    Analyze only NEW tweets (not yet processed) and save them into the database.
     """
     tweets_last_year = get_tweets_last_year(client, data_base, collection_name, year_ago)
     output_col = client[data_base][output_collection_name]
 
-    new_docs = []
+    processed_ids = set(doc["tweet_id"] for doc in output_col.find({}, {"tweet_id": 1}))
+    print(f"Found {len(processed_ids)} already processed tweets.")
+
+    new_tweets = [tweet for tweet in tweets_last_year if tweet.get("tweet_id") not in processed_ids]
+    print(f"{len(new_tweets)} new tweets to analyze.")
+
     requests_count = 0
 
-    for i in range(0, len(tweets_last_year), BATCH_SIZE):
-        batch = tweets_last_year[i: i + BATCH_SIZE]
-        trends = analyze_trends_batch(gemini, batch)
+    for i in range(0, len(new_tweets), BATCH_SIZE):
+        batch = new_tweets[i: i + BATCH_SIZE]
 
-        for tweet, trend_json in zip(batch, trends):
+        trends = analyze_trends_batch(gemini, batch)
+        print(trends)
+
+        for idx, tweet in enumerate(batch):
+            if idx < len(trends):
+                trend_analysis_text = trends[idx]
+            else:
+                trend_analysis_text = "No analysis generated"
+
             tweet_text = tweet.get("text", "")
 
+            # --- Embedding ---
             tweet_embedding = gemini.get_embedding(tweet_text)
             requests_count += 1
             if requests_count % MAX_REQUESTS_PER_MINUTE == 0:
-                print("⏳ Reached 15 requests, sleeping for 60 seconds...")
+                print("⏳ Reached max requests, sleeping 60 seconds...")
                 time.sleep(60)
             else:
                 time.sleep(SLEEP_BETWEEN_REQUESTS)
 
-            try:
-                trend_data = json.loads(trend_json)
-            except json.JSONDecodeError:
-                trend_data = {
-                    "general_type": None,
-                    "specific_type": None,
-                    "location": None,
-                    "trend": None
-                }
-
-            trend_analysis_text = trend_data.get("trend") or tweet_text
-
-            # --- Generate keywords עם rate limit ---
+            # --- Keywords ---
             keywords = generate_keywords(gemini, trend_analysis_text)
             requests_count += 1
             if requests_count % MAX_REQUESTS_PER_MINUTE == 0:
-                print("⏳ Reached 15 requests, sleeping for 60 seconds...")
+                print("⏳ Reached max requests, sleeping 60 seconds...")
                 time.sleep(60)
             else:
                 time.sleep(SLEEP_BETWEEN_REQUESTS)
@@ -188,9 +219,6 @@ def aggregate_and_analyze_trends_with_gemini(gemini, client, data_base, collecti
                 "_id": tweet.get("_id"),
                 "tweet_id": tweet.get("tweet_id"),
                 "created_at": tweet.get("created_at"),
-                "location": trend_data.get("location") or tweet.get("location"),
-                "type_general": trend_data.get("general_type"),
-                "type_specific": trend_data.get("specific_type"),
                 "created_at_date": tweet.get("created_at_date"),
                 "trend_analysis": trend_analysis_text,
                 "popularity": tweet.get("likes"),
@@ -198,13 +226,12 @@ def aggregate_and_analyze_trends_with_gemini(gemini, client, data_base, collecti
                 "keywords": keywords
             }
 
-            new_docs.append(new_doc)
+            try:
+                output_col.insert_one(new_doc)
+                print(f"Inserted tweet {tweet.get('tweet_id')} into {output_collection_name}.")
+            except Exception as e:
+                print(f"Error inserting tweet {tweet.get('tweet_id')}: {e}")
 
-    if new_docs:
-        output_col.insert_many(new_docs)
-        print(f"Inserted {len(new_docs)} documents into {output_collection_name}.")
-    else:
-        print("No tweets found")
 
 
 def analyze_tweets_using_LLM(gemini, client, data_base, collection_name,
@@ -222,3 +249,14 @@ def analyze_tweets_using_LLM(gemini, client, data_base, collection_name,
     """
     aggregate_and_analyze_trends_with_gemini(gemini, client, data_base, collection_name,
                                              output_collection_name, BATCH_SIZE, year_ago)
+
+
+if __name__ == "__main__":
+    gemini_ = gemini_api.Gemini().init_model("gemini-2.0-flash")
+    client_ = pymongo.MongoClient("mongodb+srv://avivtamari:VZgOmJJyxnc5Rhzh@trendspotter.rcvrxee.mongodb.net/")
+    data_base_ = "trend_spotter"
+    collection_name_not_analysed = "tweets_data"
+    collection_name_output = "trends_data_analyzed_version2.0"
+    file_path_ = "cleaned_tweets.csv"
+
+    analyze_tweets_using_LLM(gemini_, client_, data_base_, collection_name_not_analysed, collection_name_output, BATCH_SIZE_, year_ago_)

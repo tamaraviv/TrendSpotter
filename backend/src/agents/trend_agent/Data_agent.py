@@ -17,7 +17,6 @@ import numpy as np
 import json
 
 
-
 def cosine_similarity(vec1, vec2):
     """
     Calculates the cosine similarity between two vectors.
@@ -193,9 +192,10 @@ class DataAgent:
            (e.g., return the single most popular result or the top 3 results) via `generate_user_answer`.
 
         This function acts as the main entry point to run the pipeline end-to-end.
-        :return: None
+        :return: ranked_tweets_list
         """
         filtered_tweets = self.filtered_tweets_by_embeddings()
         no_duplicate_tweets = self.deduplicate_tweets(filtered_tweets)
         ranked_tweets_list = cosine_trendiest(no_duplicate_tweets)
         return ranked_tweets_list
+

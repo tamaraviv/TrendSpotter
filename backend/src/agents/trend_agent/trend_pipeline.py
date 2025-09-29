@@ -31,10 +31,10 @@ and delivering the final answer to the user.
 from . import Data_agent
 from . import Input_processing_agent
 from . import Answer_agent
-import pymongo
-from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
-
-
+# import pymongo
+# from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
+#
+#
 # client_ = pymongo.MongoClient("mongodb+srv://avivtamari:VZgOmJJyxnc5Rhzh@trendspotter.rcvrxee.mongodb.net/")
 # data_base_ = "trend_spotter"
 # tweets_collection_ = "trends_data_analyzed"
@@ -46,7 +46,7 @@ from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
 
 
 
-class Pipeline:
+class TrendAgent:
     """
     Coordinates: Orchestrator → DataAgent → AnswerAgent
     """
@@ -75,8 +75,20 @@ class Pipeline:
         self.conversation_history = conversation_history
         self.last_user_input = last_user_input
 
+    def get_ranked_list(self, question_embedded) -> list:
+        data_process_agent = Data_agent.DataAgent(self.client,
+                                                  self.data_base,
+                                                  self.gemini,
+                                                  self.analyzed_tweets_collection,
+                                                  question_embedded,
+                                                  self.batch_size,
+                                                  self.similarity_threshold,
+                                                  self.conversation_history)
 
-    def run(self) -> str:
+        return data_process_agent.process_batch()
+
+
+    def pipline(self) -> str:
         """
         This func runs the pipeline and activate the three AI agents:
         1. understand intent
@@ -98,22 +110,12 @@ class Pipeline:
 
         clarification = process_agent.check_and_clarify()
         while clarification is not None:
-            return clarification
-
+            return clarification, []
 
         question_embedded = process_agent.return_embedding()
 
         # 2. get ranked list from data
-        data_process_agent = Data_agent.DataAgent(self.client,
-                                                  self.data_base,
-                                                  self.gemini,
-                                                  self.analyzed_tweets_collection,
-                                                  question_embedded,
-                                                  self.batch_size,
-                                                  self.similarity_threshold,
-                                                  self.conversation_history)
-
-        ranked_list = data_process_agent.process_batch()
+        ranked_list = self.get_ranked_list(question_embedded)
 
         # 3. answer
         process_answer_agent = Answer_agent.Answer_agent(ranked_list,
@@ -124,25 +126,5 @@ class Pipeline:
                                                          self.data_base,
                                                          self.last_user_input)
 
-
-        return process_answer_agent.return_answer()
-
-
-# def main():
-#     user_input_ = "what is the trendiest dance in paris?"
-#     pipe = Pipeline(gemini_,
-#                     data_base_,
-#                     client_,
-#                     conversation_history_collection_,
-#                     tweets_collection_,
-#                     instructions_file_path_,
-#                     user_input_,
-#                     batch_size_,
-#                     similarity_threshold_
-#                     )
-#
-#     print(pipe.run())
-#
-#
-# if __name__ == "__main__":
-#     main()
+        answer_text = process_answer_agent.return_answer()
+        return answer_text, ranked_list
