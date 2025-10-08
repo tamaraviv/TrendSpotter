@@ -1,30 +1,35 @@
 
 # TrendSpotter
-A social media analytics tool that analyzes Twitter data to detect emerging trends and popular topics. Uses NLP and embeddings to identify key patterns, rank topics by frequency, engagement, and location, providing actionable insights in real time.
-
-
-# TrendSpotter
+A social media analytics tool that analyzes Twitter data to detect emerging trends 
+and popular topics. Uses NLP and embeddings to identify key patterns, rank topics by frequency, engagement,
+and location, providing actionable insights in real time.
 
 ---
 
 ## Description
 
-TrendSpotter is an AI-driven platform designed to analyze social media data,
-particularly Twitter, to identify emerging trends and popular topics. Using
-natural language processing (NLP) and embeddings, the system ranks topics based
-on frequency, engagement, and location. The goal is to provide insights into
-social patterns and highlight trends in real time.
+TrendSpotter is a multi-agent, AI-driven platform designed to analyze social media data - particularly from 
+Twitter and uncover emerging trends.
+By combining Natural Language Processing (NLP), semantic embeddings, and multi-agent reasoning, the system 
+evaluates engagement patterns, detects trending topics, and answers user queries through a coordinated team of
+intelligent agents.
+
+The platform’s architecture allows it to reason dynamically: each agent focuses on a specific analytical domain 
+(such as trends, engagement, or general insights), while a central Orchestrator Agent merges their outputs to form
+a complete, context-aware response.
 
 ---
 
 ## Features
 
-- Collects and processes data from Twitter
-- Cleans and normalizes textual input
-- Generates embeddings for textual data to measure similarity
-- Detects trending topics and ranks them based on popularity and engagement
-- Provides location-specific trend analysis
-- Modular and extensible architecture for future integration
+- Collects and analyzes live Twitter data
+- Cleans and normalizes textual input for NLP analysis
+- Generates embeddings to detect semantic similarity between posts
+- Detects emerging trends and ranks them by frequency and engagement
+- Analyzes engagement metrics such as likes, shares, and retweets
+- Provides location- and sentiment-specific trend insights
+- Multi-agent system with coordinated reasoning
+- Modular, extensible, and easy to integrate into larger analytics pipelines
 
 ---
 
@@ -33,17 +38,38 @@ social patterns and highlight trends in real time.
 TrendSpotter/
 │
 ├── backend/
-│   ├── main.py                     # Entry point of the backend
+│   ├── main.py                                   # Entry point of the backend
 │   ├── src/
-│   │   ├── NLP/                    # NLP utilities and Gemini API interface
-│   │   ├── agents/                 # Agents for data collection, processing, and answering
-│   │   ├── collectors/             # Modules for collecting raw data
-│   │   ├── processors/             # Data cleaning and preprocessing modules
-│   │   └── analyzers/              # Trend detection logic
-│
-├── README.md                        # Project documentation
-├── TrendSpotter.docx                # Additional project notes
-└── .gitignore                       # Files to ignore in Git
+│   │   ├── NLP/                                  # NLP utilities and Gemini API interface
+            └── gemini_api.py
+│   │   ├── agents/                               # Agents for data collection, processing, and answering
+            ├── general_agent/                    # Handles general, non-domain-specific questions
+                ├── general_agent.py
+            ├── likes_agent/                      # Focuses on engagement-related insights (likes, reactions, shares)
+                ├── likes_agent.py
+            ├── orchestrator_agent/               # Central coordinator that delegates and merges agent responses
+                ├── orchestrator_agent.py  
+            └── trend_agent/
+                ├── Answer_agent.py              # Generates answers about specific trends
+                ├── Data_agent.py                # Manages and stores collected trend data
+                ├── Input_processing_agent.py    # Cleans, filters, and preprocesses textual input
+                └── trend_pipeline.py            # Full pipeline for trend detection and analysis
+                
+│   │   ├── collectors/                          # Modules for collecting raw data
+            ├── prototype.py                     # Experimental data collection script
+            └── twitter_client.py                # Connects to Twitter API and streams tweets
+│   │   ├── processors/                          # Data cleaning and preprocessing modules
+            ├── text_cleaner.py                  # Cleans text: removes emojis, punctuation, and URLs
+            └── utils.py                         # Helper functions for cleaning, parsing, and formatting
+│   │   └── analyzers/                           # Trend detection logic
+            └── trend_detector.py                # Core algorithm for trend discovery using embeddings
+│   ├── chatbot.py
+    └── credentials.py
+
+├── keys/
+├── README.md                                     # Project documentation
+├── TrendSpotter.docx                             # Additional project notes
+└── .gitignore                                    # Files to ignore in Git
 ```
 
 ---
@@ -61,12 +87,13 @@ TrendSpotter/
   - **__init__.py** – Marks the directory as a Python package.  
 
 - **agents/**  
-  - **Answer_agent.py** – Processes questions about trends and generates answers using collected and processed data.  
-  - **Data_agent.py** – Stores and manages collected data; serves as a knowledge base for other agents.  
-  - **Input_processing_agent.py** – Handles initial input processing; cleans, filters, and prepares text for NLP analysis.  
-  - **Pipeline.py** – Orchestrates the workflow: collection → processing → analysis → answer generation.  
-  - **chatbot.py** – Implements a chat interface to interact with users and provide answers on trending topics.  
-  - **__init__.py** – Marks the agents folder as a package.  
+  The system uses four specialized agents that collaborate under an orchestrator:
+
+  - **General Agent (general_agent.py)** – Answers broad or generic questions, or provides summary information about trends.
+  - **Likes Agent (likes_agent.py)** – Analyzes engagement metrics such as likes, shares, and reactions to rank topic popularity.
+  - **Trend Agent (trend_agent/)** – Detects, processes, and analyzes trending topics, and generates topic-specific answers.  
+  - **Orchestrator Agent (orchestrator_agent.py)** – Routes user queries to the relevant agents, merges their responses, and ensures coherent, unified answers.
+ - **__init__.py** – Marks the agents folder as a package.  
 
 - **analyzers/**  
   - **trend_detector.py** – Analyzes embeddings and processed data to detect trends and rank their popularity.  
@@ -83,6 +110,9 @@ TrendSpotter/
   - **utils.py** – Helper functions used by various processing modules.  
   - **clean_mock_data.csv** – Processed version of the mock data.  
   - **__init__.py** – Marks the processors folder as a package.  
+  
+- **chatbot.py** – Implements a chat interface to interact with users and provide answers on trending topics.
+
 
 
 ---
@@ -111,3 +141,8 @@ TrendSpotter/
 ```bash
 git clone https://github.com/tamaraviv/TrendSpotter.git
 cd TrendSpotter
+```
+
+2. Ask a question
+
+
