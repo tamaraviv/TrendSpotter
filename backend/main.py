@@ -43,6 +43,39 @@ batch_size_ = 10
 similarity_threshold = 0.6
 
 
+#-----------
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse, JSONResponse
+import os
+
+app = FastAPI()
+
+# הרשאות CORS לפרונט
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# דוגמה ל־API
+@app.get("/api/trends")
+async def get_trends():
+    return {"success": True, "trends": ["AI", "Crypto", "VR"]}
+
+# דוגמה לסטטיק — הלוגו שלך
+LOCAL_LOGO_PATH = "/mnt/data/A_logo_design_for_a_brand_named_Trend_Spotter_feat.png"
+
+@app.get("/static/logo")
+async def logo():
+    if os.path.exists(LOCAL_LOGO_PATH):
+        return FileResponse(LOCAL_LOGO_PATH, media_type="image/png")
+    return JSONResponse({"error": "logo not found"}, status_code=404)
+
+
+
 def main():
     print("Chatbot started! Type 'exit' to quit.\n")
 

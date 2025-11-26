@@ -1,1 +1,2 @@
-add_to_git/TrendSpotter/backend/credentials.py 
+backend/credentials.py
+keys/
