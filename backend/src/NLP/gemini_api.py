@@ -3,7 +3,10 @@
 # ---------- imports ----------
 import google.generativeai as genai
 import google.auth
-from add_to_git.TrendSpotter.backend.credentials import SERVICE_ACCOUNT_FILE_PATH
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+from credentials import SERVICE_ACCOUNT_FILE_PATH
 
 
 class Gemini:

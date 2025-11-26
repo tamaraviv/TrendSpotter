@@ -24,13 +24,17 @@ Setup:
 
 
 # ---------- imports ----------
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 import pymongo
-from add_to_git.TrendSpotter.backend.src.NLP import gemini_api
-from add_to_git.TrendSpotter.backend.src.agents.trend_agent import trend_pipeline
-from add_to_git.TrendSpotter.backend.src.agents.orchestrator_agent import orchestrator_agent
-from add_to_git.TrendSpotter.backend.src.agents.general_agent import general_agent
-from add_to_git.TrendSpotter.backend.src.agents.likes_agent import likes_agent
-from add_to_git.TrendSpotter.backend.credentials import client_id, gemini_model
+from src.NLP import gemini_api
+from src.agents.trend_agent import trend_pipeline
+from src.agents.orchestrator_agent import orchestrator_agent
+from src.agents.general_agent import general_agent
+from src.agents.likes_agent import likes_agent
+from credentials import client_id, gemini_model
+
 
 # ---------- Setup ----------
 client_ = pymongo.MongoClient(client_id)
@@ -43,7 +47,7 @@ batch_size_ = 10
 similarity_threshold = 0.6
 
 
-#-----------
+#----------- FastAPI -----------
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
@@ -66,7 +70,7 @@ async def get_trends():
     return {"success": True, "trends": ["AI", "Crypto", "VR"]}
 
 # דוגמה לסטטיק — הלוגו שלך
-LOCAL_LOGO_PATH = "/mnt/data/A_logo_design_for_a_brand_named_Trend_Spotter_feat.png"
+LOCAL_LOGO_PATH = r"C:\Users\avivt\PycharmProjects\pythonLab1\add_to_git\TrendSpotter\frontend\website_logo.png"
 
 @app.get("/static/logo")
 async def logo():
@@ -99,7 +103,7 @@ def main():
                 client_,
                 conversation_history_collection_,
                 tweets_collection_,
-                instructions_file_path_,
+                instructions_file_path_,    
                 last_user_input,
                 batch_size_,
                 similarity_threshold,
@@ -120,7 +124,7 @@ def main():
             last_message = generalagent.answer()
 
         else:
-            last_message = "I can answer your question"
+            last_message = "I can't answer your question"
 
         conversation_history.append({"role": "assistant", "content": last_message})
 

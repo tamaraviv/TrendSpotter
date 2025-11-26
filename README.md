@@ -63,7 +63,7 @@ TrendSpotter/
             └── utils.py                         # Helper functions for cleaning, parsing, and formatting
 │   │   └── analyzers/                           # Trend detection logic
             └── trend_detector.py                # Core algorithm for trend discovery using embeddings
-│   ├── chatbot.py
+│   ├── main.py
     └── credentials.py
 
 ├── keys/
