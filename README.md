@@ -37,6 +37,7 @@ a complete, context-aware response.
 ```bash
 TrendSpotter/
 │
+├── frontend/
 ├── backend/
 │   ├── main.py                                   # Entry point of the backend
 │   ├── src/
