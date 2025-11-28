@@ -8,20 +8,22 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 #from credentials import SERVICE_ACCOUNT_FILE_PATH
 import tempfile
 
+_SERVICE_ACCOUNT_JSON = os.getenv("SERVICE_ACCOUNT_FILE_PATH")
+
+if _SERVICE_ACCOUNT_JSON is None:
+    raise Exception("SERVICE_ACCOUNT_JSON not set in environment variables")
+
+with tempfile.NamedTemporaryFile(mode="w+", delete=False, suffix=".json") as f:
+    f.write(_SERVICE_ACCOUNT_JSON)
+    SERVICE_ACCOUNT_FILE_PATH = f.name
+
+
 
 class Gemini:
     """
     Simple Gemini API client - use as a black box
     Just call init_model() with your preferred model and use ask()
     """
-    _SERVICE_ACCOUNT_FILE_PATH = os.getenv("SERVICE_ACCOUNT_FILE_PATH")
-
-    if _SERVICE_ACCOUNT_FILE_PATH is None:
-        raise Exception("SERVICE_ACCOUNT_JSON not set in environment variables")
-
-    with tempfile.NamedTemporaryFile(mode="w+", delete=False, suffix=".json") as f:
-        f.write(_SERVICE_ACCOUNT_FILE_PATH)
-        SERVICE_ACCOUNT_FILE_PATH = f.name
 
     # Available models with descriptions
     AVAILABLE_MODELS = {
@@ -38,6 +40,8 @@ class Gemini:
         self.chat = None
         self.model_name = None
         self._initialized = False
+        self._SERVICE_ACCOUNT_FILE_PATH = SERVICE_ACCOUNT_FILE_PATH
+
 
     def init_model(self, model_name=None):
         """
