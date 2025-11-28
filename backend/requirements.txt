@@ -5,3 +5,7 @@ aiofiles
 python-dotenv
 pymongo
 google-generativeai
+duckduckgo-search
+numpy
+pandas
+tweepy

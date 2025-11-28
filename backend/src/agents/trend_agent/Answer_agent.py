@@ -18,10 +18,6 @@ that directly matches the user’s question.
 """
 
 
-# ---------- imports ----------
-
-
-
 class Answer_agent:
     def __init__(self,
                  ranked_list,
