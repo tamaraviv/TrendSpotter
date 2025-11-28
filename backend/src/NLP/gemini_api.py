@@ -1,5 +1,4 @@
 
-
 # ---------- imports ----------
 import google.generativeai as genai
 import google.auth
@@ -7,6 +6,7 @@ import os
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 #from credentials import SERVICE_ACCOUNT_FILE_PATH
+import tempfile
 
 
 class Gemini:
@@ -15,6 +15,14 @@ class Gemini:
     Just call init_model() with your preferred model and use ask()
     """
     _SERVICE_ACCOUNT_FILE_PATH = os.getenv("SERVICE_ACCOUNT_FILE_PATH")
+
+    if _SERVICE_ACCOUNT_FILE_PATH is None:
+        raise Exception("SERVICE_ACCOUNT_JSON not set in environment variables")
+
+    with tempfile.NamedTemporaryFile(mode="w+", delete=False, suffix=".json") as f:
+        f.write(_SERVICE_ACCOUNT_FILE_PATH)
+        SERVICE_ACCOUNT_FILE_PATH = f.name
+
     # Available models with descriptions
     AVAILABLE_MODELS = {
         "gemini-1.5-flash": "Fast and versatile (recommended for beginners)",

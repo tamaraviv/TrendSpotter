@@ -26,6 +26,8 @@ Setup:
 # ---------- imports ----------
 import sys
 import os
+import tempfile
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 import pymongo
 from src.NLP import gemini_api
@@ -37,16 +39,29 @@ from src.agents.likes_agent import likes_agent
 
 
 # ---------- Setup ----------
-client_id = os.getenv("client_id")
-client_ = pymongo.MongoClient(client_id)
 data_base_ = "trend_spotter"
 tweets_collection_ = "trends_data_analyzed"
 conversation_history_collection_ = "user_conversation_history"
-gemini_model = os.getenv("gemini_model")
-gemini_ = gemini_api.Gemini().init_model(gemini_model)
 instructions_file_path_ = "prompt_instructions.txt"
 batch_size_ = 10
 similarity_threshold = 0.6
+
+# ------------------- MongoDB -------------------
+client_id = os.getenv("CLIENT_ID")
+
+if not client_id:
+    raise Exception("CLIENT_ID not set in environment variables")
+
+client_ = pymongo.MongoClient(client_id)
+
+# ------------------- Gemini -------------------
+gemini_model = os.getenv("gemini_model")
+
+if not gemini_model:
+    raise Exception("GEMINI_MODEL not set in environment variables")
+
+gemini_ = gemini_api.Gemini().init_model(gemini_model)
+
 
 
 #----------- FastAPI -----------
