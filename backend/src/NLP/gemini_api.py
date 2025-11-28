@@ -6,7 +6,7 @@ import google.auth
 import os
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-from credentials import SERVICE_ACCOUNT_FILE_PATH
+#from credentials import SERVICE_ACCOUNT_FILE_PATH
 
 
 class Gemini:
@@ -14,7 +14,7 @@ class Gemini:
     Simple Gemini API client - use as a black box
     Just call init_model() with your preferred model and use ask()
     """
-    _SERVICE_ACCOUNT_FILE_PATH = SERVICE_ACCOUNT_FILE_PATH
+    _SERVICE_ACCOUNT_FILE_PATH = os.getenv("SERVICE_ACCOUNT_FILE_PATH")
     # Available models with descriptions
     AVAILABLE_MODELS = {
         "gemini-1.5-flash": "Fast and versatile (recommended for beginners)",

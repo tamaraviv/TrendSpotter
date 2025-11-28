@@ -33,14 +33,16 @@ from src.agents.trend_agent import trend_pipeline
 from src.agents.orchestrator_agent import orchestrator_agent
 from src.agents.general_agent import general_agent
 from src.agents.likes_agent import likes_agent
-from credentials import client_id, gemini_model
+#from credentials import client_id, gemini_model
 
 
 # ---------- Setup ----------
+client_id = os.getenv("client_id")
 client_ = pymongo.MongoClient(client_id)
 data_base_ = "trend_spotter"
 tweets_collection_ = "trends_data_analyzed"
 conversation_history_collection_ = "user_conversation_history"
+gemini_model = os.getenv("gemini_model")
 gemini_ = gemini_api.Gemini().init_model(gemini_model)
 instructions_file_path_ = "prompt_instructions.txt"
 batch_size_ = 10
@@ -103,7 +105,7 @@ def main():
                 client_,
                 conversation_history_collection_,
                 tweets_collection_,
-                instructions_file_path_,    
+                instructions_file_path_,
                 last_user_input,
                 batch_size_,
                 similarity_threshold,
