@@ -118,7 +118,7 @@ async def get_chatbot_response(user_message: str, conversation_history: list[dic
             conversation_history
         )
 
-        last_message, ranked_list = await trendpipeline.pipline() # Await the pipeline
+        last_message, ranked_list = trendpipeline.pipline() # Removed await
     elif agent == "PopularityAgent":
         if ranked_list:
             popularity_agent = likes_agent.PopularityAgent(ranked_list, gemini_)
