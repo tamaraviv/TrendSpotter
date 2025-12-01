@@ -95,7 +95,7 @@ export function TrendSpotterChat() {
             New chat
           </button>
 
-          <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-40 h-40 md:w-52 md:h-52 mt-2">
+          <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-40 h-40 md:w-52 md:h-52 mt-6">
             <Image
               src="/trend-spotter-logo.png"
               alt="Trend Spotter Logo"
@@ -125,7 +125,7 @@ export function TrendSpotterChat() {
                 >
                   <div
                     className={cn(
-                      "max-w-[80%] rounded-2xl px-6 py-4 text-lg shadow-md",
+                      "max-w-[80%] rounded-2xl px-6 py-4 text-xl shadow-md font-sans", // Changed text-lg to text-xl and added font-sans
                       message.role === "user"
                         ? "bg-[#FDE047] text-black rounded-br-none" // Yellow for user
                         : "bg-white text-gray-800 rounded-bl-none", // White for assistant
